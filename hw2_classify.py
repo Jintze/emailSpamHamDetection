@@ -1,4 +1,4 @@
-from hw2_prob import *
+# from hw2_prob import *
 import os
 import math
 
@@ -31,7 +31,8 @@ def evaluateEmail():
             # print(probability_spam_words[x])
             if x in probability_spam_words:
                 value = probability_spam_words[x]
-                probOfSpam += math.log(value)
+                # probOfSpam += math.log(value)
+                probOfSpam += value
         
         for line in open("probability_ham_words.txt"): 
             splitLine = line.split(" ")
@@ -45,34 +46,16 @@ def evaluateEmail():
             # print(probability_spam_words[x])
             if x in probability_ham_words:
                 value = probability_ham_words[x]
-                probOfHam += math.log(value)
+                # probOfHam += math.log(value)
+                probOfHam += value
         
-        if probOfHam + math.log(220/259) > probOfSpam + math.log(39/259):
+        # if probOfHam + math.log(220/259) > probOfSpam + math.log(39/259):
+        if probOfHam + 220/259 > probOfSpam + 39/259:
         # if probOfHam > probOfSpam:
             print(file + ' is Ham')
         else:
             print(file + ' is Spam')
-            
-    
-
-    #     for x in range(len(splitWords)):
-    #         wordToWrite = splitWords.pop(0)
-    #         if wordToWrite in probability_spam_words:
-    #             probability_spam_words[wordToWrite] += 1
-    #         else:
-    #             probability_spam_words[wordToWrite] = 1
-                
-    # for x,y in probability_spam_words.items():
-    #     totalWordsNumSpam = totalWordsNumSpam + y
-    # print(totalWordsNumSpam)
-    # for x in probability_spam_words:
-    #     if probability_spam_words[x] == 0:
-    #         probability_spam_words[x] += 1
-    #     probability_spam_words[x] = math.log((probability_spam_words[x])/totalWordsNumSpam)
-    # for x,y in probability_spam_words.items():
-    #     file = open("probability_spam_words.txt", "a")
-    #     file.writelines(str(x) + ' ')
-    #     file.writelines(str(y) + '\n')            
+                   
 
 def main():
     evaluateEmail()
