@@ -1,0 +1,280 @@
+P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('email'|Spam) = 0.006391804944124619
+P('address'|Spam) = 0.005291229258381307
+P('?'|Spam) = 0.002836098882492381
+log P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -59.314721209533836
+
+P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('('|Hpam) = 0.05452421134622874
+P(')'|Hpam) = 0.05652018694015319
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('email'|Hpam) = 0.0003894586524730624
+P('address'|Hpam) = 0.0007951447487991692
+P('?'|Hpam) = 0.004089315850967156
+log P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -64.39554505974601
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('email'|Spam) = 0.006391804944124619
+P('address'|Spam) = 0.005291229258381307
+P('?'|Spam) = 0.002836098882492381
+log P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -59.314721209533836
+
+P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('('|Hpam) = 0.05452421134622874
+P(')'|Hpam) = 0.05652018694015319
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('email'|Hpam) = 0.0003894586524730624
+P('address'|Hpam) = 0.0007951447487991692
+P('?'|Hpam) = 0.004089315850967156
+log P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -64.39554505974601
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('email'|Spam) = 0.006391804944124619
+P('address'|Spam) = 0.005291229258381307
+P('?'|Spam) = 0.002836098882492381
+log2 P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -85.57305414070588
+
+P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('('|Hpam) = 0.05452421134622874
+P(')'|Hpam) = 0.05652018694015319
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('email'|Hpam) = 0.0003894586524730624
+P('address'|Hpam) = 0.0007951447487991692
+P('?'|Hpam) = 0.004089315850967156
+log2 P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -92.90313351303737
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('email'|Spam) = 0.006391804944124619
+P('address'|Spam) = 0.005291229258381307
+P('?'|Spam) = 0.002836098882492381
+log P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -59.314721209533836
+
+P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('('|Hpam) = 0.05452421134622874
+P(')'|Hpam) = 0.05652018694015319
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('email'|Hpam) = 0.0003894586524730624
+P('address'|Hpam) = 0.0007951447487991692
+P('?'|Hpam) = 0.004089315850967156
+log P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -64.39554505974601
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('email'|Spam) = 0.006391804944124619
+P('address'|Spam) = 0.005291229258381307
+P('?'|Spam) = 0.002836098882492381
+log10 P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -25.760056116930315
+
+P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('('|Hpam) = 0.05452421134622874
+P(')'|Hpam) = 0.05652018694015319
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('email'|Hpam) = 0.0003894586524730624
+P('address'|Hpam) = 0.0007951447487991692
+P('?'|Hpam) = 0.004089315850967156
+log10 P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -27.96662987859991
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('email'|Spam) = 0.006391804944124619
+P('address'|Spam) = 0.005291229258381307
+P('?'|Spam) = 0.002836098882492381
+log2 P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -85.57305414070588
+
+P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('('|Hpam) = 0.05452421134622874
+P(')'|Hpam) = 0.05652018694015319
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('email'|Hpam) = 0.0003894586524730624
+P('address'|Hpam) = 0.0007951447487991692
+P('?'|Hpam) = 0.004089315850967156
+log2 P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -92.90313351303737
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('email'|Spam) = 0.006391804944124619
+P('address'|Spam) = 0.005291229258381307
+P('?'|Spam) = 0.002836098882492381
+log2 P(Spam, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -85.57305414070588
+
+P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('('|Hpam) = 0.05452421134622874
+P(')'|Hpam) = 0.05652018694015319
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('email'|Hpam) = 0.0003894586524730624
+P('address'|Hpam) = 0.0007951447487991692
+P('?'|Hpam) = 0.004089315850967156
+log2 P(Ham, Subject: query : melcuk ( melchuk )
+
+doe anybody working email ( ) address igor melcuk ( melchuk ) ?
+) = -92.90313351303737
+
+Conclusion: This message is classified as Spam.

@@ -1,0 +1,1148 @@
+P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.03352522858110396
+P('code'|Spam) = 0.0033017270572299356
+P(''|Spam) = 0.006942092786996275
+P('establish'|Spam) = 0.0005926176769387064
+P('represent'|Spam) = 0.0007619370132069082
+P('computer'|Spam) = 0.0007196071791398578
+P('database'|Spam) = 8.465966813410092e-05
+P('information'|Spam) = 0.002412800541821876
+P('exchange'|Spam) = 4.232983406705046e-05
+P('?'|Spam) = 0.011344395529969523
+P('is'|Spam) = 0.0005079580088046055
+P('international'|Spam) = 0.0003386386725364037
+P('('|Spam) = 0.02074161869285472
+P(')'|Spam) = 0.023493057907213004
+P('write'|Spam) = 0.00042329834067050457
+P('form'|Spam) = 0.004910260751777853
+P('.'|Spam) = 1.2006857433118863
+P('best'|Spam) = 0.0015238740264138164
+P('-'|Spam) = 0.09422621063325431
+P('publish'|Spam) = 0.0007619370132069082
+P(','|Spam) = 0.16445140535049102
+P('inc'|Spam) = 0.0003386386725364037
+P('however'|Spam) = 0.00021164917033525228
+P('13'|Spam) = 0.00012698950220115136
+P('leave'|Spam) = 0.00025397900440230273
+P('3'|Spam) = 0.002328140873687775
+P('two'|Spam) = 0.0005079580088046055
+P('reference'|Spam) = 4.232983406705046e-05
+P('8'|Spam) = 0.0008465966813410091
+P('directly'|Spam) = 0.00016931933626820184
+P('"'|Spam) = 0.03521842194378598
+P('name'|Spam) = 0.006010836437521165
+P('various'|Spam) = 8.465966813410092e-05
+P('etc'|Spam) = 0.00042329834067050457
+P('country'|Spam) = 0.0005079580088046055
+P('present'|Spam) = 8.465966813410092e-05
+P('three'|Spam) = 0.00025397900440230273
+P('different'|Spam) = 0.0016085336945479173
+P('world'|Spam) = 0.0011429055198103623
+P('interest'|Spam) = 0.0006349475110057569
+P('brian'|Spam) = 4.232983406705046e-05
+P('<'|Spam) = 8.465966813410092e-05
+P('@'|Spam) = 0.001015916017609211
+P('ca'|Spam) = 0.00042329834067050457
+P('>'|Spam) = 0.0030900778868946832
+P('p'|Spam) = 0.00012698950220115136
+P('s'|Spam) = 0.0013545546901456147
+P('number'|Spam) = 0.001015916017609211
+P('='|Spam) = 0.0076193701320690825
+P('20'|Spam) = 0.00046562817473755504
+P('list'|Spam) = 0.002412800541821876
+P('e'|Spam) = 0.0013122248560785642
+P('/'|Spam) = 0.006434134778191669
+P('f'|Spam) = 0.00016931933626820184
+log P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -372.10803936927596
+
+P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.06555887316629884
+P('standard'|Hpam) = 0.0014280150590678957
+P('code'|Hpam) = 0.0003894586524730625
+P('language'|Hpam) = 0.06659742957289368
+P('dialect'|Hpam) = 0.002839802674282747
+P(''|Hpam) = 0.01440997014150331
+P('alphabetic'|Hpam) = 4.868233155913281e-05
+P('establish'|Hpam) = 0.0002596391016487083
+P('represent'|Hpam) = 0.0018499285992470465
+P('computer'|Hpam) = 0.00034077632091392964
+P('database'|Hpam) = 0.00027586654550175254
+P('information'|Hpam) = 0.0017038816045696482
+P('exchange'|Hpam) = 0.00011359210697130988
+P('?'|Hpam) = 0.016357263403868623
+P('is'|Hpam) = 0.0018012462676879138
+P('international'|Hpam) = 0.002012203037777489
+P('('|Hpam) = 0.0908736855770479
+P(')'|Hpam) = 0.09420031156692198
+P('speak'|Hpam) = 0.0033590808775801635
+P('utterance'|Hpam) = 6.490977541217708e-05
+P('oppose'|Hpam) = 0.0001460469946773984
+P('write'|Hpam) = 0.0010385564065948333
+P('form'|Hpam) = 0.0049331429313254575
+P('.'|Hpam) = 1.0958392833960793
+P('best'|Hpam) = 0.00012981955082435416
+P('cornell'|Hpam) = 0.00016227443853044268
+P('-'|Hpam) = 0.06413085810723095
+P('sil'|Hpam) = 9.73646631182656e-05
+P('archive'|Hpam) = 6.490977541217708e-05
+P('publish'|Hpam) = 0.0023854342463975075
+P('ethnologue'|Hpam) = 1.622744385304427e-05
+P('bible'|Hpam) = 8.113721926522134e-05
+P('translator'|Hpam) = 9.73646631182656e-05
+P(','|Hpam) = 0.31440672465273267
+P('inc'|Hpam) = 6.490977541217708e-05
+P('however'|Hpam) = 0.0005030507594443723
+P('status'|Hpam) = 0.00012981955082435416
+P('correspond'|Hpam) = 4.86823315591328e-05
+P('ideally'|Hpam) = 1.622744385304427e-05
+P('13'|Hpam) = 0.00017850188238348696
+P('bit'|Hpam) = 9.73646631182656e-05
+P('describe'|Hpam) = 0.0003894586524730624
+P('leave'|Hpam) = 0.00027586654550175254
+P('3'|Hpam) = 0.0017687913799818253
+P('two'|Hpam) = 0.0032617162144618983
+P('byte'|Hpam) = 1.622744385304427e-05
+P('reference'|Hpam) = 0.000908736855770479
+P('8'|Hpam) = 0.00027586654550175254
+P('organization'|Hpam) = 9.73646631182656e-05
+P('relevant'|Hpam) = 0.0003083214332078411
+P('neither'|Hpam) = 9.73646631182656e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('directly'|Hpam) = 0.0002920939893547968
+P('1988'|Hpam) = 0.0003894586524730625
+P('"'|Hpam) = 0.07120602362715825
+P('representation'|Hpam) = 0.0004543684278852395
+P('name'|Hpam) = 0.0011034661820070102
+P('character'|Hpam) = 8.113721926522134e-05
+P('distinguish'|Hpam) = 3.245488770608854e-05
+P('various'|Hpam) = 0.0003732312086200182
+P('chinese'|Hpam) = 0.0010710112943009217
+P('mandarin'|Hpam) = 0.00017850188238348696
+P('cantonese'|Hpam) = 3.245488770608854e-05
+P('etc'|Hpam) = 0.0008600545242113463
+P('country'|Hpam) = 0.0005355056471504609
+P('present'|Hpam) = 0.00042191354017915097
+P('three'|Hpam) = 0.0005192782032974166
+P('different'|Hpam) = 0.0015253797221861612
+P('world'|Hpam) = 0.0004543684278852395
+P('identify'|Hpam) = 0.0001947293262365312
+P('associate'|Hpam) = 0.00017850188238348696
+P('interest'|Hpam) = 0.0017363364922757367
+P('brian'|Hpam) = 4.86823315591328e-05
+P('<'|Hpam) = 0.0006328703102687265
+P('@'|Hpam) = 0.0025801635726340386
+P('ca'|Hpam) = 0.00021095677008957549
+P('>'|Hpam) = 0.005549785797741139
+P('p'|Hpam) = 0.0004056860963261067
+P('s'|Hpam) = 0.0014117876152148514
+P('number'|Hpam) = 0.000908736855770479
+P('='|Hpam) = 0.02599636505257692
+P('20'|Hpam) = 0.0005030507594443723
+P('english'|Hpam) = 0.002174477476307932
+P('list'|Hpam) = 0.0011196936258600545
+P('annex'|Hpam) = 1.622744385304427e-05
+P('e'|Hpam) = 0.0016389718291574711
+P('/'|Hpam) = 0.006377385434246398
+P('f'|Hpam) = 0.0002920939893547968
+log P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -654.1431012182916
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.03352522858110396
+P('code'|Spam) = 0.0033017270572299356
+P(''|Spam) = 0.006942092786996275
+P('establish'|Spam) = 0.0005926176769387064
+P('represent'|Spam) = 0.0007619370132069082
+P('computer'|Spam) = 0.0007196071791398578
+P('database'|Spam) = 8.465966813410092e-05
+P('information'|Spam) = 0.002412800541821876
+P('exchange'|Spam) = 4.232983406705046e-05
+P('?'|Spam) = 0.011344395529969523
+P('is'|Spam) = 0.0005079580088046055
+P('international'|Spam) = 0.0003386386725364037
+P('('|Spam) = 0.02074161869285472
+P(')'|Spam) = 0.023493057907213004
+P('write'|Spam) = 0.00042329834067050457
+P('form'|Spam) = 0.004910260751777853
+P('.'|Spam) = 1.2006857433118863
+P('best'|Spam) = 0.0015238740264138164
+P('-'|Spam) = 0.09422621063325431
+P('publish'|Spam) = 0.0007619370132069082
+P(','|Spam) = 0.16445140535049102
+P('inc'|Spam) = 0.0003386386725364037
+P('however'|Spam) = 0.00021164917033525228
+P('13'|Spam) = 0.00012698950220115136
+P('leave'|Spam) = 0.00025397900440230273
+P('3'|Spam) = 0.002328140873687775
+P('two'|Spam) = 0.0005079580088046055
+P('reference'|Spam) = 4.232983406705046e-05
+P('8'|Spam) = 0.0008465966813410091
+P('directly'|Spam) = 0.00016931933626820184
+P('"'|Spam) = 0.03521842194378598
+P('name'|Spam) = 0.006010836437521165
+P('various'|Spam) = 8.465966813410092e-05
+P('etc'|Spam) = 0.00042329834067050457
+P('country'|Spam) = 0.0005079580088046055
+P('present'|Spam) = 8.465966813410092e-05
+P('three'|Spam) = 0.00025397900440230273
+P('different'|Spam) = 0.0016085336945479173
+P('world'|Spam) = 0.0011429055198103623
+P('interest'|Spam) = 0.0006349475110057569
+P('brian'|Spam) = 4.232983406705046e-05
+P('<'|Spam) = 8.465966813410092e-05
+P('@'|Spam) = 0.001015916017609211
+P('ca'|Spam) = 0.00042329834067050457
+P('>'|Spam) = 0.0030900778868946832
+P('p'|Spam) = 0.00012698950220115136
+P('s'|Spam) = 0.0013545546901456147
+P('number'|Spam) = 0.001015916017609211
+P('='|Spam) = 0.0076193701320690825
+P('20'|Spam) = 0.00046562817473755504
+P('list'|Spam) = 0.002412800541821876
+P('e'|Spam) = 0.0013122248560785642
+P('/'|Spam) = 0.006434134778191669
+P('f'|Spam) = 0.00016931933626820184
+log P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -372.10803936927596
+
+P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.06555887316629884
+P('standard'|Hpam) = 0.0014280150590678957
+P('code'|Hpam) = 0.0003894586524730625
+P('language'|Hpam) = 0.06659742957289368
+P('dialect'|Hpam) = 0.002839802674282747
+P(''|Hpam) = 0.01440997014150331
+P('alphabetic'|Hpam) = 4.868233155913281e-05
+P('establish'|Hpam) = 0.0002596391016487083
+P('represent'|Hpam) = 0.0018499285992470465
+P('computer'|Hpam) = 0.00034077632091392964
+P('database'|Hpam) = 0.00027586654550175254
+P('information'|Hpam) = 0.0017038816045696482
+P('exchange'|Hpam) = 0.00011359210697130988
+P('?'|Hpam) = 0.016357263403868623
+P('is'|Hpam) = 0.0018012462676879138
+P('international'|Hpam) = 0.002012203037777489
+P('('|Hpam) = 0.0908736855770479
+P(')'|Hpam) = 0.09420031156692198
+P('speak'|Hpam) = 0.0033590808775801635
+P('utterance'|Hpam) = 6.490977541217708e-05
+P('oppose'|Hpam) = 0.0001460469946773984
+P('write'|Hpam) = 0.0010385564065948333
+P('form'|Hpam) = 0.0049331429313254575
+P('.'|Hpam) = 1.0958392833960793
+P('best'|Hpam) = 0.00012981955082435416
+P('cornell'|Hpam) = 0.00016227443853044268
+P('-'|Hpam) = 0.06413085810723095
+P('sil'|Hpam) = 9.73646631182656e-05
+P('archive'|Hpam) = 6.490977541217708e-05
+P('publish'|Hpam) = 0.0023854342463975075
+P('ethnologue'|Hpam) = 1.622744385304427e-05
+P('bible'|Hpam) = 8.113721926522134e-05
+P('translator'|Hpam) = 9.73646631182656e-05
+P(','|Hpam) = 0.31440672465273267
+P('inc'|Hpam) = 6.490977541217708e-05
+P('however'|Hpam) = 0.0005030507594443723
+P('status'|Hpam) = 0.00012981955082435416
+P('correspond'|Hpam) = 4.86823315591328e-05
+P('ideally'|Hpam) = 1.622744385304427e-05
+P('13'|Hpam) = 0.00017850188238348696
+P('bit'|Hpam) = 9.73646631182656e-05
+P('describe'|Hpam) = 0.0003894586524730624
+P('leave'|Hpam) = 0.00027586654550175254
+P('3'|Hpam) = 0.0017687913799818253
+P('two'|Hpam) = 0.0032617162144618983
+P('byte'|Hpam) = 1.622744385304427e-05
+P('reference'|Hpam) = 0.000908736855770479
+P('8'|Hpam) = 0.00027586654550175254
+P('organization'|Hpam) = 9.73646631182656e-05
+P('relevant'|Hpam) = 0.0003083214332078411
+P('neither'|Hpam) = 9.73646631182656e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('directly'|Hpam) = 0.0002920939893547968
+P('1988'|Hpam) = 0.0003894586524730625
+P('"'|Hpam) = 0.07120602362715825
+P('representation'|Hpam) = 0.0004543684278852395
+P('name'|Hpam) = 0.0011034661820070102
+P('character'|Hpam) = 8.113721926522134e-05
+P('distinguish'|Hpam) = 3.245488770608854e-05
+P('various'|Hpam) = 0.0003732312086200182
+P('chinese'|Hpam) = 0.0010710112943009217
+P('mandarin'|Hpam) = 0.00017850188238348696
+P('cantonese'|Hpam) = 3.245488770608854e-05
+P('etc'|Hpam) = 0.0008600545242113463
+P('country'|Hpam) = 0.0005355056471504609
+P('present'|Hpam) = 0.00042191354017915097
+P('three'|Hpam) = 0.0005192782032974166
+P('different'|Hpam) = 0.0015253797221861612
+P('world'|Hpam) = 0.0004543684278852395
+P('identify'|Hpam) = 0.0001947293262365312
+P('associate'|Hpam) = 0.00017850188238348696
+P('interest'|Hpam) = 0.0017363364922757367
+P('brian'|Hpam) = 4.86823315591328e-05
+P('<'|Hpam) = 0.0006328703102687265
+P('@'|Hpam) = 0.0025801635726340386
+P('ca'|Hpam) = 0.00021095677008957549
+P('>'|Hpam) = 0.005549785797741139
+P('p'|Hpam) = 0.0004056860963261067
+P('s'|Hpam) = 0.0014117876152148514
+P('number'|Hpam) = 0.000908736855770479
+P('='|Hpam) = 0.02599636505257692
+P('20'|Hpam) = 0.0005030507594443723
+P('english'|Hpam) = 0.002174477476307932
+P('list'|Hpam) = 0.0011196936258600545
+P('annex'|Hpam) = 1.622744385304427e-05
+P('e'|Hpam) = 0.0016389718291574711
+P('/'|Hpam) = 0.006377385434246398
+P('f'|Hpam) = 0.0002920939893547968
+log P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -654.1431012182916
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.03352522858110396
+P('code'|Spam) = 0.0033017270572299356
+P(''|Spam) = 0.006942092786996275
+P('establish'|Spam) = 0.0005926176769387064
+P('represent'|Spam) = 0.0007619370132069082
+P('computer'|Spam) = 0.0007196071791398578
+P('database'|Spam) = 8.465966813410092e-05
+P('information'|Spam) = 0.002412800541821876
+P('exchange'|Spam) = 4.232983406705046e-05
+P('?'|Spam) = 0.011344395529969523
+P('is'|Spam) = 0.0005079580088046055
+P('international'|Spam) = 0.0003386386725364037
+P('('|Spam) = 0.02074161869285472
+P(')'|Spam) = 0.023493057907213004
+P('write'|Spam) = 0.00042329834067050457
+P('form'|Spam) = 0.004910260751777853
+P('.'|Spam) = 1.2006857433118863
+P('best'|Spam) = 0.0015238740264138164
+P('-'|Spam) = 0.09422621063325431
+P('publish'|Spam) = 0.0007619370132069082
+P(','|Spam) = 0.16445140535049102
+P('inc'|Spam) = 0.0003386386725364037
+P('however'|Spam) = 0.00021164917033525228
+P('13'|Spam) = 0.00012698950220115136
+P('leave'|Spam) = 0.00025397900440230273
+P('3'|Spam) = 0.002328140873687775
+P('two'|Spam) = 0.0005079580088046055
+P('reference'|Spam) = 4.232983406705046e-05
+P('8'|Spam) = 0.0008465966813410091
+P('directly'|Spam) = 0.00016931933626820184
+P('"'|Spam) = 0.03521842194378598
+P('name'|Spam) = 0.006010836437521165
+P('various'|Spam) = 8.465966813410092e-05
+P('etc'|Spam) = 0.00042329834067050457
+P('country'|Spam) = 0.0005079580088046055
+P('present'|Spam) = 8.465966813410092e-05
+P('three'|Spam) = 0.00025397900440230273
+P('different'|Spam) = 0.0016085336945479173
+P('world'|Spam) = 0.0011429055198103623
+P('interest'|Spam) = 0.0006349475110057569
+P('brian'|Spam) = 4.232983406705046e-05
+P('<'|Spam) = 8.465966813410092e-05
+P('@'|Spam) = 0.001015916017609211
+P('ca'|Spam) = 0.00042329834067050457
+P('>'|Spam) = 0.0030900778868946832
+P('p'|Spam) = 0.00012698950220115136
+P('s'|Spam) = 0.0013545546901456147
+P('number'|Spam) = 0.001015916017609211
+P('='|Spam) = 0.0076193701320690825
+P('20'|Spam) = 0.00046562817473755504
+P('list'|Spam) = 0.002412800541821876
+P('e'|Spam) = 0.0013122248560785642
+P('/'|Spam) = 0.006434134778191669
+P('f'|Spam) = 0.00016931933626820184
+log2 P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -536.8384230729695
+
+P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.06555887316629884
+P('standard'|Hpam) = 0.0014280150590678957
+P('code'|Hpam) = 0.0003894586524730625
+P('language'|Hpam) = 0.06659742957289368
+P('dialect'|Hpam) = 0.002839802674282747
+P(''|Hpam) = 0.01440997014150331
+P('alphabetic'|Hpam) = 4.868233155913281e-05
+P('establish'|Hpam) = 0.0002596391016487083
+P('represent'|Hpam) = 0.0018499285992470465
+P('computer'|Hpam) = 0.00034077632091392964
+P('database'|Hpam) = 0.00027586654550175254
+P('information'|Hpam) = 0.0017038816045696482
+P('exchange'|Hpam) = 0.00011359210697130988
+P('?'|Hpam) = 0.016357263403868623
+P('is'|Hpam) = 0.0018012462676879138
+P('international'|Hpam) = 0.002012203037777489
+P('('|Hpam) = 0.0908736855770479
+P(')'|Hpam) = 0.09420031156692198
+P('speak'|Hpam) = 0.0033590808775801635
+P('utterance'|Hpam) = 6.490977541217708e-05
+P('oppose'|Hpam) = 0.0001460469946773984
+P('write'|Hpam) = 0.0010385564065948333
+P('form'|Hpam) = 0.0049331429313254575
+P('.'|Hpam) = 1.0958392833960793
+P('best'|Hpam) = 0.00012981955082435416
+P('cornell'|Hpam) = 0.00016227443853044268
+P('-'|Hpam) = 0.06413085810723095
+P('sil'|Hpam) = 9.73646631182656e-05
+P('archive'|Hpam) = 6.490977541217708e-05
+P('publish'|Hpam) = 0.0023854342463975075
+P('ethnologue'|Hpam) = 1.622744385304427e-05
+P('bible'|Hpam) = 8.113721926522134e-05
+P('translator'|Hpam) = 9.73646631182656e-05
+P(','|Hpam) = 0.31440672465273267
+P('inc'|Hpam) = 6.490977541217708e-05
+P('however'|Hpam) = 0.0005030507594443723
+P('status'|Hpam) = 0.00012981955082435416
+P('correspond'|Hpam) = 4.86823315591328e-05
+P('ideally'|Hpam) = 1.622744385304427e-05
+P('13'|Hpam) = 0.00017850188238348696
+P('bit'|Hpam) = 9.73646631182656e-05
+P('describe'|Hpam) = 0.0003894586524730624
+P('leave'|Hpam) = 0.00027586654550175254
+P('3'|Hpam) = 0.0017687913799818253
+P('two'|Hpam) = 0.0032617162144618983
+P('byte'|Hpam) = 1.622744385304427e-05
+P('reference'|Hpam) = 0.000908736855770479
+P('8'|Hpam) = 0.00027586654550175254
+P('organization'|Hpam) = 9.73646631182656e-05
+P('relevant'|Hpam) = 0.0003083214332078411
+P('neither'|Hpam) = 9.73646631182656e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('directly'|Hpam) = 0.0002920939893547968
+P('1988'|Hpam) = 0.0003894586524730625
+P('"'|Hpam) = 0.07120602362715825
+P('representation'|Hpam) = 0.0004543684278852395
+P('name'|Hpam) = 0.0011034661820070102
+P('character'|Hpam) = 8.113721926522134e-05
+P('distinguish'|Hpam) = 3.245488770608854e-05
+P('various'|Hpam) = 0.0003732312086200182
+P('chinese'|Hpam) = 0.0010710112943009217
+P('mandarin'|Hpam) = 0.00017850188238348696
+P('cantonese'|Hpam) = 3.245488770608854e-05
+P('etc'|Hpam) = 0.0008600545242113463
+P('country'|Hpam) = 0.0005355056471504609
+P('present'|Hpam) = 0.00042191354017915097
+P('three'|Hpam) = 0.0005192782032974166
+P('different'|Hpam) = 0.0015253797221861612
+P('world'|Hpam) = 0.0004543684278852395
+P('identify'|Hpam) = 0.0001947293262365312
+P('associate'|Hpam) = 0.00017850188238348696
+P('interest'|Hpam) = 0.0017363364922757367
+P('brian'|Hpam) = 4.86823315591328e-05
+P('<'|Hpam) = 0.0006328703102687265
+P('@'|Hpam) = 0.0025801635726340386
+P('ca'|Hpam) = 0.00021095677008957549
+P('>'|Hpam) = 0.005549785797741139
+P('p'|Hpam) = 0.0004056860963261067
+P('s'|Hpam) = 0.0014117876152148514
+P('number'|Hpam) = 0.000908736855770479
+P('='|Hpam) = 0.02599636505257692
+P('20'|Hpam) = 0.0005030507594443723
+P('english'|Hpam) = 0.002174477476307932
+P('list'|Hpam) = 0.0011196936258600545
+P('annex'|Hpam) = 1.622744385304427e-05
+P('e'|Hpam) = 0.0016389718291574711
+P('/'|Hpam) = 0.006377385434246398
+P('f'|Hpam) = 0.0002920939893547968
+log2 P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -943.729008159356
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.03352522858110396
+P('code'|Spam) = 0.0033017270572299356
+P(''|Spam) = 0.006942092786996275
+P('establish'|Spam) = 0.0005926176769387064
+P('represent'|Spam) = 0.0007619370132069082
+P('computer'|Spam) = 0.0007196071791398578
+P('database'|Spam) = 8.465966813410092e-05
+P('information'|Spam) = 0.002412800541821876
+P('exchange'|Spam) = 4.232983406705046e-05
+P('?'|Spam) = 0.011344395529969523
+P('is'|Spam) = 0.0005079580088046055
+P('international'|Spam) = 0.0003386386725364037
+P('('|Spam) = 0.02074161869285472
+P(')'|Spam) = 0.023493057907213004
+P('write'|Spam) = 0.00042329834067050457
+P('form'|Spam) = 0.004910260751777853
+P('.'|Spam) = 1.2006857433118863
+P('best'|Spam) = 0.0015238740264138164
+P('-'|Spam) = 0.09422621063325431
+P('publish'|Spam) = 0.0007619370132069082
+P(','|Spam) = 0.16445140535049102
+P('inc'|Spam) = 0.0003386386725364037
+P('however'|Spam) = 0.00021164917033525228
+P('13'|Spam) = 0.00012698950220115136
+P('leave'|Spam) = 0.00025397900440230273
+P('3'|Spam) = 0.002328140873687775
+P('two'|Spam) = 0.0005079580088046055
+P('reference'|Spam) = 4.232983406705046e-05
+P('8'|Spam) = 0.0008465966813410091
+P('directly'|Spam) = 0.00016931933626820184
+P('"'|Spam) = 0.03521842194378598
+P('name'|Spam) = 0.006010836437521165
+P('various'|Spam) = 8.465966813410092e-05
+P('etc'|Spam) = 0.00042329834067050457
+P('country'|Spam) = 0.0005079580088046055
+P('present'|Spam) = 8.465966813410092e-05
+P('three'|Spam) = 0.00025397900440230273
+P('different'|Spam) = 0.0016085336945479173
+P('world'|Spam) = 0.0011429055198103623
+P('interest'|Spam) = 0.0006349475110057569
+P('brian'|Spam) = 4.232983406705046e-05
+P('<'|Spam) = 8.465966813410092e-05
+P('@'|Spam) = 0.001015916017609211
+P('ca'|Spam) = 0.00042329834067050457
+P('>'|Spam) = 0.0030900778868946832
+P('p'|Spam) = 0.00012698950220115136
+P('s'|Spam) = 0.0013545546901456147
+P('number'|Spam) = 0.001015916017609211
+P('='|Spam) = 0.0076193701320690825
+P('20'|Spam) = 0.00046562817473755504
+P('list'|Spam) = 0.002412800541821876
+P('e'|Spam) = 0.0013122248560785642
+P('/'|Spam) = 0.006434134778191669
+P('f'|Spam) = 0.00016931933626820184
+log P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -372.10803936927596
+
+P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.06555887316629884
+P('standard'|Hpam) = 0.0014280150590678957
+P('code'|Hpam) = 0.0003894586524730625
+P('language'|Hpam) = 0.06659742957289368
+P('dialect'|Hpam) = 0.002839802674282747
+P(''|Hpam) = 0.01440997014150331
+P('alphabetic'|Hpam) = 4.868233155913281e-05
+P('establish'|Hpam) = 0.0002596391016487083
+P('represent'|Hpam) = 0.0018499285992470465
+P('computer'|Hpam) = 0.00034077632091392964
+P('database'|Hpam) = 0.00027586654550175254
+P('information'|Hpam) = 0.0017038816045696482
+P('exchange'|Hpam) = 0.00011359210697130988
+P('?'|Hpam) = 0.016357263403868623
+P('is'|Hpam) = 0.0018012462676879138
+P('international'|Hpam) = 0.002012203037777489
+P('('|Hpam) = 0.0908736855770479
+P(')'|Hpam) = 0.09420031156692198
+P('speak'|Hpam) = 0.0033590808775801635
+P('utterance'|Hpam) = 6.490977541217708e-05
+P('oppose'|Hpam) = 0.0001460469946773984
+P('write'|Hpam) = 0.0010385564065948333
+P('form'|Hpam) = 0.0049331429313254575
+P('.'|Hpam) = 1.0958392833960793
+P('best'|Hpam) = 0.00012981955082435416
+P('cornell'|Hpam) = 0.00016227443853044268
+P('-'|Hpam) = 0.06413085810723095
+P('sil'|Hpam) = 9.73646631182656e-05
+P('archive'|Hpam) = 6.490977541217708e-05
+P('publish'|Hpam) = 0.0023854342463975075
+P('ethnologue'|Hpam) = 1.622744385304427e-05
+P('bible'|Hpam) = 8.113721926522134e-05
+P('translator'|Hpam) = 9.73646631182656e-05
+P(','|Hpam) = 0.31440672465273267
+P('inc'|Hpam) = 6.490977541217708e-05
+P('however'|Hpam) = 0.0005030507594443723
+P('status'|Hpam) = 0.00012981955082435416
+P('correspond'|Hpam) = 4.86823315591328e-05
+P('ideally'|Hpam) = 1.622744385304427e-05
+P('13'|Hpam) = 0.00017850188238348696
+P('bit'|Hpam) = 9.73646631182656e-05
+P('describe'|Hpam) = 0.0003894586524730624
+P('leave'|Hpam) = 0.00027586654550175254
+P('3'|Hpam) = 0.0017687913799818253
+P('two'|Hpam) = 0.0032617162144618983
+P('byte'|Hpam) = 1.622744385304427e-05
+P('reference'|Hpam) = 0.000908736855770479
+P('8'|Hpam) = 0.00027586654550175254
+P('organization'|Hpam) = 9.73646631182656e-05
+P('relevant'|Hpam) = 0.0003083214332078411
+P('neither'|Hpam) = 9.73646631182656e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('directly'|Hpam) = 0.0002920939893547968
+P('1988'|Hpam) = 0.0003894586524730625
+P('"'|Hpam) = 0.07120602362715825
+P('representation'|Hpam) = 0.0004543684278852395
+P('name'|Hpam) = 0.0011034661820070102
+P('character'|Hpam) = 8.113721926522134e-05
+P('distinguish'|Hpam) = 3.245488770608854e-05
+P('various'|Hpam) = 0.0003732312086200182
+P('chinese'|Hpam) = 0.0010710112943009217
+P('mandarin'|Hpam) = 0.00017850188238348696
+P('cantonese'|Hpam) = 3.245488770608854e-05
+P('etc'|Hpam) = 0.0008600545242113463
+P('country'|Hpam) = 0.0005355056471504609
+P('present'|Hpam) = 0.00042191354017915097
+P('three'|Hpam) = 0.0005192782032974166
+P('different'|Hpam) = 0.0015253797221861612
+P('world'|Hpam) = 0.0004543684278852395
+P('identify'|Hpam) = 0.0001947293262365312
+P('associate'|Hpam) = 0.00017850188238348696
+P('interest'|Hpam) = 0.0017363364922757367
+P('brian'|Hpam) = 4.86823315591328e-05
+P('<'|Hpam) = 0.0006328703102687265
+P('@'|Hpam) = 0.0025801635726340386
+P('ca'|Hpam) = 0.00021095677008957549
+P('>'|Hpam) = 0.005549785797741139
+P('p'|Hpam) = 0.0004056860963261067
+P('s'|Hpam) = 0.0014117876152148514
+P('number'|Hpam) = 0.000908736855770479
+P('='|Hpam) = 0.02599636505257692
+P('20'|Hpam) = 0.0005030507594443723
+P('english'|Hpam) = 0.002174477476307932
+P('list'|Hpam) = 0.0011196936258600545
+P('annex'|Hpam) = 1.622744385304427e-05
+P('e'|Hpam) = 0.0016389718291574711
+P('/'|Hpam) = 0.006377385434246398
+P('f'|Hpam) = 0.0002920939893547968
+log P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -654.1431012182916
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.03352522858110396
+P('code'|Spam) = 0.0033017270572299356
+P(''|Spam) = 0.006942092786996275
+P('establish'|Spam) = 0.0005926176769387064
+P('represent'|Spam) = 0.0007619370132069082
+P('computer'|Spam) = 0.0007196071791398578
+P('database'|Spam) = 8.465966813410092e-05
+P('information'|Spam) = 0.002412800541821876
+P('exchange'|Spam) = 4.232983406705046e-05
+P('?'|Spam) = 0.011344395529969523
+P('is'|Spam) = 0.0005079580088046055
+P('international'|Spam) = 0.0003386386725364037
+P('('|Spam) = 0.02074161869285472
+P(')'|Spam) = 0.023493057907213004
+P('write'|Spam) = 0.00042329834067050457
+P('form'|Spam) = 0.004910260751777853
+P('.'|Spam) = 1.2006857433118863
+P('best'|Spam) = 0.0015238740264138164
+P('-'|Spam) = 0.09422621063325431
+P('publish'|Spam) = 0.0007619370132069082
+P(','|Spam) = 0.16445140535049102
+P('inc'|Spam) = 0.0003386386725364037
+P('however'|Spam) = 0.00021164917033525228
+P('13'|Spam) = 0.00012698950220115136
+P('leave'|Spam) = 0.00025397900440230273
+P('3'|Spam) = 0.002328140873687775
+P('two'|Spam) = 0.0005079580088046055
+P('reference'|Spam) = 4.232983406705046e-05
+P('8'|Spam) = 0.0008465966813410091
+P('directly'|Spam) = 0.00016931933626820184
+P('"'|Spam) = 0.03521842194378598
+P('name'|Spam) = 0.006010836437521165
+P('various'|Spam) = 8.465966813410092e-05
+P('etc'|Spam) = 0.00042329834067050457
+P('country'|Spam) = 0.0005079580088046055
+P('present'|Spam) = 8.465966813410092e-05
+P('three'|Spam) = 0.00025397900440230273
+P('different'|Spam) = 0.0016085336945479173
+P('world'|Spam) = 0.0011429055198103623
+P('interest'|Spam) = 0.0006349475110057569
+P('brian'|Spam) = 4.232983406705046e-05
+P('<'|Spam) = 8.465966813410092e-05
+P('@'|Spam) = 0.001015916017609211
+P('ca'|Spam) = 0.00042329834067050457
+P('>'|Spam) = 0.0030900778868946832
+P('p'|Spam) = 0.00012698950220115136
+P('s'|Spam) = 0.0013545546901456147
+P('number'|Spam) = 0.001015916017609211
+P('='|Spam) = 0.0076193701320690825
+P('20'|Spam) = 0.00046562817473755504
+P('list'|Spam) = 0.002412800541821876
+P('e'|Spam) = 0.0013122248560785642
+P('/'|Spam) = 0.006434134778191669
+P('f'|Spam) = 0.00016931933626820184
+log10 P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -161.6044681699145
+
+P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.06555887316629884
+P('standard'|Hpam) = 0.0014280150590678957
+P('code'|Hpam) = 0.0003894586524730625
+P('language'|Hpam) = 0.06659742957289368
+P('dialect'|Hpam) = 0.002839802674282747
+P(''|Hpam) = 0.01440997014150331
+P('alphabetic'|Hpam) = 4.868233155913281e-05
+P('establish'|Hpam) = 0.0002596391016487083
+P('represent'|Hpam) = 0.0018499285992470465
+P('computer'|Hpam) = 0.00034077632091392964
+P('database'|Hpam) = 0.00027586654550175254
+P('information'|Hpam) = 0.0017038816045696482
+P('exchange'|Hpam) = 0.00011359210697130988
+P('?'|Hpam) = 0.016357263403868623
+P('is'|Hpam) = 0.0018012462676879138
+P('international'|Hpam) = 0.002012203037777489
+P('('|Hpam) = 0.0908736855770479
+P(')'|Hpam) = 0.09420031156692198
+P('speak'|Hpam) = 0.0033590808775801635
+P('utterance'|Hpam) = 6.490977541217708e-05
+P('oppose'|Hpam) = 0.0001460469946773984
+P('write'|Hpam) = 0.0010385564065948333
+P('form'|Hpam) = 0.0049331429313254575
+P('.'|Hpam) = 1.0958392833960793
+P('best'|Hpam) = 0.00012981955082435416
+P('cornell'|Hpam) = 0.00016227443853044268
+P('-'|Hpam) = 0.06413085810723095
+P('sil'|Hpam) = 9.73646631182656e-05
+P('archive'|Hpam) = 6.490977541217708e-05
+P('publish'|Hpam) = 0.0023854342463975075
+P('ethnologue'|Hpam) = 1.622744385304427e-05
+P('bible'|Hpam) = 8.113721926522134e-05
+P('translator'|Hpam) = 9.73646631182656e-05
+P(','|Hpam) = 0.31440672465273267
+P('inc'|Hpam) = 6.490977541217708e-05
+P('however'|Hpam) = 0.0005030507594443723
+P('status'|Hpam) = 0.00012981955082435416
+P('correspond'|Hpam) = 4.86823315591328e-05
+P('ideally'|Hpam) = 1.622744385304427e-05
+P('13'|Hpam) = 0.00017850188238348696
+P('bit'|Hpam) = 9.73646631182656e-05
+P('describe'|Hpam) = 0.0003894586524730624
+P('leave'|Hpam) = 0.00027586654550175254
+P('3'|Hpam) = 0.0017687913799818253
+P('two'|Hpam) = 0.0032617162144618983
+P('byte'|Hpam) = 1.622744385304427e-05
+P('reference'|Hpam) = 0.000908736855770479
+P('8'|Hpam) = 0.00027586654550175254
+P('organization'|Hpam) = 9.73646631182656e-05
+P('relevant'|Hpam) = 0.0003083214332078411
+P('neither'|Hpam) = 9.73646631182656e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('directly'|Hpam) = 0.0002920939893547968
+P('1988'|Hpam) = 0.0003894586524730625
+P('"'|Hpam) = 0.07120602362715825
+P('representation'|Hpam) = 0.0004543684278852395
+P('name'|Hpam) = 0.0011034661820070102
+P('character'|Hpam) = 8.113721926522134e-05
+P('distinguish'|Hpam) = 3.245488770608854e-05
+P('various'|Hpam) = 0.0003732312086200182
+P('chinese'|Hpam) = 0.0010710112943009217
+P('mandarin'|Hpam) = 0.00017850188238348696
+P('cantonese'|Hpam) = 3.245488770608854e-05
+P('etc'|Hpam) = 0.0008600545242113463
+P('country'|Hpam) = 0.0005355056471504609
+P('present'|Hpam) = 0.00042191354017915097
+P('three'|Hpam) = 0.0005192782032974166
+P('different'|Hpam) = 0.0015253797221861612
+P('world'|Hpam) = 0.0004543684278852395
+P('identify'|Hpam) = 0.0001947293262365312
+P('associate'|Hpam) = 0.00017850188238348696
+P('interest'|Hpam) = 0.0017363364922757367
+P('brian'|Hpam) = 4.86823315591328e-05
+P('<'|Hpam) = 0.0006328703102687265
+P('@'|Hpam) = 0.0025801635726340386
+P('ca'|Hpam) = 0.00021095677008957549
+P('>'|Hpam) = 0.005549785797741139
+P('p'|Hpam) = 0.0004056860963261067
+P('s'|Hpam) = 0.0014117876152148514
+P('number'|Hpam) = 0.000908736855770479
+P('='|Hpam) = 0.02599636505257692
+P('20'|Hpam) = 0.0005030507594443723
+P('english'|Hpam) = 0.002174477476307932
+P('list'|Hpam) = 0.0011196936258600545
+P('annex'|Hpam) = 1.622744385304427e-05
+P('e'|Hpam) = 0.0016389718291574711
+P('/'|Hpam) = 0.006377385434246398
+P('f'|Hpam) = 0.0002920939893547968
+log10 P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -284.0907392341841
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.03352522858110396
+P('code'|Spam) = 0.0033017270572299356
+P(''|Spam) = 0.006942092786996275
+P('establish'|Spam) = 0.0005926176769387064
+P('represent'|Spam) = 0.0007619370132069082
+P('computer'|Spam) = 0.0007196071791398578
+P('database'|Spam) = 8.465966813410092e-05
+P('information'|Spam) = 0.002412800541821876
+P('exchange'|Spam) = 4.232983406705046e-05
+P('?'|Spam) = 0.011344395529969523
+P('is'|Spam) = 0.0005079580088046055
+P('international'|Spam) = 0.0003386386725364037
+P('('|Spam) = 0.02074161869285472
+P(')'|Spam) = 0.023493057907213004
+P('write'|Spam) = 0.00042329834067050457
+P('form'|Spam) = 0.004910260751777853
+P('.'|Spam) = 1.2006857433118863
+P('best'|Spam) = 0.0015238740264138164
+P('-'|Spam) = 0.09422621063325431
+P('publish'|Spam) = 0.0007619370132069082
+P(','|Spam) = 0.16445140535049102
+P('inc'|Spam) = 0.0003386386725364037
+P('however'|Spam) = 0.00021164917033525228
+P('13'|Spam) = 0.00012698950220115136
+P('leave'|Spam) = 0.00025397900440230273
+P('3'|Spam) = 0.002328140873687775
+P('two'|Spam) = 0.0005079580088046055
+P('reference'|Spam) = 4.232983406705046e-05
+P('8'|Spam) = 0.0008465966813410091
+P('directly'|Spam) = 0.00016931933626820184
+P('"'|Spam) = 0.03521842194378598
+P('name'|Spam) = 0.006010836437521165
+P('various'|Spam) = 8.465966813410092e-05
+P('etc'|Spam) = 0.00042329834067050457
+P('country'|Spam) = 0.0005079580088046055
+P('present'|Spam) = 8.465966813410092e-05
+P('three'|Spam) = 0.00025397900440230273
+P('different'|Spam) = 0.0016085336945479173
+P('world'|Spam) = 0.0011429055198103623
+P('interest'|Spam) = 0.0006349475110057569
+P('brian'|Spam) = 4.232983406705046e-05
+P('<'|Spam) = 8.465966813410092e-05
+P('@'|Spam) = 0.001015916017609211
+P('ca'|Spam) = 0.00042329834067050457
+P('>'|Spam) = 0.0030900778868946832
+P('p'|Spam) = 0.00012698950220115136
+P('s'|Spam) = 0.0013545546901456147
+P('number'|Spam) = 0.001015916017609211
+P('='|Spam) = 0.0076193701320690825
+P('20'|Spam) = 0.00046562817473755504
+P('list'|Spam) = 0.002412800541821876
+P('e'|Spam) = 0.0013122248560785642
+P('/'|Spam) = 0.006434134778191669
+P('f'|Spam) = 0.00016931933626820184
+log2 P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -536.8384230729695
+
+P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.06555887316629884
+P('standard'|Hpam) = 0.0014280150590678957
+P('code'|Hpam) = 0.0003894586524730625
+P('language'|Hpam) = 0.06659742957289368
+P('dialect'|Hpam) = 0.002839802674282747
+P(''|Hpam) = 0.01440997014150331
+P('alphabetic'|Hpam) = 4.868233155913281e-05
+P('establish'|Hpam) = 0.0002596391016487083
+P('represent'|Hpam) = 0.0018499285992470465
+P('computer'|Hpam) = 0.00034077632091392964
+P('database'|Hpam) = 0.00027586654550175254
+P('information'|Hpam) = 0.0017038816045696482
+P('exchange'|Hpam) = 0.00011359210697130988
+P('?'|Hpam) = 0.016357263403868623
+P('is'|Hpam) = 0.0018012462676879138
+P('international'|Hpam) = 0.002012203037777489
+P('('|Hpam) = 0.0908736855770479
+P(')'|Hpam) = 0.09420031156692198
+P('speak'|Hpam) = 0.0033590808775801635
+P('utterance'|Hpam) = 6.490977541217708e-05
+P('oppose'|Hpam) = 0.0001460469946773984
+P('write'|Hpam) = 0.0010385564065948333
+P('form'|Hpam) = 0.0049331429313254575
+P('.'|Hpam) = 1.0958392833960793
+P('best'|Hpam) = 0.00012981955082435416
+P('cornell'|Hpam) = 0.00016227443853044268
+P('-'|Hpam) = 0.06413085810723095
+P('sil'|Hpam) = 9.73646631182656e-05
+P('archive'|Hpam) = 6.490977541217708e-05
+P('publish'|Hpam) = 0.0023854342463975075
+P('ethnologue'|Hpam) = 1.622744385304427e-05
+P('bible'|Hpam) = 8.113721926522134e-05
+P('translator'|Hpam) = 9.73646631182656e-05
+P(','|Hpam) = 0.31440672465273267
+P('inc'|Hpam) = 6.490977541217708e-05
+P('however'|Hpam) = 0.0005030507594443723
+P('status'|Hpam) = 0.00012981955082435416
+P('correspond'|Hpam) = 4.86823315591328e-05
+P('ideally'|Hpam) = 1.622744385304427e-05
+P('13'|Hpam) = 0.00017850188238348696
+P('bit'|Hpam) = 9.73646631182656e-05
+P('describe'|Hpam) = 0.0003894586524730624
+P('leave'|Hpam) = 0.00027586654550175254
+P('3'|Hpam) = 0.0017687913799818253
+P('two'|Hpam) = 0.0032617162144618983
+P('byte'|Hpam) = 1.622744385304427e-05
+P('reference'|Hpam) = 0.000908736855770479
+P('8'|Hpam) = 0.00027586654550175254
+P('organization'|Hpam) = 9.73646631182656e-05
+P('relevant'|Hpam) = 0.0003083214332078411
+P('neither'|Hpam) = 9.73646631182656e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('directly'|Hpam) = 0.0002920939893547968
+P('1988'|Hpam) = 0.0003894586524730625
+P('"'|Hpam) = 0.07120602362715825
+P('representation'|Hpam) = 0.0004543684278852395
+P('name'|Hpam) = 0.0011034661820070102
+P('character'|Hpam) = 8.113721926522134e-05
+P('distinguish'|Hpam) = 3.245488770608854e-05
+P('various'|Hpam) = 0.0003732312086200182
+P('chinese'|Hpam) = 0.0010710112943009217
+P('mandarin'|Hpam) = 0.00017850188238348696
+P('cantonese'|Hpam) = 3.245488770608854e-05
+P('etc'|Hpam) = 0.0008600545242113463
+P('country'|Hpam) = 0.0005355056471504609
+P('present'|Hpam) = 0.00042191354017915097
+P('three'|Hpam) = 0.0005192782032974166
+P('different'|Hpam) = 0.0015253797221861612
+P('world'|Hpam) = 0.0004543684278852395
+P('identify'|Hpam) = 0.0001947293262365312
+P('associate'|Hpam) = 0.00017850188238348696
+P('interest'|Hpam) = 0.0017363364922757367
+P('brian'|Hpam) = 4.86823315591328e-05
+P('<'|Hpam) = 0.0006328703102687265
+P('@'|Hpam) = 0.0025801635726340386
+P('ca'|Hpam) = 0.00021095677008957549
+P('>'|Hpam) = 0.005549785797741139
+P('p'|Hpam) = 0.0004056860963261067
+P('s'|Hpam) = 0.0014117876152148514
+P('number'|Hpam) = 0.000908736855770479
+P('='|Hpam) = 0.02599636505257692
+P('20'|Hpam) = 0.0005030507594443723
+P('english'|Hpam) = 0.002174477476307932
+P('list'|Hpam) = 0.0011196936258600545
+P('annex'|Hpam) = 1.622744385304427e-05
+P('e'|Hpam) = 0.0016389718291574711
+P('/'|Hpam) = 0.006377385434246398
+P('f'|Hpam) = 0.0002920939893547968
+log2 P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -943.729008159356
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.03352522858110396
+P('code'|Spam) = 0.0033017270572299356
+P(''|Spam) = 0.006942092786996275
+P('establish'|Spam) = 0.0005926176769387064
+P('represent'|Spam) = 0.0007619370132069082
+P('computer'|Spam) = 0.0007196071791398578
+P('database'|Spam) = 8.465966813410092e-05
+P('information'|Spam) = 0.002412800541821876
+P('exchange'|Spam) = 4.232983406705046e-05
+P('?'|Spam) = 0.011344395529969523
+P('is'|Spam) = 0.0005079580088046055
+P('international'|Spam) = 0.0003386386725364037
+P('('|Spam) = 0.02074161869285472
+P(')'|Spam) = 0.023493057907213004
+P('write'|Spam) = 0.00042329834067050457
+P('form'|Spam) = 0.004910260751777853
+P('.'|Spam) = 1.2006857433118863
+P('best'|Spam) = 0.0015238740264138164
+P('-'|Spam) = 0.09422621063325431
+P('publish'|Spam) = 0.0007619370132069082
+P(','|Spam) = 0.16445140535049102
+P('inc'|Spam) = 0.0003386386725364037
+P('however'|Spam) = 0.00021164917033525228
+P('13'|Spam) = 0.00012698950220115136
+P('leave'|Spam) = 0.00025397900440230273
+P('3'|Spam) = 0.002328140873687775
+P('two'|Spam) = 0.0005079580088046055
+P('reference'|Spam) = 4.232983406705046e-05
+P('8'|Spam) = 0.0008465966813410091
+P('directly'|Spam) = 0.00016931933626820184
+P('"'|Spam) = 0.03521842194378598
+P('name'|Spam) = 0.006010836437521165
+P('various'|Spam) = 8.465966813410092e-05
+P('etc'|Spam) = 0.00042329834067050457
+P('country'|Spam) = 0.0005079580088046055
+P('present'|Spam) = 8.465966813410092e-05
+P('three'|Spam) = 0.00025397900440230273
+P('different'|Spam) = 0.0016085336945479173
+P('world'|Spam) = 0.0011429055198103623
+P('interest'|Spam) = 0.0006349475110057569
+P('brian'|Spam) = 4.232983406705046e-05
+P('<'|Spam) = 8.465966813410092e-05
+P('@'|Spam) = 0.001015916017609211
+P('ca'|Spam) = 0.00042329834067050457
+P('>'|Spam) = 0.0030900778868946832
+P('p'|Spam) = 0.00012698950220115136
+P('s'|Spam) = 0.0013545546901456147
+P('number'|Spam) = 0.001015916017609211
+P('='|Spam) = 0.0076193701320690825
+P('20'|Spam) = 0.00046562817473755504
+P('list'|Spam) = 0.002412800541821876
+P('e'|Spam) = 0.0013122248560785642
+P('/'|Spam) = 0.006434134778191669
+P('f'|Spam) = 0.00016931933626820184
+log2 P(Spam, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -536.8384230729695
+
+P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.06555887316629884
+P('standard'|Hpam) = 0.0014280150590678957
+P('code'|Hpam) = 0.0003894586524730625
+P('language'|Hpam) = 0.06659742957289368
+P('dialect'|Hpam) = 0.002839802674282747
+P(''|Hpam) = 0.01440997014150331
+P('alphabetic'|Hpam) = 4.868233155913281e-05
+P('establish'|Hpam) = 0.0002596391016487083
+P('represent'|Hpam) = 0.0018499285992470465
+P('computer'|Hpam) = 0.00034077632091392964
+P('database'|Hpam) = 0.00027586654550175254
+P('information'|Hpam) = 0.0017038816045696482
+P('exchange'|Hpam) = 0.00011359210697130988
+P('?'|Hpam) = 0.016357263403868623
+P('is'|Hpam) = 0.0018012462676879138
+P('international'|Hpam) = 0.002012203037777489
+P('('|Hpam) = 0.0908736855770479
+P(')'|Hpam) = 0.09420031156692198
+P('speak'|Hpam) = 0.0033590808775801635
+P('utterance'|Hpam) = 6.490977541217708e-05
+P('oppose'|Hpam) = 0.0001460469946773984
+P('write'|Hpam) = 0.0010385564065948333
+P('form'|Hpam) = 0.0049331429313254575
+P('.'|Hpam) = 1.0958392833960793
+P('best'|Hpam) = 0.00012981955082435416
+P('cornell'|Hpam) = 0.00016227443853044268
+P('-'|Hpam) = 0.06413085810723095
+P('sil'|Hpam) = 9.73646631182656e-05
+P('archive'|Hpam) = 6.490977541217708e-05
+P('publish'|Hpam) = 0.0023854342463975075
+P('ethnologue'|Hpam) = 1.622744385304427e-05
+P('bible'|Hpam) = 8.113721926522134e-05
+P('translator'|Hpam) = 9.73646631182656e-05
+P(','|Hpam) = 0.31440672465273267
+P('inc'|Hpam) = 6.490977541217708e-05
+P('however'|Hpam) = 0.0005030507594443723
+P('status'|Hpam) = 0.00012981955082435416
+P('correspond'|Hpam) = 4.86823315591328e-05
+P('ideally'|Hpam) = 1.622744385304427e-05
+P('13'|Hpam) = 0.00017850188238348696
+P('bit'|Hpam) = 9.73646631182656e-05
+P('describe'|Hpam) = 0.0003894586524730624
+P('leave'|Hpam) = 0.00027586654550175254
+P('3'|Hpam) = 0.0017687913799818253
+P('two'|Hpam) = 0.0032617162144618983
+P('byte'|Hpam) = 1.622744385304427e-05
+P('reference'|Hpam) = 0.000908736855770479
+P('8'|Hpam) = 0.00027586654550175254
+P('organization'|Hpam) = 9.73646631182656e-05
+P('relevant'|Hpam) = 0.0003083214332078411
+P('neither'|Hpam) = 9.73646631182656e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('directly'|Hpam) = 0.0002920939893547968
+P('1988'|Hpam) = 0.0003894586524730625
+P('"'|Hpam) = 0.07120602362715825
+P('representation'|Hpam) = 0.0004543684278852395
+P('name'|Hpam) = 0.0011034661820070102
+P('character'|Hpam) = 8.113721926522134e-05
+P('distinguish'|Hpam) = 3.245488770608854e-05
+P('various'|Hpam) = 0.0003732312086200182
+P('chinese'|Hpam) = 0.0010710112943009217
+P('mandarin'|Hpam) = 0.00017850188238348696
+P('cantonese'|Hpam) = 3.245488770608854e-05
+P('etc'|Hpam) = 0.0008600545242113463
+P('country'|Hpam) = 0.0005355056471504609
+P('present'|Hpam) = 0.00042191354017915097
+P('three'|Hpam) = 0.0005192782032974166
+P('different'|Hpam) = 0.0015253797221861612
+P('world'|Hpam) = 0.0004543684278852395
+P('identify'|Hpam) = 0.0001947293262365312
+P('associate'|Hpam) = 0.00017850188238348696
+P('interest'|Hpam) = 0.0017363364922757367
+P('brian'|Hpam) = 4.86823315591328e-05
+P('<'|Hpam) = 0.0006328703102687265
+P('@'|Hpam) = 0.0025801635726340386
+P('ca'|Hpam) = 0.00021095677008957549
+P('>'|Hpam) = 0.005549785797741139
+P('p'|Hpam) = 0.0004056860963261067
+P('s'|Hpam) = 0.0014117876152148514
+P('number'|Hpam) = 0.000908736855770479
+P('='|Hpam) = 0.02599636505257692
+P('20'|Hpam) = 0.0005030507594443723
+P('english'|Hpam) = 0.002174477476307932
+P('list'|Hpam) = 0.0011196936258600545
+P('annex'|Hpam) = 1.622744385304427e-05
+P('e'|Hpam) = 0.0016389718291574711
+P('/'|Hpam) = 0.006377385434246398
+P('f'|Hpam) = 0.0002920939893547968
+log2 P(Ham, Subject: query : standard code language dialect
+
+numerical alphabetic code establish represent language dialect computer database computerize information exchange ? is international standard represent language ( dialect ) speak utterance ( oppose write form ) . best three-character alphabetic code cornell - sil language archive publish ethnologue wycliffe bible translator , inc . however , status international standard correspond numerical form publish . ideally standard numerical form 13 bit represent 5445 language describe . leave 3 bit two byte reference 8 dialect . international organization standardization publish two relevant standard neither attempt represent speak language directly . standard iso 639 : 1988 " code representation name language . " two alphabetic character represent 136 language distinguish various speak form chinese ( mandarin , cantonese , etc . ) . standard iso 3166 : 1988 " code representation name country . " present three different code represent country world . identify dialect associate different country . is ? is interest establish iso international standard ? - brian doherty < doherty @ bnr . ca > p . s . udc number ( = 20 english , = 951 chinese ) list annex iso 639 : 1988 ( e / f ) ?
+) = -943.729008159356
+
+Conclusion: This message is classified as Spam.

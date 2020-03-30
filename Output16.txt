@@ -1,0 +1,1036 @@
+P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(''|Spam) = 0.006942092786996275
+P('show'|Spam) = 0.0016931933626820183
+P(','|Spam) = 0.23023196749068744
+P('concern'|Spam) = 0.00016931933626820184
+P('general'|Spam) = 0.00025397900440230273
+P('term'|Spam) = 0.00012698950220115136
+P(''s'|Spam) = 0.010667118184896716
+P('''|Spam) = 0.005460548594649509
+P('('|Spam) = 0.00829664747714189
+P(')'|Spam) = 0.009397223162885202
+P('specialize'|Spam) = 4.232983406705046e-05
+P('.'|Spam) = 0.560320013545547
+P('useful'|Spam) = 8.465966813410092e-05
+P('point'|Spam) = 8.465966813410092e-05
+P('second'|Spam) = 4.232983406705046e-05
+P('half'|Spam) = 4.232983406705046e-05
+P('century'|Spam) = 4.232983406705046e-05
+P('thereafter'|Spam) = 4.232983406705046e-05
+P('one'|Spam) = 0.005164239756180156
+P('big'|Spam) = 0.0005079580088046055
+P('"'|Spam) = 0.07043684388757196
+P('must'|Spam) = 0.0005926176769387064
+P('view'|Spam) = 4.232983406705046e-05
+P('interest'|Spam) = 0.0006349475110057569
+P('add'|Spam) = 0.0013968845242126652
+P('great'|Spam) = 0.00021164917033525228
+P('regard'|Spam) = 0.00012698950220115136
+P('clearly'|Spam) = 8.465966813410092e-05
+P('sound'|Spam) = 0.00025397900440230273
+P('since'|Spam) = 8.465966813410092e-05
+P('claim'|Spam) = 4.232983406705046e-05
+P('between'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0008042668472739587
+P('many'|Spam) = 0.0032170673890958346
+P('work'|Spam) = 0.0015238740264138164
+P('paper'|Spam) = 0.0003809685066034541
+P('even'|Spam) = 0.0010582458516762614
+P('reality'|Spam) = 4.232983406705046e-05
+P('position'|Spam) = 0.00016931933626820184
+P('case'|Spam) = 0.00012698950220115136
+P('clear'|Spam) = 0.0003386386725364037
+P('never'|Spam) = 0.00046562817473755504
+P('word'|Spam) = 0.0015238740264138164
+P('specific'|Spam) = 8.465966813410092e-05
+P('kind'|Spam) = 0.0005079580088046055
+P('anything'|Spam) = 0.00021164917033525228
+P('type'|Spam) = 0.0006349475110057569
+P('question'|Spam) = 0.0002963088384693532
+P('two'|Spam) = 0.00016931933626820184
+log P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -378.04095866777175
+
+P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('eskimo'|Hpam) = 0.0014280150590678957
+P('snow'|Hpam) = 0.001752563936128781
+P('context'|Hpam) = 0.0007302349733869921
+P(''|Hpam) = 0.01440997014150331
+P('quotation'|Hpam) = 1.622744385304427e-05
+P('whorf'|Hpam) = 0.0001947293262365312
+P('show'|Hpam) = 0.0010385564065948333
+P(','|Hpam) = 0.44016941451382574
+P('concern'|Hpam) = 0.0012332857328313644
+P('issue'|Hpam) = 0.003634947423081916
+P('whether'|Hpam) = 0.004657276385823705
+P('general'|Hpam) = 0.0015578346098922497
+P('term'|Hpam) = 0.002677528235752304
+P(''s'|Hpam) = 0.019797481500714007
+P('''|Hpam) = 0.030864598208490197
+P('language'|Hpam) = 0.04994807217967026
+P('('|Hpam) = 0.03634947423081916
+P('english'|Hpam) = 0.004348954952615864
+P(')'|Hpam) = 0.03768012462676879
+P('multitude'|Hpam) = 1.622744385304427e-05
+P('specialize'|Hpam) = 3.245488770608854e-05
+P('.'|Hpam) = 0.5113916655848371
+P('useful'|Hpam) = 0.0001460469946773984
+P('point'|Hpam) = 0.0009249642996235233
+P('second'|Hpam) = 0.0005679605348565494
+P('half'|Hpam) = 9.73646631182656e-05
+P('19th'|Hpam) = 3.245488770608854e-05
+P('century'|Hpam) = 0.00022718421394261976
+P('one'|Hpam) = 0.006393612878099442
+P('big'|Hpam) = 0.00022718421394261976
+P('linguist'|Hpam) = 0.0022231598078670646
+P('anthropologist'|Hpam) = 1.622744385304427e-05
+P('"'|Hpam) = 0.1424120472543165
+P('primitive'|Hpam) = 0.0001460469946773984
+P('possess'|Hpam) = 9.73646631182656e-05
+P('abstract'|Hpam) = 0.0003570037647669739
+P('must'|Hpam) = 0.0006166428664156822
+P('view'|Hpam) = 0.0004868233155913281
+P('interest'|Hpam) = 0.0017363364922757367
+P('add'|Hpam) = 0.00016227443853044268
+P('great'|Hpam) = 0.0003570037647669739
+P('regard'|Hpam) = 0.00022718421394261976
+P('clearly'|Hpam) = 0.00032454887706088537
+P('define'|Hpam) = 0.00017850188238348696
+P('sound'|Hpam) = 0.00032454887706088537
+P('since'|Hpam) = 0.0007302349733869921
+P('widely'|Hpam) = 3.245488770608854e-05
+P('claim'|Hpam) = 0.0003894586524730624
+P('between'|Hpam) = 0.0008113721926522134
+P('different'|Hpam) = 0.0007626898610930806
+P('boa'|Hpam) = 0.00022718421394261976
+P('many'|Hpam) = 0.0028235752304297027
+P('listen'|Hpam) = 4.86823315591328e-05
+P('work'|Hpam) = 0.00254770868492795
+P('sapir'|Hpam) = 0.00017850188238348696
+P('paper'|Hpam) = 0.0007626898610930806
+P('even'|Hpam) = 0.0008275996365052577
+P('psychological'|Hpam) = 4.86823315591328e-05
+P('reality'|Hpam) = 3.245488770608854e-05
+P('largely'|Hpam) = 3.245488770608854e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('defend'|Hpam) = 3.245488770608854e-05
+P('position'|Hpam) = 0.0005517330910035051
+P('case'|Hpam) = 0.0009574191873296118
+P('clear'|Hpam) = 0.00032454887706088537
+P('never'|Hpam) = 0.0003732312086200182
+P('word'|Hpam) = 0.007075165519927301
+P('specific'|Hpam) = 0.00012981955082435416
+P('kind'|Hpam) = 0.0016065169414513827
+P('anything'|Hpam) = 0.00027586654550175254
+P('type'|Hpam) = 0.0006166428664156822
+P('question'|Hpam) = 0.0009898740750357003
+P('two'|Hpam) = 0.001087238738153966
+P('ancient'|Hpam) = 1.622744385304427e-05
+P('greek'|Hpam) = 0.00034077632091392964
+P('variety'|Hpam) = 0.00021095677008957549
+P('particular'|Hpam) = 0.0005517330910035051
+P('alexis'|Hpam) = 1.622744385304427e-05
+log P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -580.5021803201626
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(''|Spam) = 0.006942092786996275
+P('show'|Spam) = 0.0016931933626820183
+P(','|Spam) = 0.23023196749068744
+P('concern'|Spam) = 0.00016931933626820184
+P('general'|Spam) = 0.00025397900440230273
+P('term'|Spam) = 0.00012698950220115136
+P(''s'|Spam) = 0.010667118184896716
+P('''|Spam) = 0.005460548594649509
+P('('|Spam) = 0.00829664747714189
+P(')'|Spam) = 0.009397223162885202
+P('specialize'|Spam) = 4.232983406705046e-05
+P('.'|Spam) = 0.560320013545547
+P('useful'|Spam) = 8.465966813410092e-05
+P('point'|Spam) = 8.465966813410092e-05
+P('second'|Spam) = 4.232983406705046e-05
+P('half'|Spam) = 4.232983406705046e-05
+P('century'|Spam) = 4.232983406705046e-05
+P('thereafter'|Spam) = 4.232983406705046e-05
+P('one'|Spam) = 0.005164239756180156
+P('big'|Spam) = 0.0005079580088046055
+P('"'|Spam) = 0.07043684388757196
+P('must'|Spam) = 0.0005926176769387064
+P('view'|Spam) = 4.232983406705046e-05
+P('interest'|Spam) = 0.0006349475110057569
+P('add'|Spam) = 0.0013968845242126652
+P('great'|Spam) = 0.00021164917033525228
+P('regard'|Spam) = 0.00012698950220115136
+P('clearly'|Spam) = 8.465966813410092e-05
+P('sound'|Spam) = 0.00025397900440230273
+P('since'|Spam) = 8.465966813410092e-05
+P('claim'|Spam) = 4.232983406705046e-05
+P('between'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0008042668472739587
+P('many'|Spam) = 0.0032170673890958346
+P('work'|Spam) = 0.0015238740264138164
+P('paper'|Spam) = 0.0003809685066034541
+P('even'|Spam) = 0.0010582458516762614
+P('reality'|Spam) = 4.232983406705046e-05
+P('position'|Spam) = 0.00016931933626820184
+P('case'|Spam) = 0.00012698950220115136
+P('clear'|Spam) = 0.0003386386725364037
+P('never'|Spam) = 0.00046562817473755504
+P('word'|Spam) = 0.0015238740264138164
+P('specific'|Spam) = 8.465966813410092e-05
+P('kind'|Spam) = 0.0005079580088046055
+P('anything'|Spam) = 0.00021164917033525228
+P('type'|Spam) = 0.0006349475110057569
+P('question'|Spam) = 0.0002963088384693532
+P('two'|Spam) = 0.00016931933626820184
+log P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -378.04095866777175
+
+P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('eskimo'|Hpam) = 0.0014280150590678957
+P('snow'|Hpam) = 0.001752563936128781
+P('context'|Hpam) = 0.0007302349733869921
+P(''|Hpam) = 0.01440997014150331
+P('quotation'|Hpam) = 1.622744385304427e-05
+P('whorf'|Hpam) = 0.0001947293262365312
+P('show'|Hpam) = 0.0010385564065948333
+P(','|Hpam) = 0.44016941451382574
+P('concern'|Hpam) = 0.0012332857328313644
+P('issue'|Hpam) = 0.003634947423081916
+P('whether'|Hpam) = 0.004657276385823705
+P('general'|Hpam) = 0.0015578346098922497
+P('term'|Hpam) = 0.002677528235752304
+P(''s'|Hpam) = 0.019797481500714007
+P('''|Hpam) = 0.030864598208490197
+P('language'|Hpam) = 0.04994807217967026
+P('('|Hpam) = 0.03634947423081916
+P('english'|Hpam) = 0.004348954952615864
+P(')'|Hpam) = 0.03768012462676879
+P('multitude'|Hpam) = 1.622744385304427e-05
+P('specialize'|Hpam) = 3.245488770608854e-05
+P('.'|Hpam) = 0.5113916655848371
+P('useful'|Hpam) = 0.0001460469946773984
+P('point'|Hpam) = 0.0009249642996235233
+P('second'|Hpam) = 0.0005679605348565494
+P('half'|Hpam) = 9.73646631182656e-05
+P('19th'|Hpam) = 3.245488770608854e-05
+P('century'|Hpam) = 0.00022718421394261976
+P('one'|Hpam) = 0.006393612878099442
+P('big'|Hpam) = 0.00022718421394261976
+P('linguist'|Hpam) = 0.0022231598078670646
+P('anthropologist'|Hpam) = 1.622744385304427e-05
+P('"'|Hpam) = 0.1424120472543165
+P('primitive'|Hpam) = 0.0001460469946773984
+P('possess'|Hpam) = 9.73646631182656e-05
+P('abstract'|Hpam) = 0.0003570037647669739
+P('must'|Hpam) = 0.0006166428664156822
+P('view'|Hpam) = 0.0004868233155913281
+P('interest'|Hpam) = 0.0017363364922757367
+P('add'|Hpam) = 0.00016227443853044268
+P('great'|Hpam) = 0.0003570037647669739
+P('regard'|Hpam) = 0.00022718421394261976
+P('clearly'|Hpam) = 0.00032454887706088537
+P('define'|Hpam) = 0.00017850188238348696
+P('sound'|Hpam) = 0.00032454887706088537
+P('since'|Hpam) = 0.0007302349733869921
+P('widely'|Hpam) = 3.245488770608854e-05
+P('claim'|Hpam) = 0.0003894586524730624
+P('between'|Hpam) = 0.0008113721926522134
+P('different'|Hpam) = 0.0007626898610930806
+P('boa'|Hpam) = 0.00022718421394261976
+P('many'|Hpam) = 0.0028235752304297027
+P('listen'|Hpam) = 4.86823315591328e-05
+P('work'|Hpam) = 0.00254770868492795
+P('sapir'|Hpam) = 0.00017850188238348696
+P('paper'|Hpam) = 0.0007626898610930806
+P('even'|Hpam) = 0.0008275996365052577
+P('psychological'|Hpam) = 4.86823315591328e-05
+P('reality'|Hpam) = 3.245488770608854e-05
+P('largely'|Hpam) = 3.245488770608854e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('defend'|Hpam) = 3.245488770608854e-05
+P('position'|Hpam) = 0.0005517330910035051
+P('case'|Hpam) = 0.0009574191873296118
+P('clear'|Hpam) = 0.00032454887706088537
+P('never'|Hpam) = 0.0003732312086200182
+P('word'|Hpam) = 0.007075165519927301
+P('specific'|Hpam) = 0.00012981955082435416
+P('kind'|Hpam) = 0.0016065169414513827
+P('anything'|Hpam) = 0.00027586654550175254
+P('type'|Hpam) = 0.0006166428664156822
+P('question'|Hpam) = 0.0009898740750357003
+P('two'|Hpam) = 0.001087238738153966
+P('ancient'|Hpam) = 1.622744385304427e-05
+P('greek'|Hpam) = 0.00034077632091392964
+P('variety'|Hpam) = 0.00021095677008957549
+P('particular'|Hpam) = 0.0005517330910035051
+P('alexis'|Hpam) = 1.622744385304427e-05
+log P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -580.5021803201626
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(''|Spam) = 0.006942092786996275
+P('show'|Spam) = 0.0016931933626820183
+P(','|Spam) = 0.23023196749068744
+P('concern'|Spam) = 0.00016931933626820184
+P('general'|Spam) = 0.00025397900440230273
+P('term'|Spam) = 0.00012698950220115136
+P(''s'|Spam) = 0.010667118184896716
+P('''|Spam) = 0.005460548594649509
+P('('|Spam) = 0.00829664747714189
+P(')'|Spam) = 0.009397223162885202
+P('specialize'|Spam) = 4.232983406705046e-05
+P('.'|Spam) = 0.560320013545547
+P('useful'|Spam) = 8.465966813410092e-05
+P('point'|Spam) = 8.465966813410092e-05
+P('second'|Spam) = 4.232983406705046e-05
+P('half'|Spam) = 4.232983406705046e-05
+P('century'|Spam) = 4.232983406705046e-05
+P('thereafter'|Spam) = 4.232983406705046e-05
+P('one'|Spam) = 0.005164239756180156
+P('big'|Spam) = 0.0005079580088046055
+P('"'|Spam) = 0.07043684388757196
+P('must'|Spam) = 0.0005926176769387064
+P('view'|Spam) = 4.232983406705046e-05
+P('interest'|Spam) = 0.0006349475110057569
+P('add'|Spam) = 0.0013968845242126652
+P('great'|Spam) = 0.00021164917033525228
+P('regard'|Spam) = 0.00012698950220115136
+P('clearly'|Spam) = 8.465966813410092e-05
+P('sound'|Spam) = 0.00025397900440230273
+P('since'|Spam) = 8.465966813410092e-05
+P('claim'|Spam) = 4.232983406705046e-05
+P('between'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0008042668472739587
+P('many'|Spam) = 0.0032170673890958346
+P('work'|Spam) = 0.0015238740264138164
+P('paper'|Spam) = 0.0003809685066034541
+P('even'|Spam) = 0.0010582458516762614
+P('reality'|Spam) = 4.232983406705046e-05
+P('position'|Spam) = 0.00016931933626820184
+P('case'|Spam) = 0.00012698950220115136
+P('clear'|Spam) = 0.0003386386725364037
+P('never'|Spam) = 0.00046562817473755504
+P('word'|Spam) = 0.0015238740264138164
+P('specific'|Spam) = 8.465966813410092e-05
+P('kind'|Spam) = 0.0005079580088046055
+P('anything'|Spam) = 0.00021164917033525228
+P('type'|Spam) = 0.0006349475110057569
+P('question'|Spam) = 0.0002963088384693532
+P('two'|Spam) = 0.00016931933626820184
+log2 P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -545.397816322904
+
+P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('eskimo'|Hpam) = 0.0014280150590678957
+P('snow'|Hpam) = 0.001752563936128781
+P('context'|Hpam) = 0.0007302349733869921
+P(''|Hpam) = 0.01440997014150331
+P('quotation'|Hpam) = 1.622744385304427e-05
+P('whorf'|Hpam) = 0.0001947293262365312
+P('show'|Hpam) = 0.0010385564065948333
+P(','|Hpam) = 0.44016941451382574
+P('concern'|Hpam) = 0.0012332857328313644
+P('issue'|Hpam) = 0.003634947423081916
+P('whether'|Hpam) = 0.004657276385823705
+P('general'|Hpam) = 0.0015578346098922497
+P('term'|Hpam) = 0.002677528235752304
+P(''s'|Hpam) = 0.019797481500714007
+P('''|Hpam) = 0.030864598208490197
+P('language'|Hpam) = 0.04994807217967026
+P('('|Hpam) = 0.03634947423081916
+P('english'|Hpam) = 0.004348954952615864
+P(')'|Hpam) = 0.03768012462676879
+P('multitude'|Hpam) = 1.622744385304427e-05
+P('specialize'|Hpam) = 3.245488770608854e-05
+P('.'|Hpam) = 0.5113916655848371
+P('useful'|Hpam) = 0.0001460469946773984
+P('point'|Hpam) = 0.0009249642996235233
+P('second'|Hpam) = 0.0005679605348565494
+P('half'|Hpam) = 9.73646631182656e-05
+P('19th'|Hpam) = 3.245488770608854e-05
+P('century'|Hpam) = 0.00022718421394261976
+P('one'|Hpam) = 0.006393612878099442
+P('big'|Hpam) = 0.00022718421394261976
+P('linguist'|Hpam) = 0.0022231598078670646
+P('anthropologist'|Hpam) = 1.622744385304427e-05
+P('"'|Hpam) = 0.1424120472543165
+P('primitive'|Hpam) = 0.0001460469946773984
+P('possess'|Hpam) = 9.73646631182656e-05
+P('abstract'|Hpam) = 0.0003570037647669739
+P('must'|Hpam) = 0.0006166428664156822
+P('view'|Hpam) = 0.0004868233155913281
+P('interest'|Hpam) = 0.0017363364922757367
+P('add'|Hpam) = 0.00016227443853044268
+P('great'|Hpam) = 0.0003570037647669739
+P('regard'|Hpam) = 0.00022718421394261976
+P('clearly'|Hpam) = 0.00032454887706088537
+P('define'|Hpam) = 0.00017850188238348696
+P('sound'|Hpam) = 0.00032454887706088537
+P('since'|Hpam) = 0.0007302349733869921
+P('widely'|Hpam) = 3.245488770608854e-05
+P('claim'|Hpam) = 0.0003894586524730624
+P('between'|Hpam) = 0.0008113721926522134
+P('different'|Hpam) = 0.0007626898610930806
+P('boa'|Hpam) = 0.00022718421394261976
+P('many'|Hpam) = 0.0028235752304297027
+P('listen'|Hpam) = 4.86823315591328e-05
+P('work'|Hpam) = 0.00254770868492795
+P('sapir'|Hpam) = 0.00017850188238348696
+P('paper'|Hpam) = 0.0007626898610930806
+P('even'|Hpam) = 0.0008275996365052577
+P('psychological'|Hpam) = 4.86823315591328e-05
+P('reality'|Hpam) = 3.245488770608854e-05
+P('largely'|Hpam) = 3.245488770608854e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('defend'|Hpam) = 3.245488770608854e-05
+P('position'|Hpam) = 0.0005517330910035051
+P('case'|Hpam) = 0.0009574191873296118
+P('clear'|Hpam) = 0.00032454887706088537
+P('never'|Hpam) = 0.0003732312086200182
+P('word'|Hpam) = 0.007075165519927301
+P('specific'|Hpam) = 0.00012981955082435416
+P('kind'|Hpam) = 0.0016065169414513827
+P('anything'|Hpam) = 0.00027586654550175254
+P('type'|Hpam) = 0.0006166428664156822
+P('question'|Hpam) = 0.0009898740750357003
+P('two'|Hpam) = 0.001087238738153966
+P('ancient'|Hpam) = 1.622744385304427e-05
+P('greek'|Hpam) = 0.00034077632091392964
+P('variety'|Hpam) = 0.00021095677008957549
+P('particular'|Hpam) = 0.0005517330910035051
+P('alexis'|Hpam) = 1.622744385304427e-05
+log2 P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -837.487616773129
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(''|Spam) = 0.006942092786996275
+P('show'|Spam) = 0.0016931933626820183
+P(','|Spam) = 0.23023196749068744
+P('concern'|Spam) = 0.00016931933626820184
+P('general'|Spam) = 0.00025397900440230273
+P('term'|Spam) = 0.00012698950220115136
+P(''s'|Spam) = 0.010667118184896716
+P('''|Spam) = 0.005460548594649509
+P('('|Spam) = 0.00829664747714189
+P(')'|Spam) = 0.009397223162885202
+P('specialize'|Spam) = 4.232983406705046e-05
+P('.'|Spam) = 0.560320013545547
+P('useful'|Spam) = 8.465966813410092e-05
+P('point'|Spam) = 8.465966813410092e-05
+P('second'|Spam) = 4.232983406705046e-05
+P('half'|Spam) = 4.232983406705046e-05
+P('century'|Spam) = 4.232983406705046e-05
+P('thereafter'|Spam) = 4.232983406705046e-05
+P('one'|Spam) = 0.005164239756180156
+P('big'|Spam) = 0.0005079580088046055
+P('"'|Spam) = 0.07043684388757196
+P('must'|Spam) = 0.0005926176769387064
+P('view'|Spam) = 4.232983406705046e-05
+P('interest'|Spam) = 0.0006349475110057569
+P('add'|Spam) = 0.0013968845242126652
+P('great'|Spam) = 0.00021164917033525228
+P('regard'|Spam) = 0.00012698950220115136
+P('clearly'|Spam) = 8.465966813410092e-05
+P('sound'|Spam) = 0.00025397900440230273
+P('since'|Spam) = 8.465966813410092e-05
+P('claim'|Spam) = 4.232983406705046e-05
+P('between'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0008042668472739587
+P('many'|Spam) = 0.0032170673890958346
+P('work'|Spam) = 0.0015238740264138164
+P('paper'|Spam) = 0.0003809685066034541
+P('even'|Spam) = 0.0010582458516762614
+P('reality'|Spam) = 4.232983406705046e-05
+P('position'|Spam) = 0.00016931933626820184
+P('case'|Spam) = 0.00012698950220115136
+P('clear'|Spam) = 0.0003386386725364037
+P('never'|Spam) = 0.00046562817473755504
+P('word'|Spam) = 0.0015238740264138164
+P('specific'|Spam) = 8.465966813410092e-05
+P('kind'|Spam) = 0.0005079580088046055
+P('anything'|Spam) = 0.00021164917033525228
+P('type'|Spam) = 0.0006349475110057569
+P('question'|Spam) = 0.0002963088384693532
+P('two'|Spam) = 0.00016931933626820184
+log P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -378.04095866777175
+
+P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('eskimo'|Hpam) = 0.0014280150590678957
+P('snow'|Hpam) = 0.001752563936128781
+P('context'|Hpam) = 0.0007302349733869921
+P(''|Hpam) = 0.01440997014150331
+P('quotation'|Hpam) = 1.622744385304427e-05
+P('whorf'|Hpam) = 0.0001947293262365312
+P('show'|Hpam) = 0.0010385564065948333
+P(','|Hpam) = 0.44016941451382574
+P('concern'|Hpam) = 0.0012332857328313644
+P('issue'|Hpam) = 0.003634947423081916
+P('whether'|Hpam) = 0.004657276385823705
+P('general'|Hpam) = 0.0015578346098922497
+P('term'|Hpam) = 0.002677528235752304
+P(''s'|Hpam) = 0.019797481500714007
+P('''|Hpam) = 0.030864598208490197
+P('language'|Hpam) = 0.04994807217967026
+P('('|Hpam) = 0.03634947423081916
+P('english'|Hpam) = 0.004348954952615864
+P(')'|Hpam) = 0.03768012462676879
+P('multitude'|Hpam) = 1.622744385304427e-05
+P('specialize'|Hpam) = 3.245488770608854e-05
+P('.'|Hpam) = 0.5113916655848371
+P('useful'|Hpam) = 0.0001460469946773984
+P('point'|Hpam) = 0.0009249642996235233
+P('second'|Hpam) = 0.0005679605348565494
+P('half'|Hpam) = 9.73646631182656e-05
+P('19th'|Hpam) = 3.245488770608854e-05
+P('century'|Hpam) = 0.00022718421394261976
+P('one'|Hpam) = 0.006393612878099442
+P('big'|Hpam) = 0.00022718421394261976
+P('linguist'|Hpam) = 0.0022231598078670646
+P('anthropologist'|Hpam) = 1.622744385304427e-05
+P('"'|Hpam) = 0.1424120472543165
+P('primitive'|Hpam) = 0.0001460469946773984
+P('possess'|Hpam) = 9.73646631182656e-05
+P('abstract'|Hpam) = 0.0003570037647669739
+P('must'|Hpam) = 0.0006166428664156822
+P('view'|Hpam) = 0.0004868233155913281
+P('interest'|Hpam) = 0.0017363364922757367
+P('add'|Hpam) = 0.00016227443853044268
+P('great'|Hpam) = 0.0003570037647669739
+P('regard'|Hpam) = 0.00022718421394261976
+P('clearly'|Hpam) = 0.00032454887706088537
+P('define'|Hpam) = 0.00017850188238348696
+P('sound'|Hpam) = 0.00032454887706088537
+P('since'|Hpam) = 0.0007302349733869921
+P('widely'|Hpam) = 3.245488770608854e-05
+P('claim'|Hpam) = 0.0003894586524730624
+P('between'|Hpam) = 0.0008113721926522134
+P('different'|Hpam) = 0.0007626898610930806
+P('boa'|Hpam) = 0.00022718421394261976
+P('many'|Hpam) = 0.0028235752304297027
+P('listen'|Hpam) = 4.86823315591328e-05
+P('work'|Hpam) = 0.00254770868492795
+P('sapir'|Hpam) = 0.00017850188238348696
+P('paper'|Hpam) = 0.0007626898610930806
+P('even'|Hpam) = 0.0008275996365052577
+P('psychological'|Hpam) = 4.86823315591328e-05
+P('reality'|Hpam) = 3.245488770608854e-05
+P('largely'|Hpam) = 3.245488770608854e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('defend'|Hpam) = 3.245488770608854e-05
+P('position'|Hpam) = 0.0005517330910035051
+P('case'|Hpam) = 0.0009574191873296118
+P('clear'|Hpam) = 0.00032454887706088537
+P('never'|Hpam) = 0.0003732312086200182
+P('word'|Hpam) = 0.007075165519927301
+P('specific'|Hpam) = 0.00012981955082435416
+P('kind'|Hpam) = 0.0016065169414513827
+P('anything'|Hpam) = 0.00027586654550175254
+P('type'|Hpam) = 0.0006166428664156822
+P('question'|Hpam) = 0.0009898740750357003
+P('two'|Hpam) = 0.001087238738153966
+P('ancient'|Hpam) = 1.622744385304427e-05
+P('greek'|Hpam) = 0.00034077632091392964
+P('variety'|Hpam) = 0.00021095677008957549
+P('particular'|Hpam) = 0.0005517330910035051
+P('alexis'|Hpam) = 1.622744385304427e-05
+log P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -580.5021803201626
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(''|Spam) = 0.006942092786996275
+P('show'|Spam) = 0.0016931933626820183
+P(','|Spam) = 0.23023196749068744
+P('concern'|Spam) = 0.00016931933626820184
+P('general'|Spam) = 0.00025397900440230273
+P('term'|Spam) = 0.00012698950220115136
+P(''s'|Spam) = 0.010667118184896716
+P('''|Spam) = 0.005460548594649509
+P('('|Spam) = 0.00829664747714189
+P(')'|Spam) = 0.009397223162885202
+P('specialize'|Spam) = 4.232983406705046e-05
+P('.'|Spam) = 0.560320013545547
+P('useful'|Spam) = 8.465966813410092e-05
+P('point'|Spam) = 8.465966813410092e-05
+P('second'|Spam) = 4.232983406705046e-05
+P('half'|Spam) = 4.232983406705046e-05
+P('century'|Spam) = 4.232983406705046e-05
+P('thereafter'|Spam) = 4.232983406705046e-05
+P('one'|Spam) = 0.005164239756180156
+P('big'|Spam) = 0.0005079580088046055
+P('"'|Spam) = 0.07043684388757196
+P('must'|Spam) = 0.0005926176769387064
+P('view'|Spam) = 4.232983406705046e-05
+P('interest'|Spam) = 0.0006349475110057569
+P('add'|Spam) = 0.0013968845242126652
+P('great'|Spam) = 0.00021164917033525228
+P('regard'|Spam) = 0.00012698950220115136
+P('clearly'|Spam) = 8.465966813410092e-05
+P('sound'|Spam) = 0.00025397900440230273
+P('since'|Spam) = 8.465966813410092e-05
+P('claim'|Spam) = 4.232983406705046e-05
+P('between'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0008042668472739587
+P('many'|Spam) = 0.0032170673890958346
+P('work'|Spam) = 0.0015238740264138164
+P('paper'|Spam) = 0.0003809685066034541
+P('even'|Spam) = 0.0010582458516762614
+P('reality'|Spam) = 4.232983406705046e-05
+P('position'|Spam) = 0.00016931933626820184
+P('case'|Spam) = 0.00012698950220115136
+P('clear'|Spam) = 0.0003386386725364037
+P('never'|Spam) = 0.00046562817473755504
+P('word'|Spam) = 0.0015238740264138164
+P('specific'|Spam) = 8.465966813410092e-05
+P('kind'|Spam) = 0.0005079580088046055
+P('anything'|Spam) = 0.00021164917033525228
+P('type'|Spam) = 0.0006349475110057569
+P('question'|Spam) = 0.0002963088384693532
+P('two'|Spam) = 0.00016931933626820184
+log10 P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -164.18110228282862
+
+P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('eskimo'|Hpam) = 0.0014280150590678957
+P('snow'|Hpam) = 0.001752563936128781
+P('context'|Hpam) = 0.0007302349733869921
+P(''|Hpam) = 0.01440997014150331
+P('quotation'|Hpam) = 1.622744385304427e-05
+P('whorf'|Hpam) = 0.0001947293262365312
+P('show'|Hpam) = 0.0010385564065948333
+P(','|Hpam) = 0.44016941451382574
+P('concern'|Hpam) = 0.0012332857328313644
+P('issue'|Hpam) = 0.003634947423081916
+P('whether'|Hpam) = 0.004657276385823705
+P('general'|Hpam) = 0.0015578346098922497
+P('term'|Hpam) = 0.002677528235752304
+P(''s'|Hpam) = 0.019797481500714007
+P('''|Hpam) = 0.030864598208490197
+P('language'|Hpam) = 0.04994807217967026
+P('('|Hpam) = 0.03634947423081916
+P('english'|Hpam) = 0.004348954952615864
+P(')'|Hpam) = 0.03768012462676879
+P('multitude'|Hpam) = 1.622744385304427e-05
+P('specialize'|Hpam) = 3.245488770608854e-05
+P('.'|Hpam) = 0.5113916655848371
+P('useful'|Hpam) = 0.0001460469946773984
+P('point'|Hpam) = 0.0009249642996235233
+P('second'|Hpam) = 0.0005679605348565494
+P('half'|Hpam) = 9.73646631182656e-05
+P('19th'|Hpam) = 3.245488770608854e-05
+P('century'|Hpam) = 0.00022718421394261976
+P('one'|Hpam) = 0.006393612878099442
+P('big'|Hpam) = 0.00022718421394261976
+P('linguist'|Hpam) = 0.0022231598078670646
+P('anthropologist'|Hpam) = 1.622744385304427e-05
+P('"'|Hpam) = 0.1424120472543165
+P('primitive'|Hpam) = 0.0001460469946773984
+P('possess'|Hpam) = 9.73646631182656e-05
+P('abstract'|Hpam) = 0.0003570037647669739
+P('must'|Hpam) = 0.0006166428664156822
+P('view'|Hpam) = 0.0004868233155913281
+P('interest'|Hpam) = 0.0017363364922757367
+P('add'|Hpam) = 0.00016227443853044268
+P('great'|Hpam) = 0.0003570037647669739
+P('regard'|Hpam) = 0.00022718421394261976
+P('clearly'|Hpam) = 0.00032454887706088537
+P('define'|Hpam) = 0.00017850188238348696
+P('sound'|Hpam) = 0.00032454887706088537
+P('since'|Hpam) = 0.0007302349733869921
+P('widely'|Hpam) = 3.245488770608854e-05
+P('claim'|Hpam) = 0.0003894586524730624
+P('between'|Hpam) = 0.0008113721926522134
+P('different'|Hpam) = 0.0007626898610930806
+P('boa'|Hpam) = 0.00022718421394261976
+P('many'|Hpam) = 0.0028235752304297027
+P('listen'|Hpam) = 4.86823315591328e-05
+P('work'|Hpam) = 0.00254770868492795
+P('sapir'|Hpam) = 0.00017850188238348696
+P('paper'|Hpam) = 0.0007626898610930806
+P('even'|Hpam) = 0.0008275996365052577
+P('psychological'|Hpam) = 4.86823315591328e-05
+P('reality'|Hpam) = 3.245488770608854e-05
+P('largely'|Hpam) = 3.245488770608854e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('defend'|Hpam) = 3.245488770608854e-05
+P('position'|Hpam) = 0.0005517330910035051
+P('case'|Hpam) = 0.0009574191873296118
+P('clear'|Hpam) = 0.00032454887706088537
+P('never'|Hpam) = 0.0003732312086200182
+P('word'|Hpam) = 0.007075165519927301
+P('specific'|Hpam) = 0.00012981955082435416
+P('kind'|Hpam) = 0.0016065169414513827
+P('anything'|Hpam) = 0.00027586654550175254
+P('type'|Hpam) = 0.0006166428664156822
+P('question'|Hpam) = 0.0009898740750357003
+P('two'|Hpam) = 0.001087238738153966
+P('ancient'|Hpam) = 1.622744385304427e-05
+P('greek'|Hpam) = 0.00034077632091392964
+P('variety'|Hpam) = 0.00021095677008957549
+P('particular'|Hpam) = 0.0005517330910035051
+P('alexis'|Hpam) = 1.622744385304427e-05
+log10 P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -252.1088936458528
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(''|Spam) = 0.006942092786996275
+P('show'|Spam) = 0.0016931933626820183
+P(','|Spam) = 0.23023196749068744
+P('concern'|Spam) = 0.00016931933626820184
+P('general'|Spam) = 0.00025397900440230273
+P('term'|Spam) = 0.00012698950220115136
+P(''s'|Spam) = 0.010667118184896716
+P('''|Spam) = 0.005460548594649509
+P('('|Spam) = 0.00829664747714189
+P(')'|Spam) = 0.009397223162885202
+P('specialize'|Spam) = 4.232983406705046e-05
+P('.'|Spam) = 0.560320013545547
+P('useful'|Spam) = 8.465966813410092e-05
+P('point'|Spam) = 8.465966813410092e-05
+P('second'|Spam) = 4.232983406705046e-05
+P('half'|Spam) = 4.232983406705046e-05
+P('century'|Spam) = 4.232983406705046e-05
+P('thereafter'|Spam) = 4.232983406705046e-05
+P('one'|Spam) = 0.005164239756180156
+P('big'|Spam) = 0.0005079580088046055
+P('"'|Spam) = 0.07043684388757196
+P('must'|Spam) = 0.0005926176769387064
+P('view'|Spam) = 4.232983406705046e-05
+P('interest'|Spam) = 0.0006349475110057569
+P('add'|Spam) = 0.0013968845242126652
+P('great'|Spam) = 0.00021164917033525228
+P('regard'|Spam) = 0.00012698950220115136
+P('clearly'|Spam) = 8.465966813410092e-05
+P('sound'|Spam) = 0.00025397900440230273
+P('since'|Spam) = 8.465966813410092e-05
+P('claim'|Spam) = 4.232983406705046e-05
+P('between'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0008042668472739587
+P('many'|Spam) = 0.0032170673890958346
+P('work'|Spam) = 0.0015238740264138164
+P('paper'|Spam) = 0.0003809685066034541
+P('even'|Spam) = 0.0010582458516762614
+P('reality'|Spam) = 4.232983406705046e-05
+P('position'|Spam) = 0.00016931933626820184
+P('case'|Spam) = 0.00012698950220115136
+P('clear'|Spam) = 0.0003386386725364037
+P('never'|Spam) = 0.00046562817473755504
+P('word'|Spam) = 0.0015238740264138164
+P('specific'|Spam) = 8.465966813410092e-05
+P('kind'|Spam) = 0.0005079580088046055
+P('anything'|Spam) = 0.00021164917033525228
+P('type'|Spam) = 0.0006349475110057569
+P('question'|Spam) = 0.0002963088384693532
+P('two'|Spam) = 0.00016931933626820184
+log2 P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -545.397816322904
+
+P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('eskimo'|Hpam) = 0.0014280150590678957
+P('snow'|Hpam) = 0.001752563936128781
+P('context'|Hpam) = 0.0007302349733869921
+P(''|Hpam) = 0.01440997014150331
+P('quotation'|Hpam) = 1.622744385304427e-05
+P('whorf'|Hpam) = 0.0001947293262365312
+P('show'|Hpam) = 0.0010385564065948333
+P(','|Hpam) = 0.44016941451382574
+P('concern'|Hpam) = 0.0012332857328313644
+P('issue'|Hpam) = 0.003634947423081916
+P('whether'|Hpam) = 0.004657276385823705
+P('general'|Hpam) = 0.0015578346098922497
+P('term'|Hpam) = 0.002677528235752304
+P(''s'|Hpam) = 0.019797481500714007
+P('''|Hpam) = 0.030864598208490197
+P('language'|Hpam) = 0.04994807217967026
+P('('|Hpam) = 0.03634947423081916
+P('english'|Hpam) = 0.004348954952615864
+P(')'|Hpam) = 0.03768012462676879
+P('multitude'|Hpam) = 1.622744385304427e-05
+P('specialize'|Hpam) = 3.245488770608854e-05
+P('.'|Hpam) = 0.5113916655848371
+P('useful'|Hpam) = 0.0001460469946773984
+P('point'|Hpam) = 0.0009249642996235233
+P('second'|Hpam) = 0.0005679605348565494
+P('half'|Hpam) = 9.73646631182656e-05
+P('19th'|Hpam) = 3.245488770608854e-05
+P('century'|Hpam) = 0.00022718421394261976
+P('one'|Hpam) = 0.006393612878099442
+P('big'|Hpam) = 0.00022718421394261976
+P('linguist'|Hpam) = 0.0022231598078670646
+P('anthropologist'|Hpam) = 1.622744385304427e-05
+P('"'|Hpam) = 0.1424120472543165
+P('primitive'|Hpam) = 0.0001460469946773984
+P('possess'|Hpam) = 9.73646631182656e-05
+P('abstract'|Hpam) = 0.0003570037647669739
+P('must'|Hpam) = 0.0006166428664156822
+P('view'|Hpam) = 0.0004868233155913281
+P('interest'|Hpam) = 0.0017363364922757367
+P('add'|Hpam) = 0.00016227443853044268
+P('great'|Hpam) = 0.0003570037647669739
+P('regard'|Hpam) = 0.00022718421394261976
+P('clearly'|Hpam) = 0.00032454887706088537
+P('define'|Hpam) = 0.00017850188238348696
+P('sound'|Hpam) = 0.00032454887706088537
+P('since'|Hpam) = 0.0007302349733869921
+P('widely'|Hpam) = 3.245488770608854e-05
+P('claim'|Hpam) = 0.0003894586524730624
+P('between'|Hpam) = 0.0008113721926522134
+P('different'|Hpam) = 0.0007626898610930806
+P('boa'|Hpam) = 0.00022718421394261976
+P('many'|Hpam) = 0.0028235752304297027
+P('listen'|Hpam) = 4.86823315591328e-05
+P('work'|Hpam) = 0.00254770868492795
+P('sapir'|Hpam) = 0.00017850188238348696
+P('paper'|Hpam) = 0.0007626898610930806
+P('even'|Hpam) = 0.0008275996365052577
+P('psychological'|Hpam) = 4.86823315591328e-05
+P('reality'|Hpam) = 3.245488770608854e-05
+P('largely'|Hpam) = 3.245488770608854e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('defend'|Hpam) = 3.245488770608854e-05
+P('position'|Hpam) = 0.0005517330910035051
+P('case'|Hpam) = 0.0009574191873296118
+P('clear'|Hpam) = 0.00032454887706088537
+P('never'|Hpam) = 0.0003732312086200182
+P('word'|Hpam) = 0.007075165519927301
+P('specific'|Hpam) = 0.00012981955082435416
+P('kind'|Hpam) = 0.0016065169414513827
+P('anything'|Hpam) = 0.00027586654550175254
+P('type'|Hpam) = 0.0006166428664156822
+P('question'|Hpam) = 0.0009898740750357003
+P('two'|Hpam) = 0.001087238738153966
+P('ancient'|Hpam) = 1.622744385304427e-05
+P('greek'|Hpam) = 0.00034077632091392964
+P('variety'|Hpam) = 0.00021095677008957549
+P('particular'|Hpam) = 0.0005517330910035051
+P('alexis'|Hpam) = 1.622744385304427e-05
+log2 P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -837.487616773129
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(''|Spam) = 0.006942092786996275
+P('show'|Spam) = 0.0016931933626820183
+P(','|Spam) = 0.23023196749068744
+P('concern'|Spam) = 0.00016931933626820184
+P('general'|Spam) = 0.00025397900440230273
+P('term'|Spam) = 0.00012698950220115136
+P(''s'|Spam) = 0.010667118184896716
+P('''|Spam) = 0.005460548594649509
+P('('|Spam) = 0.00829664747714189
+P(')'|Spam) = 0.009397223162885202
+P('specialize'|Spam) = 4.232983406705046e-05
+P('.'|Spam) = 0.560320013545547
+P('useful'|Spam) = 8.465966813410092e-05
+P('point'|Spam) = 8.465966813410092e-05
+P('second'|Spam) = 4.232983406705046e-05
+P('half'|Spam) = 4.232983406705046e-05
+P('century'|Spam) = 4.232983406705046e-05
+P('thereafter'|Spam) = 4.232983406705046e-05
+P('one'|Spam) = 0.005164239756180156
+P('big'|Spam) = 0.0005079580088046055
+P('"'|Spam) = 0.07043684388757196
+P('must'|Spam) = 0.0005926176769387064
+P('view'|Spam) = 4.232983406705046e-05
+P('interest'|Spam) = 0.0006349475110057569
+P('add'|Spam) = 0.0013968845242126652
+P('great'|Spam) = 0.00021164917033525228
+P('regard'|Spam) = 0.00012698950220115136
+P('clearly'|Spam) = 8.465966813410092e-05
+P('sound'|Spam) = 0.00025397900440230273
+P('since'|Spam) = 8.465966813410092e-05
+P('claim'|Spam) = 4.232983406705046e-05
+P('between'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0008042668472739587
+P('many'|Spam) = 0.0032170673890958346
+P('work'|Spam) = 0.0015238740264138164
+P('paper'|Spam) = 0.0003809685066034541
+P('even'|Spam) = 0.0010582458516762614
+P('reality'|Spam) = 4.232983406705046e-05
+P('position'|Spam) = 0.00016931933626820184
+P('case'|Spam) = 0.00012698950220115136
+P('clear'|Spam) = 0.0003386386725364037
+P('never'|Spam) = 0.00046562817473755504
+P('word'|Spam) = 0.0015238740264138164
+P('specific'|Spam) = 8.465966813410092e-05
+P('kind'|Spam) = 0.0005079580088046055
+P('anything'|Spam) = 0.00021164917033525228
+P('type'|Spam) = 0.0006349475110057569
+P('question'|Spam) = 0.0002963088384693532
+P('two'|Spam) = 0.00016931933626820184
+log2 P(Spam, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -545.397816322904
+
+P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('eskimo'|Hpam) = 0.0014280150590678957
+P('snow'|Hpam) = 0.001752563936128781
+P('context'|Hpam) = 0.0007302349733869921
+P(''|Hpam) = 0.01440997014150331
+P('quotation'|Hpam) = 1.622744385304427e-05
+P('whorf'|Hpam) = 0.0001947293262365312
+P('show'|Hpam) = 0.0010385564065948333
+P(','|Hpam) = 0.44016941451382574
+P('concern'|Hpam) = 0.0012332857328313644
+P('issue'|Hpam) = 0.003634947423081916
+P('whether'|Hpam) = 0.004657276385823705
+P('general'|Hpam) = 0.0015578346098922497
+P('term'|Hpam) = 0.002677528235752304
+P(''s'|Hpam) = 0.019797481500714007
+P('''|Hpam) = 0.030864598208490197
+P('language'|Hpam) = 0.04994807217967026
+P('('|Hpam) = 0.03634947423081916
+P('english'|Hpam) = 0.004348954952615864
+P(')'|Hpam) = 0.03768012462676879
+P('multitude'|Hpam) = 1.622744385304427e-05
+P('specialize'|Hpam) = 3.245488770608854e-05
+P('.'|Hpam) = 0.5113916655848371
+P('useful'|Hpam) = 0.0001460469946773984
+P('point'|Hpam) = 0.0009249642996235233
+P('second'|Hpam) = 0.0005679605348565494
+P('half'|Hpam) = 9.73646631182656e-05
+P('19th'|Hpam) = 3.245488770608854e-05
+P('century'|Hpam) = 0.00022718421394261976
+P('one'|Hpam) = 0.006393612878099442
+P('big'|Hpam) = 0.00022718421394261976
+P('linguist'|Hpam) = 0.0022231598078670646
+P('anthropologist'|Hpam) = 1.622744385304427e-05
+P('"'|Hpam) = 0.1424120472543165
+P('primitive'|Hpam) = 0.0001460469946773984
+P('possess'|Hpam) = 9.73646631182656e-05
+P('abstract'|Hpam) = 0.0003570037647669739
+P('must'|Hpam) = 0.0006166428664156822
+P('view'|Hpam) = 0.0004868233155913281
+P('interest'|Hpam) = 0.0017363364922757367
+P('add'|Hpam) = 0.00016227443853044268
+P('great'|Hpam) = 0.0003570037647669739
+P('regard'|Hpam) = 0.00022718421394261976
+P('clearly'|Hpam) = 0.00032454887706088537
+P('define'|Hpam) = 0.00017850188238348696
+P('sound'|Hpam) = 0.00032454887706088537
+P('since'|Hpam) = 0.0007302349733869921
+P('widely'|Hpam) = 3.245488770608854e-05
+P('claim'|Hpam) = 0.0003894586524730624
+P('between'|Hpam) = 0.0008113721926522134
+P('different'|Hpam) = 0.0007626898610930806
+P('boa'|Hpam) = 0.00022718421394261976
+P('many'|Hpam) = 0.0028235752304297027
+P('listen'|Hpam) = 4.86823315591328e-05
+P('work'|Hpam) = 0.00254770868492795
+P('sapir'|Hpam) = 0.00017850188238348696
+P('paper'|Hpam) = 0.0007626898610930806
+P('even'|Hpam) = 0.0008275996365052577
+P('psychological'|Hpam) = 4.86823315591328e-05
+P('reality'|Hpam) = 3.245488770608854e-05
+P('largely'|Hpam) = 3.245488770608854e-05
+P('attempt'|Hpam) = 0.00032454887706088537
+P('defend'|Hpam) = 3.245488770608854e-05
+P('position'|Hpam) = 0.0005517330910035051
+P('case'|Hpam) = 0.0009574191873296118
+P('clear'|Hpam) = 0.00032454887706088537
+P('never'|Hpam) = 0.0003732312086200182
+P('word'|Hpam) = 0.007075165519927301
+P('specific'|Hpam) = 0.00012981955082435416
+P('kind'|Hpam) = 0.0016065169414513827
+P('anything'|Hpam) = 0.00027586654550175254
+P('type'|Hpam) = 0.0006166428664156822
+P('question'|Hpam) = 0.0009898740750357003
+P('two'|Hpam) = 0.001087238738153966
+P('ancient'|Hpam) = 1.622744385304427e-05
+P('greek'|Hpam) = 0.00034077632091392964
+P('variety'|Hpam) = 0.00021095677008957549
+P('particular'|Hpam) = 0.0005517330910035051
+P('alexis'|Hpam) = 1.622744385304427e-05
+log2 P(Ham, Subject: eskimo snow context
+
+quotation whorf show , concern issue whether general term 's ' eskimo language , whether eskimo ( english ) multitude specialize term . useful point second half 19th century thereafter one big issue concern linguist anthropologist whether " primitive " " primitive " language possess abstract term . must view whorf 's ' preoccupation context . ( interest add great issue regard " primitive " language whether possess clearly define sound , since widely claim speakersof language " alternate " between different pronunication . boa show illusion , many listen , work sapir 's paper sound pattenr even psychological reality largely understood attempt defend boa position ) . case , clear issue never many word language specific kind anything , whether word general type kind . context question whether eskimo language one word 's ' english two ancient greek whether variety particular word kind snow . alexis
+) = -837.487616773129
+
+Conclusion: This message is classified as Spam.

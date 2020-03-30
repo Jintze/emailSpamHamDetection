@@ -1,0 +1,462 @@
+P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('`'|Spam) = 0.00012698950220115136
+P(''|Spam) = 0.006942092786996275
+P('hello'|Spam) = 0.00012698950220115136
+P('!'|Spam) = 0.04901794784964443
+P('our'|Spam) = 0.0034710463934981375
+P('little'|Spam) = 0.00025397900440230273
+P('city'|Spam) = 0.0007196071791398578
+P('made'|Spam) = 4.232983406705046e-05
+P('especially'|Spam) = 8.465966813410092e-05
+P('adult'|Spam) = 0.0006349475110057569
+P('http'|Spam) = 0.0011429055198103623
+P(':'|Spam) = 0.00838130714527599
+P('/'|Spam) = 0.025736539112766677
+P('.'|Spam) = 0.32018286488316966
+P('98'|Spam) = 4.232983406705046e-05
+P('enter'|Spam) = 0.00016931933626820184
+P('html'|Spam) = 0.00021164917033525228
+P('once'|Spam) = 0.00016931933626820184
+P('here'|Spam) = 0.0006772773450728074
+P(','|Spam) = 0.032890281070098205
+P('won't'|Spam) = 0.00012698950220115136
+P('want'|Spam) = 0.0016931933626820183
+P('leave'|Spam) = 0.00025397900440230273
+log P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -166.91770928280172
+
+P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('`'|Hpam) = 0.0003732312086200182
+P(''|Hpam) = 0.01440997014150331
+P('hello'|Hpam) = 1.622744385304427e-05
+P('!'|Hpam) = 0.0082110865896404
+P('our'|Hpam) = 0.001379332727508763
+P('little'|Hpam) = 0.0008113721926522134
+P('city'|Hpam) = 0.00016227443853044268
+P('especially'|Hpam) = 0.00034077632091392964
+P('adult'|Hpam) = 0.0001460469946773984
+P('http'|Hpam) = 0.0003570037647669739
+P(':'|Hpam) = 0.01638971829157471
+P('/'|Hpam) = 0.02550954173698559
+P('.'|Hpam) = 0.29222380890562116
+P('26'|Hpam) = 3.245488770608854e-05
+P('207'|Hpam) = 3.245488770608854e-05
+P('enter'|Hpam) = 9.73646631182656e-05
+P('html'|Hpam) = 0.00017850188238348696
+P('once'|Hpam) = 0.0002920939893547968
+P('here'|Hpam) = 0.0008113721926522134
+P(','|Hpam) = 0.06288134493054653
+P('want'|Hpam) = 0.0005841879787095936
+P('leave'|Hpam) = 0.00027586654550175254
+log P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -161.9941166786814
+
+Conclusion: This message is classified as Ham.
+P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('`'|Spam) = 0.00012698950220115136
+P(''|Spam) = 0.006942092786996275
+P('hello'|Spam) = 0.00012698950220115136
+P('!'|Spam) = 0.04901794784964443
+P('our'|Spam) = 0.0034710463934981375
+P('little'|Spam) = 0.00025397900440230273
+P('city'|Spam) = 0.0007196071791398578
+P('made'|Spam) = 4.232983406705046e-05
+P('especially'|Spam) = 8.465966813410092e-05
+P('adult'|Spam) = 0.0006349475110057569
+P('http'|Spam) = 0.0011429055198103623
+P(':'|Spam) = 0.00838130714527599
+P('/'|Spam) = 0.025736539112766677
+P('.'|Spam) = 0.32018286488316966
+P('98'|Spam) = 4.232983406705046e-05
+P('enter'|Spam) = 0.00016931933626820184
+P('html'|Spam) = 0.00021164917033525228
+P('once'|Spam) = 0.00016931933626820184
+P('here'|Spam) = 0.0006772773450728074
+P(','|Spam) = 0.032890281070098205
+P('won't'|Spam) = 0.00012698950220115136
+P('want'|Spam) = 0.0016931933626820183
+P('leave'|Spam) = 0.00025397900440230273
+log P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -166.91770928280172
+
+P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('`'|Hpam) = 0.0003732312086200182
+P(''|Hpam) = 0.01440997014150331
+P('hello'|Hpam) = 1.622744385304427e-05
+P('!'|Hpam) = 0.0082110865896404
+P('our'|Hpam) = 0.001379332727508763
+P('little'|Hpam) = 0.0008113721926522134
+P('city'|Hpam) = 0.00016227443853044268
+P('especially'|Hpam) = 0.00034077632091392964
+P('adult'|Hpam) = 0.0001460469946773984
+P('http'|Hpam) = 0.0003570037647669739
+P(':'|Hpam) = 0.01638971829157471
+P('/'|Hpam) = 0.02550954173698559
+P('.'|Hpam) = 0.29222380890562116
+P('26'|Hpam) = 3.245488770608854e-05
+P('207'|Hpam) = 3.245488770608854e-05
+P('enter'|Hpam) = 9.73646631182656e-05
+P('html'|Hpam) = 0.00017850188238348696
+P('once'|Hpam) = 0.0002920939893547968
+P('here'|Hpam) = 0.0008113721926522134
+P(','|Hpam) = 0.06288134493054653
+P('want'|Hpam) = 0.0005841879787095936
+P('leave'|Hpam) = 0.00027586654550175254
+log P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -161.9941166786814
+
+Conclusion: This message is classified as Ham.
+P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('`'|Spam) = 0.00012698950220115136
+P(''|Spam) = 0.006942092786996275
+P('hello'|Spam) = 0.00012698950220115136
+P('!'|Spam) = 0.04901794784964443
+P('our'|Spam) = 0.0034710463934981375
+P('little'|Spam) = 0.00025397900440230273
+P('city'|Spam) = 0.0007196071791398578
+P('made'|Spam) = 4.232983406705046e-05
+P('especially'|Spam) = 8.465966813410092e-05
+P('adult'|Spam) = 0.0006349475110057569
+P('http'|Spam) = 0.0011429055198103623
+P(':'|Spam) = 0.00838130714527599
+P('/'|Spam) = 0.025736539112766677
+P('.'|Spam) = 0.32018286488316966
+P('98'|Spam) = 4.232983406705046e-05
+P('enter'|Spam) = 0.00016931933626820184
+P('html'|Spam) = 0.00021164917033525228
+P('once'|Spam) = 0.00016931933626820184
+P('here'|Spam) = 0.0006772773450728074
+P(','|Spam) = 0.032890281070098205
+P('won't'|Spam) = 0.00012698950220115136
+P('want'|Spam) = 0.0016931933626820183
+P('leave'|Spam) = 0.00025397900440230273
+log2 P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -240.8113514188438
+
+P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('`'|Hpam) = 0.0003732312086200182
+P(''|Hpam) = 0.01440997014150331
+P('hello'|Hpam) = 1.622744385304427e-05
+P('!'|Hpam) = 0.0082110865896404
+P('our'|Hpam) = 0.001379332727508763
+P('little'|Hpam) = 0.0008113721926522134
+P('city'|Hpam) = 0.00016227443853044268
+P('especially'|Hpam) = 0.00034077632091392964
+P('adult'|Hpam) = 0.0001460469946773984
+P('http'|Hpam) = 0.0003570037647669739
+P(':'|Hpam) = 0.01638971829157471
+P('/'|Hpam) = 0.02550954173698559
+P('.'|Hpam) = 0.29222380890562116
+P('26'|Hpam) = 3.245488770608854e-05
+P('207'|Hpam) = 3.245488770608854e-05
+P('enter'|Hpam) = 9.73646631182656e-05
+P('html'|Hpam) = 0.00017850188238348696
+P('once'|Hpam) = 0.0002920939893547968
+P('here'|Hpam) = 0.0008113721926522134
+P(','|Hpam) = 0.06288134493054653
+P('want'|Hpam) = 0.0005841879787095936
+P('leave'|Hpam) = 0.00027586654550175254
+log2 P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -233.70810878552174
+
+Conclusion: This message is classified as Ham.
+P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('`'|Spam) = 0.00012698950220115136
+P(''|Spam) = 0.006942092786996275
+P('hello'|Spam) = 0.00012698950220115136
+P('!'|Spam) = 0.04901794784964443
+P('our'|Spam) = 0.0034710463934981375
+P('little'|Spam) = 0.00025397900440230273
+P('city'|Spam) = 0.0007196071791398578
+P('made'|Spam) = 4.232983406705046e-05
+P('especially'|Spam) = 8.465966813410092e-05
+P('adult'|Spam) = 0.0006349475110057569
+P('http'|Spam) = 0.0011429055198103623
+P(':'|Spam) = 0.00838130714527599
+P('/'|Spam) = 0.025736539112766677
+P('.'|Spam) = 0.32018286488316966
+P('98'|Spam) = 4.232983406705046e-05
+P('enter'|Spam) = 0.00016931933626820184
+P('html'|Spam) = 0.00021164917033525228
+P('once'|Spam) = 0.00016931933626820184
+P('here'|Spam) = 0.0006772773450728074
+P(','|Spam) = 0.032890281070098205
+P('won't'|Spam) = 0.00012698950220115136
+P('want'|Spam) = 0.0016931933626820183
+P('leave'|Spam) = 0.00025397900440230273
+log P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -166.91770928280172
+
+P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('`'|Hpam) = 0.0003732312086200182
+P(''|Hpam) = 0.01440997014150331
+P('hello'|Hpam) = 1.622744385304427e-05
+P('!'|Hpam) = 0.0082110865896404
+P('our'|Hpam) = 0.001379332727508763
+P('little'|Hpam) = 0.0008113721926522134
+P('city'|Hpam) = 0.00016227443853044268
+P('especially'|Hpam) = 0.00034077632091392964
+P('adult'|Hpam) = 0.0001460469946773984
+P('http'|Hpam) = 0.0003570037647669739
+P(':'|Hpam) = 0.01638971829157471
+P('/'|Hpam) = 0.02550954173698559
+P('.'|Hpam) = 0.29222380890562116
+P('26'|Hpam) = 3.245488770608854e-05
+P('207'|Hpam) = 3.245488770608854e-05
+P('enter'|Hpam) = 9.73646631182656e-05
+P('html'|Hpam) = 0.00017850188238348696
+P('once'|Hpam) = 0.0002920939893547968
+P('here'|Hpam) = 0.0008113721926522134
+P(','|Hpam) = 0.06288134493054653
+P('want'|Hpam) = 0.0005841879787095936
+P('leave'|Hpam) = 0.00027586654550175254
+log P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -161.9941166786814
+
+Conclusion: This message is classified as Ham.
+P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('`'|Spam) = 0.00012698950220115136
+P(''|Spam) = 0.006942092786996275
+P('hello'|Spam) = 0.00012698950220115136
+P('!'|Spam) = 0.04901794784964443
+P('our'|Spam) = 0.0034710463934981375
+P('little'|Spam) = 0.00025397900440230273
+P('city'|Spam) = 0.0007196071791398578
+P('made'|Spam) = 4.232983406705046e-05
+P('especially'|Spam) = 8.465966813410092e-05
+P('adult'|Spam) = 0.0006349475110057569
+P('http'|Spam) = 0.0011429055198103623
+P(':'|Spam) = 0.00838130714527599
+P('/'|Spam) = 0.025736539112766677
+P('.'|Spam) = 0.32018286488316966
+P('98'|Spam) = 4.232983406705046e-05
+P('enter'|Spam) = 0.00016931933626820184
+P('html'|Spam) = 0.00021164917033525228
+P('once'|Spam) = 0.00016931933626820184
+P('here'|Spam) = 0.0006772773450728074
+P(','|Spam) = 0.032890281070098205
+P('won't'|Spam) = 0.00012698950220115136
+P('want'|Spam) = 0.0016931933626820183
+P('leave'|Spam) = 0.00025397900440230273
+log10 P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -72.49144007345198
+
+P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('`'|Hpam) = 0.0003732312086200182
+P(''|Hpam) = 0.01440997014150331
+P('hello'|Hpam) = 1.622744385304427e-05
+P('!'|Hpam) = 0.0082110865896404
+P('our'|Hpam) = 0.001379332727508763
+P('little'|Hpam) = 0.0008113721926522134
+P('city'|Hpam) = 0.00016227443853044268
+P('especially'|Hpam) = 0.00034077632091392964
+P('adult'|Hpam) = 0.0001460469946773984
+P('http'|Hpam) = 0.0003570037647669739
+P(':'|Hpam) = 0.01638971829157471
+P('/'|Hpam) = 0.02550954173698559
+P('.'|Hpam) = 0.29222380890562116
+P('26'|Hpam) = 3.245488770608854e-05
+P('207'|Hpam) = 3.245488770608854e-05
+P('enter'|Hpam) = 9.73646631182656e-05
+P('html'|Hpam) = 0.00017850188238348696
+P('once'|Hpam) = 0.0002920939893547968
+P('here'|Hpam) = 0.0008113721926522134
+P(','|Hpam) = 0.06288134493054653
+P('want'|Hpam) = 0.0005841879787095936
+P('leave'|Hpam) = 0.00027586654550175254
+log10 P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -70.35315097434285
+
+Conclusion: This message is classified as Ham.
+P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('`'|Spam) = 0.00012698950220115136
+P(''|Spam) = 0.006942092786996275
+P('hello'|Spam) = 0.00012698950220115136
+P('!'|Spam) = 0.04901794784964443
+P('our'|Spam) = 0.0034710463934981375
+P('little'|Spam) = 0.00025397900440230273
+P('city'|Spam) = 0.0007196071791398578
+P('made'|Spam) = 4.232983406705046e-05
+P('especially'|Spam) = 8.465966813410092e-05
+P('adult'|Spam) = 0.0006349475110057569
+P('http'|Spam) = 0.0011429055198103623
+P(':'|Spam) = 0.00838130714527599
+P('/'|Spam) = 0.025736539112766677
+P('.'|Spam) = 0.32018286488316966
+P('98'|Spam) = 4.232983406705046e-05
+P('enter'|Spam) = 0.00016931933626820184
+P('html'|Spam) = 0.00021164917033525228
+P('once'|Spam) = 0.00016931933626820184
+P('here'|Spam) = 0.0006772773450728074
+P(','|Spam) = 0.032890281070098205
+P('won't'|Spam) = 0.00012698950220115136
+P('want'|Spam) = 0.0016931933626820183
+P('leave'|Spam) = 0.00025397900440230273
+log2 P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -240.8113514188438
+
+P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('`'|Hpam) = 0.0003732312086200182
+P(''|Hpam) = 0.01440997014150331
+P('hello'|Hpam) = 1.622744385304427e-05
+P('!'|Hpam) = 0.0082110865896404
+P('our'|Hpam) = 0.001379332727508763
+P('little'|Hpam) = 0.0008113721926522134
+P('city'|Hpam) = 0.00016227443853044268
+P('especially'|Hpam) = 0.00034077632091392964
+P('adult'|Hpam) = 0.0001460469946773984
+P('http'|Hpam) = 0.0003570037647669739
+P(':'|Hpam) = 0.01638971829157471
+P('/'|Hpam) = 0.02550954173698559
+P('.'|Hpam) = 0.29222380890562116
+P('26'|Hpam) = 3.245488770608854e-05
+P('207'|Hpam) = 3.245488770608854e-05
+P('enter'|Hpam) = 9.73646631182656e-05
+P('html'|Hpam) = 0.00017850188238348696
+P('once'|Hpam) = 0.0002920939893547968
+P('here'|Hpam) = 0.0008113721926522134
+P(','|Hpam) = 0.06288134493054653
+P('want'|Hpam) = 0.0005841879787095936
+P('leave'|Hpam) = 0.00027586654550175254
+log2 P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -233.70810878552174
+
+Conclusion: This message is classified as Ham.
+P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('`'|Spam) = 0.00012698950220115136
+P(''|Spam) = 0.006942092786996275
+P('hello'|Spam) = 0.00012698950220115136
+P('!'|Spam) = 0.04901794784964443
+P('our'|Spam) = 0.0034710463934981375
+P('little'|Spam) = 0.00025397900440230273
+P('city'|Spam) = 0.0007196071791398578
+P('made'|Spam) = 4.232983406705046e-05
+P('especially'|Spam) = 8.465966813410092e-05
+P('adult'|Spam) = 0.0006349475110057569
+P('http'|Spam) = 0.0011429055198103623
+P(':'|Spam) = 0.00838130714527599
+P('/'|Spam) = 0.025736539112766677
+P('.'|Spam) = 0.32018286488316966
+P('98'|Spam) = 4.232983406705046e-05
+P('enter'|Spam) = 0.00016931933626820184
+P('html'|Spam) = 0.00021164917033525228
+P('once'|Spam) = 0.00016931933626820184
+P('here'|Spam) = 0.0006772773450728074
+P(','|Spam) = 0.032890281070098205
+P('won't'|Spam) = 0.00012698950220115136
+P('want'|Spam) = 0.0016931933626820183
+P('leave'|Spam) = 0.00025397900440230273
+log2 P(Spam, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -240.8113514188438
+
+P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('`'|Hpam) = 0.0003732312086200182
+P(''|Hpam) = 0.01440997014150331
+P('hello'|Hpam) = 1.622744385304427e-05
+P('!'|Hpam) = 0.0082110865896404
+P('our'|Hpam) = 0.001379332727508763
+P('little'|Hpam) = 0.0008113721926522134
+P('city'|Hpam) = 0.00016227443853044268
+P('especially'|Hpam) = 0.00034077632091392964
+P('adult'|Hpam) = 0.0001460469946773984
+P('http'|Hpam) = 0.0003570037647669739
+P(':'|Hpam) = 0.01638971829157471
+P('/'|Hpam) = 0.02550954173698559
+P('.'|Hpam) = 0.29222380890562116
+P('26'|Hpam) = 3.245488770608854e-05
+P('207'|Hpam) = 3.245488770608854e-05
+P('enter'|Hpam) = 9.73646631182656e-05
+P('html'|Hpam) = 0.00017850188238348696
+P('once'|Hpam) = 0.0002920939893547968
+P('here'|Hpam) = 0.0008113721926522134
+P(','|Hpam) = 0.06288134493054653
+P('want'|Hpam) = 0.0005841879787095936
+P('leave'|Hpam) = 0.00027586654550175254
+log2 P(Ham, Subject: `
+
+hello ! our naughty little city made especially adult http : / / 208 . 26 . 207 . 98 / freeweek / enter . html once here , won't want leave !
+) = -233.70810878552174
+
+Conclusion: This message is classified as Ham.

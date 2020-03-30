@@ -1,0 +1,588 @@
+P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('black'|Spam) = 0.00025397900440230273
+P(''|Spam) = 0.006942092786996275
+P('wonder'|Spam) = 4.232983406705046e-05
+P('anyone'|Spam) = 0.00016931933626820184
+P('research'|Spam) = 0.00025397900440230273
+P('recent'|Spam) = 0.00012698950220115136
+P('.'|Spam) = 0.24013714866237723
+P('interest'|Spam) = 0.0006349475110057569
+P('old'|Spam) = 0.00025397900440230273
+P('claim'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.002666779546224179
+P('across'|Spam) = 8.465966813410092e-05
+P('boundary'|Spam) = 0.00012698950220115136
+P(':'|Spam) = 0.00838130714527599
+P('can't'|Spam) = 8.465966813410092e-05
+P('happen'|Spam) = 4.232983406705046e-05
+P(','|Spam) = 0.09867084321029462
+P('believe'|Spam) = 0.0006349475110057569
+P('example'|Spam) = 8.465966813410092e-05
+P('different'|Spam) = 0.0008042668472739587
+P('('|Spam) = 0.004148323738570945
+P('''|Spam) = 0.0036403657297663394
+P('become'|Spam) = 0.0005079580088046055
+log P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -176.1650866408649
+
+P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('double'|Hpam) = 0.0001460469946773984
+P('negation'|Hpam) = 4.868233155913281e-05
+P('black'|Hpam) = 9.73646631182656e-05
+P('english'|Hpam) = 0.004348954952615864
+P(''|Hpam) = 0.01440997014150331
+P('wonder'|Hpam) = 0.00017850188238348696
+P('anyone'|Hpam) = 0.0008600545242113463
+P('research'|Hpam) = 0.0021095677008957548
+P('recent'|Hpam) = 0.0004056860963261067
+P('.'|Hpam) = 0.21916785667921587
+P('interest'|Hpam) = 0.0017363364922757367
+P('particular'|Hpam) = 0.0005517330910035051
+P('old'|Hpam) = 0.0003083214332078411
+P('claim'|Hpam) = 0.0003894586524730624
+P(''s'|Hpam) = 0.004949370375178502
+P('spread'|Hpam) = 1.622744385304427e-05
+P('across'|Hpam) = 0.00016227443853044268
+P('clause'|Hpam) = 0.0001947293262365312
+P('boundary'|Hpam) = 8.113721926522134e-05
+P(':'|Hpam) = 0.01638971829157471
+P('cat'|Hpam) = 0.00032454887706088537
+P('can't'|Hpam) = 0.0001947293262365312
+P('happen'|Hpam) = 0.00012981955082435416
+P(','|Hpam) = 0.1886440347916396
+P('believe'|Hpam) = 0.00027586654550175254
+P('wrong'|Hpam) = 0.00017850188238348696
+P('example'|Hpam) = 0.0011359210697130988
+P('illustrate'|Hpam) = 1.622744385304427e-05
+P('different'|Hpam) = 0.0007626898610930806
+P('phenomenon'|Hpam) = 0.0005192782032974166
+P('namely'|Hpam) = 8.113721926522134e-05
+P('structure'|Hpam) = 0.0006328703102687265
+P('consist'|Hpam) = 0.00017850188238348696
+P('single'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.01817473711540958
+P('''|Hpam) = 0.02057639880566013
+P('become'|Hpam) = 0.0004868233155913281
+P('negative'|Hpam) = 0.0001460469946773984
+P('marker'|Hpam) = 0.00016227443853044268
+P('relevant'|Hpam) = 0.0003083214332078411
+log P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -302.76546009344213
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('black'|Spam) = 0.00025397900440230273
+P(''|Spam) = 0.006942092786996275
+P('wonder'|Spam) = 4.232983406705046e-05
+P('anyone'|Spam) = 0.00016931933626820184
+P('research'|Spam) = 0.00025397900440230273
+P('recent'|Spam) = 0.00012698950220115136
+P('.'|Spam) = 0.24013714866237723
+P('interest'|Spam) = 0.0006349475110057569
+P('old'|Spam) = 0.00025397900440230273
+P('claim'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.002666779546224179
+P('across'|Spam) = 8.465966813410092e-05
+P('boundary'|Spam) = 0.00012698950220115136
+P(':'|Spam) = 0.00838130714527599
+P('can't'|Spam) = 8.465966813410092e-05
+P('happen'|Spam) = 4.232983406705046e-05
+P(','|Spam) = 0.09867084321029462
+P('believe'|Spam) = 0.0006349475110057569
+P('example'|Spam) = 8.465966813410092e-05
+P('different'|Spam) = 0.0008042668472739587
+P('('|Spam) = 0.004148323738570945
+P('''|Spam) = 0.0036403657297663394
+P('become'|Spam) = 0.0005079580088046055
+log P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -176.1650866408649
+
+P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('double'|Hpam) = 0.0001460469946773984
+P('negation'|Hpam) = 4.868233155913281e-05
+P('black'|Hpam) = 9.73646631182656e-05
+P('english'|Hpam) = 0.004348954952615864
+P(''|Hpam) = 0.01440997014150331
+P('wonder'|Hpam) = 0.00017850188238348696
+P('anyone'|Hpam) = 0.0008600545242113463
+P('research'|Hpam) = 0.0021095677008957548
+P('recent'|Hpam) = 0.0004056860963261067
+P('.'|Hpam) = 0.21916785667921587
+P('interest'|Hpam) = 0.0017363364922757367
+P('particular'|Hpam) = 0.0005517330910035051
+P('old'|Hpam) = 0.0003083214332078411
+P('claim'|Hpam) = 0.0003894586524730624
+P(''s'|Hpam) = 0.004949370375178502
+P('spread'|Hpam) = 1.622744385304427e-05
+P('across'|Hpam) = 0.00016227443853044268
+P('clause'|Hpam) = 0.0001947293262365312
+P('boundary'|Hpam) = 8.113721926522134e-05
+P(':'|Hpam) = 0.01638971829157471
+P('cat'|Hpam) = 0.00032454887706088537
+P('can't'|Hpam) = 0.0001947293262365312
+P('happen'|Hpam) = 0.00012981955082435416
+P(','|Hpam) = 0.1886440347916396
+P('believe'|Hpam) = 0.00027586654550175254
+P('wrong'|Hpam) = 0.00017850188238348696
+P('example'|Hpam) = 0.0011359210697130988
+P('illustrate'|Hpam) = 1.622744385304427e-05
+P('different'|Hpam) = 0.0007626898610930806
+P('phenomenon'|Hpam) = 0.0005192782032974166
+P('namely'|Hpam) = 8.113721926522134e-05
+P('structure'|Hpam) = 0.0006328703102687265
+P('consist'|Hpam) = 0.00017850188238348696
+P('single'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.01817473711540958
+P('''|Hpam) = 0.02057639880566013
+P('become'|Hpam) = 0.0004868233155913281
+P('negative'|Hpam) = 0.0001460469946773984
+P('marker'|Hpam) = 0.00016227443853044268
+P('relevant'|Hpam) = 0.0003083214332078411
+log P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -302.76546009344213
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('black'|Spam) = 0.00025397900440230273
+P(''|Spam) = 0.006942092786996275
+P('wonder'|Spam) = 4.232983406705046e-05
+P('anyone'|Spam) = 0.00016931933626820184
+P('research'|Spam) = 0.00025397900440230273
+P('recent'|Spam) = 0.00012698950220115136
+P('.'|Spam) = 0.24013714866237723
+P('interest'|Spam) = 0.0006349475110057569
+P('old'|Spam) = 0.00025397900440230273
+P('claim'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.002666779546224179
+P('across'|Spam) = 8.465966813410092e-05
+P('boundary'|Spam) = 0.00012698950220115136
+P(':'|Spam) = 0.00838130714527599
+P('can't'|Spam) = 8.465966813410092e-05
+P('happen'|Spam) = 4.232983406705046e-05
+P(','|Spam) = 0.09867084321029462
+P('believe'|Spam) = 0.0006349475110057569
+P('example'|Spam) = 8.465966813410092e-05
+P('different'|Spam) = 0.0008042668472739587
+P('('|Spam) = 0.004148323738570945
+P('''|Spam) = 0.0036403657297663394
+P('become'|Spam) = 0.0005079580088046055
+log2 P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -254.1524968745504
+
+P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('double'|Hpam) = 0.0001460469946773984
+P('negation'|Hpam) = 4.868233155913281e-05
+P('black'|Hpam) = 9.73646631182656e-05
+P('english'|Hpam) = 0.004348954952615864
+P(''|Hpam) = 0.01440997014150331
+P('wonder'|Hpam) = 0.00017850188238348696
+P('anyone'|Hpam) = 0.0008600545242113463
+P('research'|Hpam) = 0.0021095677008957548
+P('recent'|Hpam) = 0.0004056860963261067
+P('.'|Hpam) = 0.21916785667921587
+P('interest'|Hpam) = 0.0017363364922757367
+P('particular'|Hpam) = 0.0005517330910035051
+P('old'|Hpam) = 0.0003083214332078411
+P('claim'|Hpam) = 0.0003894586524730624
+P(''s'|Hpam) = 0.004949370375178502
+P('spread'|Hpam) = 1.622744385304427e-05
+P('across'|Hpam) = 0.00016227443853044268
+P('clause'|Hpam) = 0.0001947293262365312
+P('boundary'|Hpam) = 8.113721926522134e-05
+P(':'|Hpam) = 0.01638971829157471
+P('cat'|Hpam) = 0.00032454887706088537
+P('can't'|Hpam) = 0.0001947293262365312
+P('happen'|Hpam) = 0.00012981955082435416
+P(','|Hpam) = 0.1886440347916396
+P('believe'|Hpam) = 0.00027586654550175254
+P('wrong'|Hpam) = 0.00017850188238348696
+P('example'|Hpam) = 0.0011359210697130988
+P('illustrate'|Hpam) = 1.622744385304427e-05
+P('different'|Hpam) = 0.0007626898610930806
+P('phenomenon'|Hpam) = 0.0005192782032974166
+P('namely'|Hpam) = 8.113721926522134e-05
+P('structure'|Hpam) = 0.0006328703102687265
+P('consist'|Hpam) = 0.00017850188238348696
+P('single'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.01817473711540958
+P('''|Hpam) = 0.02057639880566013
+P('become'|Hpam) = 0.0004868233155913281
+P('negative'|Hpam) = 0.0001460469946773984
+P('marker'|Hpam) = 0.00016227443853044268
+P('relevant'|Hpam) = 0.0003083214332078411
+log2 P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -436.7982278292742
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('black'|Spam) = 0.00025397900440230273
+P(''|Spam) = 0.006942092786996275
+P('wonder'|Spam) = 4.232983406705046e-05
+P('anyone'|Spam) = 0.00016931933626820184
+P('research'|Spam) = 0.00025397900440230273
+P('recent'|Spam) = 0.00012698950220115136
+P('.'|Spam) = 0.24013714866237723
+P('interest'|Spam) = 0.0006349475110057569
+P('old'|Spam) = 0.00025397900440230273
+P('claim'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.002666779546224179
+P('across'|Spam) = 8.465966813410092e-05
+P('boundary'|Spam) = 0.00012698950220115136
+P(':'|Spam) = 0.00838130714527599
+P('can't'|Spam) = 8.465966813410092e-05
+P('happen'|Spam) = 4.232983406705046e-05
+P(','|Spam) = 0.09867084321029462
+P('believe'|Spam) = 0.0006349475110057569
+P('example'|Spam) = 8.465966813410092e-05
+P('different'|Spam) = 0.0008042668472739587
+P('('|Spam) = 0.004148323738570945
+P('''|Spam) = 0.0036403657297663394
+P('become'|Spam) = 0.0005079580088046055
+log P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -176.1650866408649
+
+P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('double'|Hpam) = 0.0001460469946773984
+P('negation'|Hpam) = 4.868233155913281e-05
+P('black'|Hpam) = 9.73646631182656e-05
+P('english'|Hpam) = 0.004348954952615864
+P(''|Hpam) = 0.01440997014150331
+P('wonder'|Hpam) = 0.00017850188238348696
+P('anyone'|Hpam) = 0.0008600545242113463
+P('research'|Hpam) = 0.0021095677008957548
+P('recent'|Hpam) = 0.0004056860963261067
+P('.'|Hpam) = 0.21916785667921587
+P('interest'|Hpam) = 0.0017363364922757367
+P('particular'|Hpam) = 0.0005517330910035051
+P('old'|Hpam) = 0.0003083214332078411
+P('claim'|Hpam) = 0.0003894586524730624
+P(''s'|Hpam) = 0.004949370375178502
+P('spread'|Hpam) = 1.622744385304427e-05
+P('across'|Hpam) = 0.00016227443853044268
+P('clause'|Hpam) = 0.0001947293262365312
+P('boundary'|Hpam) = 8.113721926522134e-05
+P(':'|Hpam) = 0.01638971829157471
+P('cat'|Hpam) = 0.00032454887706088537
+P('can't'|Hpam) = 0.0001947293262365312
+P('happen'|Hpam) = 0.00012981955082435416
+P(','|Hpam) = 0.1886440347916396
+P('believe'|Hpam) = 0.00027586654550175254
+P('wrong'|Hpam) = 0.00017850188238348696
+P('example'|Hpam) = 0.0011359210697130988
+P('illustrate'|Hpam) = 1.622744385304427e-05
+P('different'|Hpam) = 0.0007626898610930806
+P('phenomenon'|Hpam) = 0.0005192782032974166
+P('namely'|Hpam) = 8.113721926522134e-05
+P('structure'|Hpam) = 0.0006328703102687265
+P('consist'|Hpam) = 0.00017850188238348696
+P('single'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.01817473711540958
+P('''|Hpam) = 0.02057639880566013
+P('become'|Hpam) = 0.0004868233155913281
+P('negative'|Hpam) = 0.0001460469946773984
+P('marker'|Hpam) = 0.00016227443853044268
+P('relevant'|Hpam) = 0.0003083214332078411
+log P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -302.76546009344213
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('black'|Spam) = 0.00025397900440230273
+P(''|Spam) = 0.006942092786996275
+P('wonder'|Spam) = 4.232983406705046e-05
+P('anyone'|Spam) = 0.00016931933626820184
+P('research'|Spam) = 0.00025397900440230273
+P('recent'|Spam) = 0.00012698950220115136
+P('.'|Spam) = 0.24013714866237723
+P('interest'|Spam) = 0.0006349475110057569
+P('old'|Spam) = 0.00025397900440230273
+P('claim'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.002666779546224179
+P('across'|Spam) = 8.465966813410092e-05
+P('boundary'|Spam) = 0.00012698950220115136
+P(':'|Spam) = 0.00838130714527599
+P('can't'|Spam) = 8.465966813410092e-05
+P('happen'|Spam) = 4.232983406705046e-05
+P(','|Spam) = 0.09867084321029462
+P('believe'|Spam) = 0.0006349475110057569
+P('example'|Spam) = 8.465966813410092e-05
+P('different'|Spam) = 0.0008042668472739587
+P('('|Spam) = 0.004148323738570945
+P('''|Spam) = 0.0036403657297663394
+P('become'|Spam) = 0.0005079580088046055
+log10 P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -76.50752503213589
+
+P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('double'|Hpam) = 0.0001460469946773984
+P('negation'|Hpam) = 4.868233155913281e-05
+P('black'|Hpam) = 9.73646631182656e-05
+P('english'|Hpam) = 0.004348954952615864
+P(''|Hpam) = 0.01440997014150331
+P('wonder'|Hpam) = 0.00017850188238348696
+P('anyone'|Hpam) = 0.0008600545242113463
+P('research'|Hpam) = 0.0021095677008957548
+P('recent'|Hpam) = 0.0004056860963261067
+P('.'|Hpam) = 0.21916785667921587
+P('interest'|Hpam) = 0.0017363364922757367
+P('particular'|Hpam) = 0.0005517330910035051
+P('old'|Hpam) = 0.0003083214332078411
+P('claim'|Hpam) = 0.0003894586524730624
+P(''s'|Hpam) = 0.004949370375178502
+P('spread'|Hpam) = 1.622744385304427e-05
+P('across'|Hpam) = 0.00016227443853044268
+P('clause'|Hpam) = 0.0001947293262365312
+P('boundary'|Hpam) = 8.113721926522134e-05
+P(':'|Hpam) = 0.01638971829157471
+P('cat'|Hpam) = 0.00032454887706088537
+P('can't'|Hpam) = 0.0001947293262365312
+P('happen'|Hpam) = 0.00012981955082435416
+P(','|Hpam) = 0.1886440347916396
+P('believe'|Hpam) = 0.00027586654550175254
+P('wrong'|Hpam) = 0.00017850188238348696
+P('example'|Hpam) = 0.0011359210697130988
+P('illustrate'|Hpam) = 1.622744385304427e-05
+P('different'|Hpam) = 0.0007626898610930806
+P('phenomenon'|Hpam) = 0.0005192782032974166
+P('namely'|Hpam) = 8.113721926522134e-05
+P('structure'|Hpam) = 0.0006328703102687265
+P('consist'|Hpam) = 0.00017850188238348696
+P('single'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.01817473711540958
+P('''|Hpam) = 0.02057639880566013
+P('become'|Hpam) = 0.0004868233155913281
+P('negative'|Hpam) = 0.0001460469946773984
+P('marker'|Hpam) = 0.00016227443853044268
+P('relevant'|Hpam) = 0.0003083214332078411
+log10 P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -131.48936862948113
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('black'|Spam) = 0.00025397900440230273
+P(''|Spam) = 0.006942092786996275
+P('wonder'|Spam) = 4.232983406705046e-05
+P('anyone'|Spam) = 0.00016931933626820184
+P('research'|Spam) = 0.00025397900440230273
+P('recent'|Spam) = 0.00012698950220115136
+P('.'|Spam) = 0.24013714866237723
+P('interest'|Spam) = 0.0006349475110057569
+P('old'|Spam) = 0.00025397900440230273
+P('claim'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.002666779546224179
+P('across'|Spam) = 8.465966813410092e-05
+P('boundary'|Spam) = 0.00012698950220115136
+P(':'|Spam) = 0.00838130714527599
+P('can't'|Spam) = 8.465966813410092e-05
+P('happen'|Spam) = 4.232983406705046e-05
+P(','|Spam) = 0.09867084321029462
+P('believe'|Spam) = 0.0006349475110057569
+P('example'|Spam) = 8.465966813410092e-05
+P('different'|Spam) = 0.0008042668472739587
+P('('|Spam) = 0.004148323738570945
+P('''|Spam) = 0.0036403657297663394
+P('become'|Spam) = 0.0005079580088046055
+log2 P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -254.1524968745504
+
+P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('double'|Hpam) = 0.0001460469946773984
+P('negation'|Hpam) = 4.868233155913281e-05
+P('black'|Hpam) = 9.73646631182656e-05
+P('english'|Hpam) = 0.004348954952615864
+P(''|Hpam) = 0.01440997014150331
+P('wonder'|Hpam) = 0.00017850188238348696
+P('anyone'|Hpam) = 0.0008600545242113463
+P('research'|Hpam) = 0.0021095677008957548
+P('recent'|Hpam) = 0.0004056860963261067
+P('.'|Hpam) = 0.21916785667921587
+P('interest'|Hpam) = 0.0017363364922757367
+P('particular'|Hpam) = 0.0005517330910035051
+P('old'|Hpam) = 0.0003083214332078411
+P('claim'|Hpam) = 0.0003894586524730624
+P(''s'|Hpam) = 0.004949370375178502
+P('spread'|Hpam) = 1.622744385304427e-05
+P('across'|Hpam) = 0.00016227443853044268
+P('clause'|Hpam) = 0.0001947293262365312
+P('boundary'|Hpam) = 8.113721926522134e-05
+P(':'|Hpam) = 0.01638971829157471
+P('cat'|Hpam) = 0.00032454887706088537
+P('can't'|Hpam) = 0.0001947293262365312
+P('happen'|Hpam) = 0.00012981955082435416
+P(','|Hpam) = 0.1886440347916396
+P('believe'|Hpam) = 0.00027586654550175254
+P('wrong'|Hpam) = 0.00017850188238348696
+P('example'|Hpam) = 0.0011359210697130988
+P('illustrate'|Hpam) = 1.622744385304427e-05
+P('different'|Hpam) = 0.0007626898610930806
+P('phenomenon'|Hpam) = 0.0005192782032974166
+P('namely'|Hpam) = 8.113721926522134e-05
+P('structure'|Hpam) = 0.0006328703102687265
+P('consist'|Hpam) = 0.00017850188238348696
+P('single'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.01817473711540958
+P('''|Hpam) = 0.02057639880566013
+P('become'|Hpam) = 0.0004868233155913281
+P('negative'|Hpam) = 0.0001460469946773984
+P('marker'|Hpam) = 0.00016227443853044268
+P('relevant'|Hpam) = 0.0003083214332078411
+log2 P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -436.7982278292742
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('black'|Spam) = 0.00025397900440230273
+P(''|Spam) = 0.006942092786996275
+P('wonder'|Spam) = 4.232983406705046e-05
+P('anyone'|Spam) = 0.00016931933626820184
+P('research'|Spam) = 0.00025397900440230273
+P('recent'|Spam) = 0.00012698950220115136
+P('.'|Spam) = 0.24013714866237723
+P('interest'|Spam) = 0.0006349475110057569
+P('old'|Spam) = 0.00025397900440230273
+P('claim'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.002666779546224179
+P('across'|Spam) = 8.465966813410092e-05
+P('boundary'|Spam) = 0.00012698950220115136
+P(':'|Spam) = 0.00838130714527599
+P('can't'|Spam) = 8.465966813410092e-05
+P('happen'|Spam) = 4.232983406705046e-05
+P(','|Spam) = 0.09867084321029462
+P('believe'|Spam) = 0.0006349475110057569
+P('example'|Spam) = 8.465966813410092e-05
+P('different'|Spam) = 0.0008042668472739587
+P('('|Spam) = 0.004148323738570945
+P('''|Spam) = 0.0036403657297663394
+P('become'|Spam) = 0.0005079580088046055
+log2 P(Spam, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -254.1524968745504
+
+P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('double'|Hpam) = 0.0001460469946773984
+P('negation'|Hpam) = 4.868233155913281e-05
+P('black'|Hpam) = 9.73646631182656e-05
+P('english'|Hpam) = 0.004348954952615864
+P(''|Hpam) = 0.01440997014150331
+P('wonder'|Hpam) = 0.00017850188238348696
+P('anyone'|Hpam) = 0.0008600545242113463
+P('research'|Hpam) = 0.0021095677008957548
+P('recent'|Hpam) = 0.0004056860963261067
+P('.'|Hpam) = 0.21916785667921587
+P('interest'|Hpam) = 0.0017363364922757367
+P('particular'|Hpam) = 0.0005517330910035051
+P('old'|Hpam) = 0.0003083214332078411
+P('claim'|Hpam) = 0.0003894586524730624
+P(''s'|Hpam) = 0.004949370375178502
+P('spread'|Hpam) = 1.622744385304427e-05
+P('across'|Hpam) = 0.00016227443853044268
+P('clause'|Hpam) = 0.0001947293262365312
+P('boundary'|Hpam) = 8.113721926522134e-05
+P(':'|Hpam) = 0.01638971829157471
+P('cat'|Hpam) = 0.00032454887706088537
+P('can't'|Hpam) = 0.0001947293262365312
+P('happen'|Hpam) = 0.00012981955082435416
+P(','|Hpam) = 0.1886440347916396
+P('believe'|Hpam) = 0.00027586654550175254
+P('wrong'|Hpam) = 0.00017850188238348696
+P('example'|Hpam) = 0.0011359210697130988
+P('illustrate'|Hpam) = 1.622744385304427e-05
+P('different'|Hpam) = 0.0007626898610930806
+P('phenomenon'|Hpam) = 0.0005192782032974166
+P('namely'|Hpam) = 8.113721926522134e-05
+P('structure'|Hpam) = 0.0006328703102687265
+P('consist'|Hpam) = 0.00017850188238348696
+P('single'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.01817473711540958
+P('''|Hpam) = 0.02057639880566013
+P('become'|Hpam) = 0.0004868233155913281
+P('negative'|Hpam) = 0.0001460469946773984
+P('marker'|Hpam) = 0.00016227443853044268
+P('relevant'|Hpam) = 0.0003083214332078411
+log2 P(Ham, Subject: double negation black english
+
+wonder anyone research double negation black english recent . interest particular old claim labov 's double negation spread across clause boundary : ain't cat can't coop happen , believe labov wrong example illustrate different phenomenon , namely , reinterpretation structure consist single clause ( ' ain't ' become negative marker . relevant research .
+) = -436.7982278292742
+
+Conclusion: This message is classified as Spam.

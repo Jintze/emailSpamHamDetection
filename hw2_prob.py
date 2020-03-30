@@ -60,7 +60,6 @@ def readFileSpam():
                 
     for x,y in probability_spam_words.items():
         totalWordsNumSpam = totalWordsNumSpam + y
-    print(totalWordsNumSpam)
     for x in probability_spam_words:
         if probability_spam_words[x] == 0:
             probability_spam_words[x] += 1

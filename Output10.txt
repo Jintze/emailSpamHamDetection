@@ -1,0 +1,938 @@
+P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('re'|Spam) = 0.0002963088384693532
+P(':'|Spam) = 0.01676261429055198
+P('5'|Spam) = 0.0016085336945479173
+P('.'|Spam) = 0.8805028784287166
+P('sum'|Spam) = 4.232983406705046e-05
+P('"'|Spam) = 0.12326447680325092
+P('canadian'|Spam) = 0.00016931933626820184
+P('raise'|Spam) = 0.0002116491703352523
+P(''|Spam) = 0.006942092786996275
+P('/'|Spam) = 0.01930240433457501
+P('before'|Spam) = 0.0007196071791398578
+P('stop'|Spam) = 0.0005079580088046055
+P('various'|Spam) = 8.465966813410092e-05
+P('part'|Spam) = 0.00021164917033525228
+P('eastern'|Spam) = 0.00012698950220115136
+P('us'|Spam) = 0.004232983406705046
+P('simply'|Spam) = 0.0003809685066034541
+P('someone'|Spam) = 0.0005926176769387064
+P('can't'|Spam) = 8.465966813410092e-05
+P('hear'|Spam) = 0.0003386386725364037
+P('n't'|Spam) = 0.0032170673890958346
+P('mean'|Spam) = 8.465966813410092e-05
+P(','|Spam) = 0.06578056214019641
+P('don'|Spam) = 8.465966813410092e-05
+P('j'|Spam) = 8.465966813410092e-05
+P('k'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.005333559092448358
+P('18'|Spam) = 8.465966813410092e-05
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P('better'|Spam) = 0.00021164917033525228
+P('yet'|Spam) = 0.00016931933626820184
+P('american'|Spam) = 0.0005079580088046055
+P('tell'|Spam) = 0.0002963088384693532
+P('else'|Spam) = 0.00021164917033525228
+P('word'|Spam) = 0.0003809685066034541
+P('boundary'|Spam) = 0.00012698950220115136
+P('play'|Spam) = 8.465966813410092e-05
+P('ice'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0016085336945479173
+P('speed'|Spam) = 0.0003386386725364037
+P('without'|Spam) = 0.0003386386725364037
+P('sound'|Spam) = 0.00012698950220115136
+P('though'|Spam) = 0.00016931933626820184
+P('group'|Spam) = 8.465966813410092e-05
+P('note'|Spam) = 0.00042329834067050457
+P('?'|Spam) = 0.002836098882492381
+log P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -352.6763128422157
+
+P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('re'|Hpam) = 0.0011196936258600545
+P(':'|Hpam) = 0.03277943658314942
+P('5'|Hpam) = 0.0008275996365052577
+P('.'|Hpam) = 0.8036154744904582
+P('sum'|Hpam) = 0.00011359210697130988
+P('"'|Hpam) = 0.24922108269505389
+P('typewriter'|Hpam) = 9.73646631182656e-05
+P('canadian'|Hpam) = 0.0006490977541217707
+P('raise'|Hpam) = 0.0010547838504478774
+P(''|Hpam) = 0.01440997014150331
+P('/'|Hpam) = 0.019132156302739192
+P('aus'|Hpam) = 0.00011359210697130988
+P('before'|Hpam) = 0.0004056860963261067
+P('voiceless'|Hpam) = 4.86823315591328e-05
+P('stop'|Hpam) = 0.00012981955082435416
+P('various'|Hpam) = 0.0003732312086200182
+P('part'|Hpam) = 0.0006166428664156822
+P('eastern'|Hpam) = 6.490977541217708e-05
+P('us'|Hpam) = 0.0015902894975983383
+P('canada'|Hpam) = 0.00017850188238348696
+P('simply'|Hpam) = 0.00024341165779566404
+P('someone'|Hpam) = 0.0005841879787095936
+P('can't'|Hpam) = 0.0001947293262365312
+P('hear'|Hpam) = 0.0007464624172400364
+P('difference'|Hpam) = 0.00032454887706088537
+P('n't'|Hpam) = 0.0028560301181357914
+P('mean'|Hpam) = 0.0006490977541217707
+P(','|Hpam) = 0.12576268986109307
+P('don'|Hpam) = 1.622744385304427e-05
+P('j'|Hpam) = 0.0004868233155913281
+P('k'|Hpam) = 0.00027586654550175254
+P(''s'|Hpam) = 0.009898740750357004
+P('journal'|Hpam) = 0.0003083214332078411
+P('linguistic'|Hpam) = 0.003748539530053226
+P('18'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.05452421134622874
+P('1973'|Hpam) = 1.622744385304427e-05
+P(')'|Hpam) = 0.05652018694015319
+P('better'|Hpam) = 0.0001460469946773984
+P('yet'|Hpam) = 0.00017850188238348696
+P('dialect'|Hpam) = 0.0011359210697130988
+P('northern'|Hpam) = 0.0002596391016487083
+P('american'|Hpam) = 0.0004705958717382838
+P('speech'|Hpam) = 0.0006977800856809035
+P('62'|Hpam) = 9.73646631182656e-05
+P('1987'|Hpam) = 4.86823315591328e-05
+P('tell'|Hpam) = 0.0006490977541217707
+P('generally'|Hpam) = 9.73646631182656e-05
+P('else'|Hpam) = 0.00024341165779566404
+P('word'|Hpam) = 0.0017687913799818253
+P('boundary'|Hpam) = 8.113721926522134e-05
+P('play'|Hpam) = 0.0002920939893547968
+P('ice'|Hpam) = 3.245488770608854e-05
+P('scream'|Hpam) = 6.490977541217708e-05
+P('quite'|Hpam) = 0.0008438270803583019
+P('different'|Hpam) = 0.0015253797221861612
+P('normal'|Hpam) = 8.113721926522134e-05
+P('speed'|Hpam) = 1.622744385304427e-05
+P('without'|Hpam) = 0.0003894586524730624
+P('sound'|Hpam) = 0.00016227443853044268
+P('quiet'|Hpam) = 1.622744385304427e-05
+P('though'|Hpam) = 0.0004705958717382838
+P('issue'|Hpam) = 0.000908736855770479
+P('group'|Hpam) = 0.0004056860963261067
+P('note'|Hpam) = 0.0006490977541217707
+P('?'|Hpam) = 0.004089315850967156
+log P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -498.2949107622666
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('re'|Spam) = 0.0002963088384693532
+P(':'|Spam) = 0.01676261429055198
+P('5'|Spam) = 0.0016085336945479173
+P('.'|Spam) = 0.8805028784287166
+P('sum'|Spam) = 4.232983406705046e-05
+P('"'|Spam) = 0.12326447680325092
+P('canadian'|Spam) = 0.00016931933626820184
+P('raise'|Spam) = 0.0002116491703352523
+P(''|Spam) = 0.006942092786996275
+P('/'|Spam) = 0.01930240433457501
+P('before'|Spam) = 0.0007196071791398578
+P('stop'|Spam) = 0.0005079580088046055
+P('various'|Spam) = 8.465966813410092e-05
+P('part'|Spam) = 0.00021164917033525228
+P('eastern'|Spam) = 0.00012698950220115136
+P('us'|Spam) = 0.004232983406705046
+P('simply'|Spam) = 0.0003809685066034541
+P('someone'|Spam) = 0.0005926176769387064
+P('can't'|Spam) = 8.465966813410092e-05
+P('hear'|Spam) = 0.0003386386725364037
+P('n't'|Spam) = 0.0032170673890958346
+P('mean'|Spam) = 8.465966813410092e-05
+P(','|Spam) = 0.06578056214019641
+P('don'|Spam) = 8.465966813410092e-05
+P('j'|Spam) = 8.465966813410092e-05
+P('k'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.005333559092448358
+P('18'|Spam) = 8.465966813410092e-05
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P('better'|Spam) = 0.00021164917033525228
+P('yet'|Spam) = 0.00016931933626820184
+P('american'|Spam) = 0.0005079580088046055
+P('tell'|Spam) = 0.0002963088384693532
+P('else'|Spam) = 0.00021164917033525228
+P('word'|Spam) = 0.0003809685066034541
+P('boundary'|Spam) = 0.00012698950220115136
+P('play'|Spam) = 8.465966813410092e-05
+P('ice'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0016085336945479173
+P('speed'|Spam) = 0.0003386386725364037
+P('without'|Spam) = 0.0003386386725364037
+P('sound'|Spam) = 0.00012698950220115136
+P('though'|Spam) = 0.00016931933626820184
+P('group'|Spam) = 8.465966813410092e-05
+P('note'|Spam) = 0.00042329834067050457
+P('?'|Spam) = 0.002836098882492381
+log P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -352.6763128422157
+
+P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('re'|Hpam) = 0.0011196936258600545
+P(':'|Hpam) = 0.03277943658314942
+P('5'|Hpam) = 0.0008275996365052577
+P('.'|Hpam) = 0.8036154744904582
+P('sum'|Hpam) = 0.00011359210697130988
+P('"'|Hpam) = 0.24922108269505389
+P('typewriter'|Hpam) = 9.73646631182656e-05
+P('canadian'|Hpam) = 0.0006490977541217707
+P('raise'|Hpam) = 0.0010547838504478774
+P(''|Hpam) = 0.01440997014150331
+P('/'|Hpam) = 0.019132156302739192
+P('aus'|Hpam) = 0.00011359210697130988
+P('before'|Hpam) = 0.0004056860963261067
+P('voiceless'|Hpam) = 4.86823315591328e-05
+P('stop'|Hpam) = 0.00012981955082435416
+P('various'|Hpam) = 0.0003732312086200182
+P('part'|Hpam) = 0.0006166428664156822
+P('eastern'|Hpam) = 6.490977541217708e-05
+P('us'|Hpam) = 0.0015902894975983383
+P('canada'|Hpam) = 0.00017850188238348696
+P('simply'|Hpam) = 0.00024341165779566404
+P('someone'|Hpam) = 0.0005841879787095936
+P('can't'|Hpam) = 0.0001947293262365312
+P('hear'|Hpam) = 0.0007464624172400364
+P('difference'|Hpam) = 0.00032454887706088537
+P('n't'|Hpam) = 0.0028560301181357914
+P('mean'|Hpam) = 0.0006490977541217707
+P(','|Hpam) = 0.12576268986109307
+P('don'|Hpam) = 1.622744385304427e-05
+P('j'|Hpam) = 0.0004868233155913281
+P('k'|Hpam) = 0.00027586654550175254
+P(''s'|Hpam) = 0.009898740750357004
+P('journal'|Hpam) = 0.0003083214332078411
+P('linguistic'|Hpam) = 0.003748539530053226
+P('18'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.05452421134622874
+P('1973'|Hpam) = 1.622744385304427e-05
+P(')'|Hpam) = 0.05652018694015319
+P('better'|Hpam) = 0.0001460469946773984
+P('yet'|Hpam) = 0.00017850188238348696
+P('dialect'|Hpam) = 0.0011359210697130988
+P('northern'|Hpam) = 0.0002596391016487083
+P('american'|Hpam) = 0.0004705958717382838
+P('speech'|Hpam) = 0.0006977800856809035
+P('62'|Hpam) = 9.73646631182656e-05
+P('1987'|Hpam) = 4.86823315591328e-05
+P('tell'|Hpam) = 0.0006490977541217707
+P('generally'|Hpam) = 9.73646631182656e-05
+P('else'|Hpam) = 0.00024341165779566404
+P('word'|Hpam) = 0.0017687913799818253
+P('boundary'|Hpam) = 8.113721926522134e-05
+P('play'|Hpam) = 0.0002920939893547968
+P('ice'|Hpam) = 3.245488770608854e-05
+P('scream'|Hpam) = 6.490977541217708e-05
+P('quite'|Hpam) = 0.0008438270803583019
+P('different'|Hpam) = 0.0015253797221861612
+P('normal'|Hpam) = 8.113721926522134e-05
+P('speed'|Hpam) = 1.622744385304427e-05
+P('without'|Hpam) = 0.0003894586524730624
+P('sound'|Hpam) = 0.00016227443853044268
+P('quiet'|Hpam) = 1.622744385304427e-05
+P('though'|Hpam) = 0.0004705958717382838
+P('issue'|Hpam) = 0.000908736855770479
+P('group'|Hpam) = 0.0004056860963261067
+P('note'|Hpam) = 0.0006490977541217707
+P('?'|Hpam) = 0.004089315850967156
+log P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -498.2949107622666
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('re'|Spam) = 0.0002963088384693532
+P(':'|Spam) = 0.01676261429055198
+P('5'|Spam) = 0.0016085336945479173
+P('.'|Spam) = 0.8805028784287166
+P('sum'|Spam) = 4.232983406705046e-05
+P('"'|Spam) = 0.12326447680325092
+P('canadian'|Spam) = 0.00016931933626820184
+P('raise'|Spam) = 0.0002116491703352523
+P(''|Spam) = 0.006942092786996275
+P('/'|Spam) = 0.01930240433457501
+P('before'|Spam) = 0.0007196071791398578
+P('stop'|Spam) = 0.0005079580088046055
+P('various'|Spam) = 8.465966813410092e-05
+P('part'|Spam) = 0.00021164917033525228
+P('eastern'|Spam) = 0.00012698950220115136
+P('us'|Spam) = 0.004232983406705046
+P('simply'|Spam) = 0.0003809685066034541
+P('someone'|Spam) = 0.0005926176769387064
+P('can't'|Spam) = 8.465966813410092e-05
+P('hear'|Spam) = 0.0003386386725364037
+P('n't'|Spam) = 0.0032170673890958346
+P('mean'|Spam) = 8.465966813410092e-05
+P(','|Spam) = 0.06578056214019641
+P('don'|Spam) = 8.465966813410092e-05
+P('j'|Spam) = 8.465966813410092e-05
+P('k'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.005333559092448358
+P('18'|Spam) = 8.465966813410092e-05
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P('better'|Spam) = 0.00021164917033525228
+P('yet'|Spam) = 0.00016931933626820184
+P('american'|Spam) = 0.0005079580088046055
+P('tell'|Spam) = 0.0002963088384693532
+P('else'|Spam) = 0.00021164917033525228
+P('word'|Spam) = 0.0003809685066034541
+P('boundary'|Spam) = 0.00012698950220115136
+P('play'|Spam) = 8.465966813410092e-05
+P('ice'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0016085336945479173
+P('speed'|Spam) = 0.0003386386725364037
+P('without'|Spam) = 0.0003386386725364037
+P('sound'|Spam) = 0.00012698950220115136
+P('though'|Spam) = 0.00016931933626820184
+P('group'|Spam) = 8.465966813410092e-05
+P('note'|Spam) = 0.00042329834067050457
+P('?'|Spam) = 0.002836098882492381
+log2 P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -508.8043675764695
+
+P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('re'|Hpam) = 0.0011196936258600545
+P(':'|Hpam) = 0.03277943658314942
+P('5'|Hpam) = 0.0008275996365052577
+P('.'|Hpam) = 0.8036154744904582
+P('sum'|Hpam) = 0.00011359210697130988
+P('"'|Hpam) = 0.24922108269505389
+P('typewriter'|Hpam) = 9.73646631182656e-05
+P('canadian'|Hpam) = 0.0006490977541217707
+P('raise'|Hpam) = 0.0010547838504478774
+P(''|Hpam) = 0.01440997014150331
+P('/'|Hpam) = 0.019132156302739192
+P('aus'|Hpam) = 0.00011359210697130988
+P('before'|Hpam) = 0.0004056860963261067
+P('voiceless'|Hpam) = 4.86823315591328e-05
+P('stop'|Hpam) = 0.00012981955082435416
+P('various'|Hpam) = 0.0003732312086200182
+P('part'|Hpam) = 0.0006166428664156822
+P('eastern'|Hpam) = 6.490977541217708e-05
+P('us'|Hpam) = 0.0015902894975983383
+P('canada'|Hpam) = 0.00017850188238348696
+P('simply'|Hpam) = 0.00024341165779566404
+P('someone'|Hpam) = 0.0005841879787095936
+P('can't'|Hpam) = 0.0001947293262365312
+P('hear'|Hpam) = 0.0007464624172400364
+P('difference'|Hpam) = 0.00032454887706088537
+P('n't'|Hpam) = 0.0028560301181357914
+P('mean'|Hpam) = 0.0006490977541217707
+P(','|Hpam) = 0.12576268986109307
+P('don'|Hpam) = 1.622744385304427e-05
+P('j'|Hpam) = 0.0004868233155913281
+P('k'|Hpam) = 0.00027586654550175254
+P(''s'|Hpam) = 0.009898740750357004
+P('journal'|Hpam) = 0.0003083214332078411
+P('linguistic'|Hpam) = 0.003748539530053226
+P('18'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.05452421134622874
+P('1973'|Hpam) = 1.622744385304427e-05
+P(')'|Hpam) = 0.05652018694015319
+P('better'|Hpam) = 0.0001460469946773984
+P('yet'|Hpam) = 0.00017850188238348696
+P('dialect'|Hpam) = 0.0011359210697130988
+P('northern'|Hpam) = 0.0002596391016487083
+P('american'|Hpam) = 0.0004705958717382838
+P('speech'|Hpam) = 0.0006977800856809035
+P('62'|Hpam) = 9.73646631182656e-05
+P('1987'|Hpam) = 4.86823315591328e-05
+P('tell'|Hpam) = 0.0006490977541217707
+P('generally'|Hpam) = 9.73646631182656e-05
+P('else'|Hpam) = 0.00024341165779566404
+P('word'|Hpam) = 0.0017687913799818253
+P('boundary'|Hpam) = 8.113721926522134e-05
+P('play'|Hpam) = 0.0002920939893547968
+P('ice'|Hpam) = 3.245488770608854e-05
+P('scream'|Hpam) = 6.490977541217708e-05
+P('quite'|Hpam) = 0.0008438270803583019
+P('different'|Hpam) = 0.0015253797221861612
+P('normal'|Hpam) = 8.113721926522134e-05
+P('speed'|Hpam) = 1.622744385304427e-05
+P('without'|Hpam) = 0.0003894586524730624
+P('sound'|Hpam) = 0.00016227443853044268
+P('quiet'|Hpam) = 1.622744385304427e-05
+P('though'|Hpam) = 0.0004705958717382838
+P('issue'|Hpam) = 0.000908736855770479
+P('group'|Hpam) = 0.0004056860963261067
+P('note'|Hpam) = 0.0006490977541217707
+P('?'|Hpam) = 0.004089315850967156
+log2 P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -718.88759665693
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('re'|Spam) = 0.0002963088384693532
+P(':'|Spam) = 0.01676261429055198
+P('5'|Spam) = 0.0016085336945479173
+P('.'|Spam) = 0.8805028784287166
+P('sum'|Spam) = 4.232983406705046e-05
+P('"'|Spam) = 0.12326447680325092
+P('canadian'|Spam) = 0.00016931933626820184
+P('raise'|Spam) = 0.0002116491703352523
+P(''|Spam) = 0.006942092786996275
+P('/'|Spam) = 0.01930240433457501
+P('before'|Spam) = 0.0007196071791398578
+P('stop'|Spam) = 0.0005079580088046055
+P('various'|Spam) = 8.465966813410092e-05
+P('part'|Spam) = 0.00021164917033525228
+P('eastern'|Spam) = 0.00012698950220115136
+P('us'|Spam) = 0.004232983406705046
+P('simply'|Spam) = 0.0003809685066034541
+P('someone'|Spam) = 0.0005926176769387064
+P('can't'|Spam) = 8.465966813410092e-05
+P('hear'|Spam) = 0.0003386386725364037
+P('n't'|Spam) = 0.0032170673890958346
+P('mean'|Spam) = 8.465966813410092e-05
+P(','|Spam) = 0.06578056214019641
+P('don'|Spam) = 8.465966813410092e-05
+P('j'|Spam) = 8.465966813410092e-05
+P('k'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.005333559092448358
+P('18'|Spam) = 8.465966813410092e-05
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P('better'|Spam) = 0.00021164917033525228
+P('yet'|Spam) = 0.00016931933626820184
+P('american'|Spam) = 0.0005079580088046055
+P('tell'|Spam) = 0.0002963088384693532
+P('else'|Spam) = 0.00021164917033525228
+P('word'|Spam) = 0.0003809685066034541
+P('boundary'|Spam) = 0.00012698950220115136
+P('play'|Spam) = 8.465966813410092e-05
+P('ice'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0016085336945479173
+P('speed'|Spam) = 0.0003386386725364037
+P('without'|Spam) = 0.0003386386725364037
+P('sound'|Spam) = 0.00012698950220115136
+P('though'|Spam) = 0.00016931933626820184
+P('group'|Spam) = 8.465966813410092e-05
+P('note'|Spam) = 0.00042329834067050457
+P('?'|Spam) = 0.002836098882492381
+log P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -352.6763128422157
+
+P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('re'|Hpam) = 0.0011196936258600545
+P(':'|Hpam) = 0.03277943658314942
+P('5'|Hpam) = 0.0008275996365052577
+P('.'|Hpam) = 0.8036154744904582
+P('sum'|Hpam) = 0.00011359210697130988
+P('"'|Hpam) = 0.24922108269505389
+P('typewriter'|Hpam) = 9.73646631182656e-05
+P('canadian'|Hpam) = 0.0006490977541217707
+P('raise'|Hpam) = 0.0010547838504478774
+P(''|Hpam) = 0.01440997014150331
+P('/'|Hpam) = 0.019132156302739192
+P('aus'|Hpam) = 0.00011359210697130988
+P('before'|Hpam) = 0.0004056860963261067
+P('voiceless'|Hpam) = 4.86823315591328e-05
+P('stop'|Hpam) = 0.00012981955082435416
+P('various'|Hpam) = 0.0003732312086200182
+P('part'|Hpam) = 0.0006166428664156822
+P('eastern'|Hpam) = 6.490977541217708e-05
+P('us'|Hpam) = 0.0015902894975983383
+P('canada'|Hpam) = 0.00017850188238348696
+P('simply'|Hpam) = 0.00024341165779566404
+P('someone'|Hpam) = 0.0005841879787095936
+P('can't'|Hpam) = 0.0001947293262365312
+P('hear'|Hpam) = 0.0007464624172400364
+P('difference'|Hpam) = 0.00032454887706088537
+P('n't'|Hpam) = 0.0028560301181357914
+P('mean'|Hpam) = 0.0006490977541217707
+P(','|Hpam) = 0.12576268986109307
+P('don'|Hpam) = 1.622744385304427e-05
+P('j'|Hpam) = 0.0004868233155913281
+P('k'|Hpam) = 0.00027586654550175254
+P(''s'|Hpam) = 0.009898740750357004
+P('journal'|Hpam) = 0.0003083214332078411
+P('linguistic'|Hpam) = 0.003748539530053226
+P('18'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.05452421134622874
+P('1973'|Hpam) = 1.622744385304427e-05
+P(')'|Hpam) = 0.05652018694015319
+P('better'|Hpam) = 0.0001460469946773984
+P('yet'|Hpam) = 0.00017850188238348696
+P('dialect'|Hpam) = 0.0011359210697130988
+P('northern'|Hpam) = 0.0002596391016487083
+P('american'|Hpam) = 0.0004705958717382838
+P('speech'|Hpam) = 0.0006977800856809035
+P('62'|Hpam) = 9.73646631182656e-05
+P('1987'|Hpam) = 4.86823315591328e-05
+P('tell'|Hpam) = 0.0006490977541217707
+P('generally'|Hpam) = 9.73646631182656e-05
+P('else'|Hpam) = 0.00024341165779566404
+P('word'|Hpam) = 0.0017687913799818253
+P('boundary'|Hpam) = 8.113721926522134e-05
+P('play'|Hpam) = 0.0002920939893547968
+P('ice'|Hpam) = 3.245488770608854e-05
+P('scream'|Hpam) = 6.490977541217708e-05
+P('quite'|Hpam) = 0.0008438270803583019
+P('different'|Hpam) = 0.0015253797221861612
+P('normal'|Hpam) = 8.113721926522134e-05
+P('speed'|Hpam) = 1.622744385304427e-05
+P('without'|Hpam) = 0.0003894586524730624
+P('sound'|Hpam) = 0.00016227443853044268
+P('quiet'|Hpam) = 1.622744385304427e-05
+P('though'|Hpam) = 0.0004705958717382838
+P('issue'|Hpam) = 0.000908736855770479
+P('group'|Hpam) = 0.0004056860963261067
+P('note'|Hpam) = 0.0006490977541217707
+P('?'|Hpam) = 0.004089315850967156
+log P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -498.2949107622666
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('re'|Spam) = 0.0002963088384693532
+P(':'|Spam) = 0.01676261429055198
+P('5'|Spam) = 0.0016085336945479173
+P('.'|Spam) = 0.8805028784287166
+P('sum'|Spam) = 4.232983406705046e-05
+P('"'|Spam) = 0.12326447680325092
+P('canadian'|Spam) = 0.00016931933626820184
+P('raise'|Spam) = 0.0002116491703352523
+P(''|Spam) = 0.006942092786996275
+P('/'|Spam) = 0.01930240433457501
+P('before'|Spam) = 0.0007196071791398578
+P('stop'|Spam) = 0.0005079580088046055
+P('various'|Spam) = 8.465966813410092e-05
+P('part'|Spam) = 0.00021164917033525228
+P('eastern'|Spam) = 0.00012698950220115136
+P('us'|Spam) = 0.004232983406705046
+P('simply'|Spam) = 0.0003809685066034541
+P('someone'|Spam) = 0.0005926176769387064
+P('can't'|Spam) = 8.465966813410092e-05
+P('hear'|Spam) = 0.0003386386725364037
+P('n't'|Spam) = 0.0032170673890958346
+P('mean'|Spam) = 8.465966813410092e-05
+P(','|Spam) = 0.06578056214019641
+P('don'|Spam) = 8.465966813410092e-05
+P('j'|Spam) = 8.465966813410092e-05
+P('k'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.005333559092448358
+P('18'|Spam) = 8.465966813410092e-05
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P('better'|Spam) = 0.00021164917033525228
+P('yet'|Spam) = 0.00016931933626820184
+P('american'|Spam) = 0.0005079580088046055
+P('tell'|Spam) = 0.0002963088384693532
+P('else'|Spam) = 0.00021164917033525228
+P('word'|Spam) = 0.0003809685066034541
+P('boundary'|Spam) = 0.00012698950220115136
+P('play'|Spam) = 8.465966813410092e-05
+P('ice'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0016085336945479173
+P('speed'|Spam) = 0.0003386386725364037
+P('without'|Spam) = 0.0003386386725364037
+P('sound'|Spam) = 0.00012698950220115136
+P('though'|Spam) = 0.00016931933626820184
+P('group'|Spam) = 8.465966813410092e-05
+P('note'|Spam) = 0.00042329834067050457
+P('?'|Spam) = 0.002836098882492381
+log10 P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -153.16537656535925
+
+P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('re'|Hpam) = 0.0011196936258600545
+P(':'|Hpam) = 0.03277943658314942
+P('5'|Hpam) = 0.0008275996365052577
+P('.'|Hpam) = 0.8036154744904582
+P('sum'|Hpam) = 0.00011359210697130988
+P('"'|Hpam) = 0.24922108269505389
+P('typewriter'|Hpam) = 9.73646631182656e-05
+P('canadian'|Hpam) = 0.0006490977541217707
+P('raise'|Hpam) = 0.0010547838504478774
+P(''|Hpam) = 0.01440997014150331
+P('/'|Hpam) = 0.019132156302739192
+P('aus'|Hpam) = 0.00011359210697130988
+P('before'|Hpam) = 0.0004056860963261067
+P('voiceless'|Hpam) = 4.86823315591328e-05
+P('stop'|Hpam) = 0.00012981955082435416
+P('various'|Hpam) = 0.0003732312086200182
+P('part'|Hpam) = 0.0006166428664156822
+P('eastern'|Hpam) = 6.490977541217708e-05
+P('us'|Hpam) = 0.0015902894975983383
+P('canada'|Hpam) = 0.00017850188238348696
+P('simply'|Hpam) = 0.00024341165779566404
+P('someone'|Hpam) = 0.0005841879787095936
+P('can't'|Hpam) = 0.0001947293262365312
+P('hear'|Hpam) = 0.0007464624172400364
+P('difference'|Hpam) = 0.00032454887706088537
+P('n't'|Hpam) = 0.0028560301181357914
+P('mean'|Hpam) = 0.0006490977541217707
+P(','|Hpam) = 0.12576268986109307
+P('don'|Hpam) = 1.622744385304427e-05
+P('j'|Hpam) = 0.0004868233155913281
+P('k'|Hpam) = 0.00027586654550175254
+P(''s'|Hpam) = 0.009898740750357004
+P('journal'|Hpam) = 0.0003083214332078411
+P('linguistic'|Hpam) = 0.003748539530053226
+P('18'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.05452421134622874
+P('1973'|Hpam) = 1.622744385304427e-05
+P(')'|Hpam) = 0.05652018694015319
+P('better'|Hpam) = 0.0001460469946773984
+P('yet'|Hpam) = 0.00017850188238348696
+P('dialect'|Hpam) = 0.0011359210697130988
+P('northern'|Hpam) = 0.0002596391016487083
+P('american'|Hpam) = 0.0004705958717382838
+P('speech'|Hpam) = 0.0006977800856809035
+P('62'|Hpam) = 9.73646631182656e-05
+P('1987'|Hpam) = 4.86823315591328e-05
+P('tell'|Hpam) = 0.0006490977541217707
+P('generally'|Hpam) = 9.73646631182656e-05
+P('else'|Hpam) = 0.00024341165779566404
+P('word'|Hpam) = 0.0017687913799818253
+P('boundary'|Hpam) = 8.113721926522134e-05
+P('play'|Hpam) = 0.0002920939893547968
+P('ice'|Hpam) = 3.245488770608854e-05
+P('scream'|Hpam) = 6.490977541217708e-05
+P('quite'|Hpam) = 0.0008438270803583019
+P('different'|Hpam) = 0.0015253797221861612
+P('normal'|Hpam) = 8.113721926522134e-05
+P('speed'|Hpam) = 1.622744385304427e-05
+P('without'|Hpam) = 0.0003894586524730624
+P('sound'|Hpam) = 0.00016227443853044268
+P('quiet'|Hpam) = 1.622744385304427e-05
+P('though'|Hpam) = 0.0004705958717382838
+P('issue'|Hpam) = 0.000908736855770479
+P('group'|Hpam) = 0.0004056860963261067
+P('note'|Hpam) = 0.0006490977541217707
+P('?'|Hpam) = 0.004089315850967156
+log10 P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -216.4067301045254
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('re'|Spam) = 0.0002963088384693532
+P(':'|Spam) = 0.01676261429055198
+P('5'|Spam) = 0.0016085336945479173
+P('.'|Spam) = 0.8805028784287166
+P('sum'|Spam) = 4.232983406705046e-05
+P('"'|Spam) = 0.12326447680325092
+P('canadian'|Spam) = 0.00016931933626820184
+P('raise'|Spam) = 0.0002116491703352523
+P(''|Spam) = 0.006942092786996275
+P('/'|Spam) = 0.01930240433457501
+P('before'|Spam) = 0.0007196071791398578
+P('stop'|Spam) = 0.0005079580088046055
+P('various'|Spam) = 8.465966813410092e-05
+P('part'|Spam) = 0.00021164917033525228
+P('eastern'|Spam) = 0.00012698950220115136
+P('us'|Spam) = 0.004232983406705046
+P('simply'|Spam) = 0.0003809685066034541
+P('someone'|Spam) = 0.0005926176769387064
+P('can't'|Spam) = 8.465966813410092e-05
+P('hear'|Spam) = 0.0003386386725364037
+P('n't'|Spam) = 0.0032170673890958346
+P('mean'|Spam) = 8.465966813410092e-05
+P(','|Spam) = 0.06578056214019641
+P('don'|Spam) = 8.465966813410092e-05
+P('j'|Spam) = 8.465966813410092e-05
+P('k'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.005333559092448358
+P('18'|Spam) = 8.465966813410092e-05
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P('better'|Spam) = 0.00021164917033525228
+P('yet'|Spam) = 0.00016931933626820184
+P('american'|Spam) = 0.0005079580088046055
+P('tell'|Spam) = 0.0002963088384693532
+P('else'|Spam) = 0.00021164917033525228
+P('word'|Spam) = 0.0003809685066034541
+P('boundary'|Spam) = 0.00012698950220115136
+P('play'|Spam) = 8.465966813410092e-05
+P('ice'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0016085336945479173
+P('speed'|Spam) = 0.0003386386725364037
+P('without'|Spam) = 0.0003386386725364037
+P('sound'|Spam) = 0.00012698950220115136
+P('though'|Spam) = 0.00016931933626820184
+P('group'|Spam) = 8.465966813410092e-05
+P('note'|Spam) = 0.00042329834067050457
+P('?'|Spam) = 0.002836098882492381
+log2 P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -508.8043675764695
+
+P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('re'|Hpam) = 0.0011196936258600545
+P(':'|Hpam) = 0.03277943658314942
+P('5'|Hpam) = 0.0008275996365052577
+P('.'|Hpam) = 0.8036154744904582
+P('sum'|Hpam) = 0.00011359210697130988
+P('"'|Hpam) = 0.24922108269505389
+P('typewriter'|Hpam) = 9.73646631182656e-05
+P('canadian'|Hpam) = 0.0006490977541217707
+P('raise'|Hpam) = 0.0010547838504478774
+P(''|Hpam) = 0.01440997014150331
+P('/'|Hpam) = 0.019132156302739192
+P('aus'|Hpam) = 0.00011359210697130988
+P('before'|Hpam) = 0.0004056860963261067
+P('voiceless'|Hpam) = 4.86823315591328e-05
+P('stop'|Hpam) = 0.00012981955082435416
+P('various'|Hpam) = 0.0003732312086200182
+P('part'|Hpam) = 0.0006166428664156822
+P('eastern'|Hpam) = 6.490977541217708e-05
+P('us'|Hpam) = 0.0015902894975983383
+P('canada'|Hpam) = 0.00017850188238348696
+P('simply'|Hpam) = 0.00024341165779566404
+P('someone'|Hpam) = 0.0005841879787095936
+P('can't'|Hpam) = 0.0001947293262365312
+P('hear'|Hpam) = 0.0007464624172400364
+P('difference'|Hpam) = 0.00032454887706088537
+P('n't'|Hpam) = 0.0028560301181357914
+P('mean'|Hpam) = 0.0006490977541217707
+P(','|Hpam) = 0.12576268986109307
+P('don'|Hpam) = 1.622744385304427e-05
+P('j'|Hpam) = 0.0004868233155913281
+P('k'|Hpam) = 0.00027586654550175254
+P(''s'|Hpam) = 0.009898740750357004
+P('journal'|Hpam) = 0.0003083214332078411
+P('linguistic'|Hpam) = 0.003748539530053226
+P('18'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.05452421134622874
+P('1973'|Hpam) = 1.622744385304427e-05
+P(')'|Hpam) = 0.05652018694015319
+P('better'|Hpam) = 0.0001460469946773984
+P('yet'|Hpam) = 0.00017850188238348696
+P('dialect'|Hpam) = 0.0011359210697130988
+P('northern'|Hpam) = 0.0002596391016487083
+P('american'|Hpam) = 0.0004705958717382838
+P('speech'|Hpam) = 0.0006977800856809035
+P('62'|Hpam) = 9.73646631182656e-05
+P('1987'|Hpam) = 4.86823315591328e-05
+P('tell'|Hpam) = 0.0006490977541217707
+P('generally'|Hpam) = 9.73646631182656e-05
+P('else'|Hpam) = 0.00024341165779566404
+P('word'|Hpam) = 0.0017687913799818253
+P('boundary'|Hpam) = 8.113721926522134e-05
+P('play'|Hpam) = 0.0002920939893547968
+P('ice'|Hpam) = 3.245488770608854e-05
+P('scream'|Hpam) = 6.490977541217708e-05
+P('quite'|Hpam) = 0.0008438270803583019
+P('different'|Hpam) = 0.0015253797221861612
+P('normal'|Hpam) = 8.113721926522134e-05
+P('speed'|Hpam) = 1.622744385304427e-05
+P('without'|Hpam) = 0.0003894586524730624
+P('sound'|Hpam) = 0.00016227443853044268
+P('quiet'|Hpam) = 1.622744385304427e-05
+P('though'|Hpam) = 0.0004705958717382838
+P('issue'|Hpam) = 0.000908736855770479
+P('group'|Hpam) = 0.0004056860963261067
+P('note'|Hpam) = 0.0006490977541217707
+P('?'|Hpam) = 0.004089315850967156
+log2 P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -718.88759665693
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P('re'|Spam) = 0.0002963088384693532
+P(':'|Spam) = 0.01676261429055198
+P('5'|Spam) = 0.0016085336945479173
+P('.'|Spam) = 0.8805028784287166
+P('sum'|Spam) = 4.232983406705046e-05
+P('"'|Spam) = 0.12326447680325092
+P('canadian'|Spam) = 0.00016931933626820184
+P('raise'|Spam) = 0.0002116491703352523
+P(''|Spam) = 0.006942092786996275
+P('/'|Spam) = 0.01930240433457501
+P('before'|Spam) = 0.0007196071791398578
+P('stop'|Spam) = 0.0005079580088046055
+P('various'|Spam) = 8.465966813410092e-05
+P('part'|Spam) = 0.00021164917033525228
+P('eastern'|Spam) = 0.00012698950220115136
+P('us'|Spam) = 0.004232983406705046
+P('simply'|Spam) = 0.0003809685066034541
+P('someone'|Spam) = 0.0005926176769387064
+P('can't'|Spam) = 8.465966813410092e-05
+P('hear'|Spam) = 0.0003386386725364037
+P('n't'|Spam) = 0.0032170673890958346
+P('mean'|Spam) = 8.465966813410092e-05
+P(','|Spam) = 0.06578056214019641
+P('don'|Spam) = 8.465966813410092e-05
+P('j'|Spam) = 8.465966813410092e-05
+P('k'|Spam) = 4.232983406705046e-05
+P(''s'|Spam) = 0.005333559092448358
+P('18'|Spam) = 8.465966813410092e-05
+P('('|Spam) = 0.012444971215712834
+P(')'|Spam) = 0.014095834744327802
+P('better'|Spam) = 0.00021164917033525228
+P('yet'|Spam) = 0.00016931933626820184
+P('american'|Spam) = 0.0005079580088046055
+P('tell'|Spam) = 0.0002963088384693532
+P('else'|Spam) = 0.00021164917033525228
+P('word'|Spam) = 0.0003809685066034541
+P('boundary'|Spam) = 0.00012698950220115136
+P('play'|Spam) = 8.465966813410092e-05
+P('ice'|Spam) = 0.00012698950220115136
+P('different'|Spam) = 0.0016085336945479173
+P('speed'|Spam) = 0.0003386386725364037
+P('without'|Spam) = 0.0003386386725364037
+P('sound'|Spam) = 0.00012698950220115136
+P('though'|Spam) = 0.00016931933626820184
+P('group'|Spam) = 8.465966813410092e-05
+P('note'|Spam) = 0.00042329834067050457
+P('?'|Spam) = 0.002836098882492381
+log2 P(Spam, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -508.8043675764695
+
+P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('re'|Hpam) = 0.0011196936258600545
+P(':'|Hpam) = 0.03277943658314942
+P('5'|Hpam) = 0.0008275996365052577
+P('.'|Hpam) = 0.8036154744904582
+P('sum'|Hpam) = 0.00011359210697130988
+P('"'|Hpam) = 0.24922108269505389
+P('typewriter'|Hpam) = 9.73646631182656e-05
+P('canadian'|Hpam) = 0.0006490977541217707
+P('raise'|Hpam) = 0.0010547838504478774
+P(''|Hpam) = 0.01440997014150331
+P('/'|Hpam) = 0.019132156302739192
+P('aus'|Hpam) = 0.00011359210697130988
+P('before'|Hpam) = 0.0004056860963261067
+P('voiceless'|Hpam) = 4.86823315591328e-05
+P('stop'|Hpam) = 0.00012981955082435416
+P('various'|Hpam) = 0.0003732312086200182
+P('part'|Hpam) = 0.0006166428664156822
+P('eastern'|Hpam) = 6.490977541217708e-05
+P('us'|Hpam) = 0.0015902894975983383
+P('canada'|Hpam) = 0.00017850188238348696
+P('simply'|Hpam) = 0.00024341165779566404
+P('someone'|Hpam) = 0.0005841879787095936
+P('can't'|Hpam) = 0.0001947293262365312
+P('hear'|Hpam) = 0.0007464624172400364
+P('difference'|Hpam) = 0.00032454887706088537
+P('n't'|Hpam) = 0.0028560301181357914
+P('mean'|Hpam) = 0.0006490977541217707
+P(','|Hpam) = 0.12576268986109307
+P('don'|Hpam) = 1.622744385304427e-05
+P('j'|Hpam) = 0.0004868233155913281
+P('k'|Hpam) = 0.00027586654550175254
+P(''s'|Hpam) = 0.009898740750357004
+P('journal'|Hpam) = 0.0003083214332078411
+P('linguistic'|Hpam) = 0.003748539530053226
+P('18'|Hpam) = 0.00027586654550175254
+P('('|Hpam) = 0.05452421134622874
+P('1973'|Hpam) = 1.622744385304427e-05
+P(')'|Hpam) = 0.05652018694015319
+P('better'|Hpam) = 0.0001460469946773984
+P('yet'|Hpam) = 0.00017850188238348696
+P('dialect'|Hpam) = 0.0011359210697130988
+P('northern'|Hpam) = 0.0002596391016487083
+P('american'|Hpam) = 0.0004705958717382838
+P('speech'|Hpam) = 0.0006977800856809035
+P('62'|Hpam) = 9.73646631182656e-05
+P('1987'|Hpam) = 4.86823315591328e-05
+P('tell'|Hpam) = 0.0006490977541217707
+P('generally'|Hpam) = 9.73646631182656e-05
+P('else'|Hpam) = 0.00024341165779566404
+P('word'|Hpam) = 0.0017687913799818253
+P('boundary'|Hpam) = 8.113721926522134e-05
+P('play'|Hpam) = 0.0002920939893547968
+P('ice'|Hpam) = 3.245488770608854e-05
+P('scream'|Hpam) = 6.490977541217708e-05
+P('quite'|Hpam) = 0.0008438270803583019
+P('different'|Hpam) = 0.0015253797221861612
+P('normal'|Hpam) = 8.113721926522134e-05
+P('speed'|Hpam) = 1.622744385304427e-05
+P('without'|Hpam) = 0.0003894586524730624
+P('sound'|Hpam) = 0.00016227443853044268
+P('quiet'|Hpam) = 1.622744385304427e-05
+P('though'|Hpam) = 0.0004705958717382838
+P('issue'|Hpam) = 0.000908736855770479
+P('group'|Hpam) = 0.0004056860963261067
+P('note'|Hpam) = 0.0006490977541217707
+P('?'|Hpam) = 0.004089315850967156
+log2 P(Ham, Subject: re : 5 . 1251 sum : " typewriter " canadian raise
+
+raise / aus / before voiceless stop uncommon various part eastern us canada . simply someone can't hear difference n't mean n't , don / dawn . seed j . k . chamber 's " canadian raise " canadian journal linguistic 18 ( 1973 ) better yet timothy vance 's " canadian raise dialect northern us " american speech 62 ( 1987 ) . tell generally someone else . word boundary play . , " ice scream " " scream " quite different normal speed . " quite " without raise sound " quiet " though different . issue dialect group . ( note eh ? )
+) = -718.88759665693
+
+Conclusion: This message is classified as Spam.

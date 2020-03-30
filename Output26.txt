@@ -1,0 +1,280 @@
+P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P(''s'|Spam) = 0.005333559092448358
+P('paper'|Spam) = 0.0007619370132069082
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('?'|Spam) = 0.002836098882492381
+log P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -52.785346529275024
+
+P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('status'|Hpam) = 0.0002596391016487083
+P('chomsky'|Hpam) = 0.0020771128131896665
+P(''s'|Hpam) = 0.009898740750357004
+P('minimalist'|Hpam) = 9.73646631182656e-05
+P('paper'|Hpam) = 0.0015253797221861612
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('publication'|Hpam) = 0.0004543684278852395
+P('?'|Hpam) = 0.004089315850967156
+log P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -86.09304137459343
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P(''s'|Spam) = 0.005333559092448358
+P('paper'|Spam) = 0.0007619370132069082
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('?'|Spam) = 0.002836098882492381
+log P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -52.785346529275024
+
+P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('status'|Hpam) = 0.0002596391016487083
+P('chomsky'|Hpam) = 0.0020771128131896665
+P(''s'|Hpam) = 0.009898740750357004
+P('minimalist'|Hpam) = 9.73646631182656e-05
+P('paper'|Hpam) = 0.0015253797221861612
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('publication'|Hpam) = 0.0004543684278852395
+P('?'|Hpam) = 0.004089315850967156
+log P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -86.09304137459343
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P(''s'|Spam) = 0.005333559092448358
+P('paper'|Spam) = 0.0007619370132069082
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('?'|Spam) = 0.002836098882492381
+log2 P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -76.15315766939054
+
+P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('status'|Hpam) = 0.0002596391016487083
+P('chomsky'|Hpam) = 0.0020771128131896665
+P(''s'|Hpam) = 0.009898740750357004
+P('minimalist'|Hpam) = 9.73646631182656e-05
+P('paper'|Hpam) = 0.0015253797221861612
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('publication'|Hpam) = 0.0004543684278852395
+P('?'|Hpam) = 0.004089315850967156
+log2 P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -124.20600384617427
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P(''s'|Spam) = 0.005333559092448358
+P('paper'|Spam) = 0.0007619370132069082
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('?'|Spam) = 0.002836098882492381
+log P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -52.785346529275024
+
+P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('status'|Hpam) = 0.0002596391016487083
+P('chomsky'|Hpam) = 0.0020771128131896665
+P(''s'|Hpam) = 0.009898740750357004
+P('minimalist'|Hpam) = 9.73646631182656e-05
+P('paper'|Hpam) = 0.0015253797221861612
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('publication'|Hpam) = 0.0004543684278852395
+P('?'|Hpam) = 0.004089315850967156
+log P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -86.09304137459343
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P(''s'|Spam) = 0.005333559092448358
+P('paper'|Spam) = 0.0007619370132069082
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('?'|Spam) = 0.002836098882492381
+log10 P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -22.924384723015105
+
+P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('status'|Hpam) = 0.0002596391016487083
+P('chomsky'|Hpam) = 0.0020771128131896665
+P(''s'|Hpam) = 0.009898740750357004
+P('minimalist'|Hpam) = 9.73646631182656e-05
+P('paper'|Hpam) = 0.0015253797221861612
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('publication'|Hpam) = 0.0004543684278852395
+P('?'|Hpam) = 0.004089315850967156
+log10 P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -37.389732799254276
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P(''s'|Spam) = 0.005333559092448358
+P('paper'|Spam) = 0.0007619370132069082
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('?'|Spam) = 0.002836098882492381
+log2 P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -76.15315766939054
+
+P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('status'|Hpam) = 0.0002596391016487083
+P('chomsky'|Hpam) = 0.0020771128131896665
+P(''s'|Hpam) = 0.009898740750357004
+P('minimalist'|Hpam) = 9.73646631182656e-05
+P('paper'|Hpam) = 0.0015253797221861612
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('publication'|Hpam) = 0.0004543684278852395
+P('?'|Hpam) = 0.004089315850967156
+log2 P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -124.20600384617427
+
+Conclusion: This message is classified as Spam.
+P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P(''s'|Spam) = 0.005333559092448358
+P('paper'|Spam) = 0.0007619370132069082
+P(''|Spam) = 0.006942092786996275
+P('doe'|Spam) = 0.00012698950220115136
+P('anybody'|Spam) = 8.465966813410092e-05
+P('?'|Spam) = 0.002836098882492381
+log2 P(Spam, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -76.15315766939054
+
+P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('status'|Hpam) = 0.0002596391016487083
+P('chomsky'|Hpam) = 0.0020771128131896665
+P(''s'|Hpam) = 0.009898740750357004
+P('minimalist'|Hpam) = 9.73646631182656e-05
+P('paper'|Hpam) = 0.0015253797221861612
+P(''|Hpam) = 0.01440997014150331
+P('doe'|Hpam) = 0.0002596391016487083
+P('anybody'|Hpam) = 0.0001947293262365312
+P('publication'|Hpam) = 0.0004543684278852395
+P('?'|Hpam) = 0.004089315850967156
+log2 P(Ham, Subject: query : status chomsky 's minimalist paper
+
+doe anybody publication status chomsky 's minimalist paper ?
+) = -124.20600384617427
+
+Conclusion: This message is classified as Spam.
