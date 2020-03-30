@@ -1,0 +1,149 @@
+P(Spam, Subject: query : narrative
+
+doe anyone linguistic analysis shift between narrator character role express ? example , one switch direct quote . ' m case without dialogue where writer want express thought , feeling , perception character , . e . , writer want present perspective character . while ' m interest character 's perspective represent , ' m even interest writer linguistic device show text move narrator 's perspective character 's perspective . thank advance . wynne jani jani @ purccvm
+)
+P('Subject:'|Spam) = 0.0016508635286149678
+P(':'|Spam) = 0.00838130714527599
+P(''|Spam) = 0.0034710463934981375
+P('doe'|Spam) = 0.00012698950220115136
+P('anyone'|Spam) = 0.00016931933626820184
+P('between'|Spam) = 0.00012698950220115136
+P('express'|Spam) = 0.0008465966813410091
+P('?'|Spam) = 0.002836098882492381
+P('example'|Spam) = 8.465966813410092e-05
+P(','|Spam) = 0.032890281070098205
+P('one'|Spam) = 0.002582119878090078
+P('direct'|Spam) = 0.00012698950220115136
+P('quote'|Spam) = 4.232983406705046e-05
+P('.'|Spam) = 0.08004571622079241
+P('''|Spam) = 0.0018201828648831697
+P('m'|Spam) = 0.00042329834067050457
+P('case'|Spam) = 0.00012698950220115136
+P('without'|Spam) = 0.0003386386725364037
+P('where'|Spam) = 0.00021164917033525228
+P('want'|Spam) = 0.0016931933626820183
+P('express'|Spam) = 0.0008465966813410091
+P(','|Spam) = 0.032890281070098205
+P(','|Spam) = 0.032890281070098205
+P(','|Spam) = 0.032890281070098205
+P('.'|Spam) = 0.08004571622079241
+P('e'|Spam) = 0.0013122248560785642
+P('.'|Spam) = 0.08004571622079241
+P(','|Spam) = 0.032890281070098205
+P('want'|Spam) = 0.0016931933626820183
+P('present'|Spam) = 8.465966813410092e-05
+P('.'|Spam) = 0.08004571622079241
+P('while'|Spam) = 0.00025397900440230273
+P('''|Spam) = 0.0018201828648831697
+P('m'|Spam) = 0.00042329834067050457
+P('interest'|Spam) = 0.0006349475110057569
+P(''s'|Spam) = 0.002666779546224179
+P('represent'|Spam) = 0.00012698950220115136
+P(','|Spam) = 0.032890281070098205
+P('''|Spam) = 0.0018201828648831697
+P('m'|Spam) = 0.00042329834067050457
+P('even'|Spam) = 0.0010582458516762614
+P('interest'|Spam) = 0.0006349475110057569
+P('show'|Spam) = 0.0008465966813410091
+P('text'|Spam) = 0.0008465966813410091
+P('move'|Spam) = 0.00016931933626820184
+P(''s'|Spam) = 0.002666779546224179
+P(''s'|Spam) = 0.002666779546224179
+P('.'|Spam) = 0.08004571622079241
+P('thank'|Spam) = 0.0008042668472739587
+P('advance'|Spam) = 0.00016931933626820184
+P('.'|Spam) = 0.08004571622079241
+P('@'|Spam) = 0.001015916017609211
+P(''|Spam) = 0.0034710463934981375
+log P(Spam, Subject: query : narrative
+
+doe anyone linguistic analysis shift between narrator character role express ? example , one switch direct quote . ' m case without dialogue where writer want express thought , feeling , perception character , . e . , writer want present perspective character . while ' m interest character 's perspective represent , ' m even interest writer linguistic device show text move narrator 's perspective character 's perspective . thank advance . wynne jani jani @ purccvm
+) = -0.3159013275418996
+
+P(Ham, Subject: query : narrative
+
+doe anyone linguistic analysis shift between narrator character role express ? example , one switch direct quote . ' m case without dialogue where writer want express thought , feeling , perception character , . e . , writer want present perspective character . while ' m interest character 's perspective represent , ' m even interest writer linguistic device show text move narrator 's perspective character 's perspective . thank advance . wynne jani jani @ purccvm
+)
+P('Subject:'|Hpam) = 0.003570037647669739
+P('query'|Hpam) = 0.0006490977541217707
+P(':'|Hpam) = 0.01638971829157471
+P('narrative'|Hpam) = 6.490977541217708e-05
+P(''|Hpam) = 0.007204985070751655
+P('doe'|Hpam) = 0.0002596391016487083
+P('anyone'|Hpam) = 0.0008600545242113463
+P('linguistic'|Hpam) = 0.003748539530053226
+P('analysis'|Hpam) = 0.001022328962741789
+P('shift'|Hpam) = 6.490977541217708e-05
+P('between'|Hpam) = 0.0008113721926522134
+P('character'|Hpam) = 8.113721926522134e-05
+P('role'|Hpam) = 0.00021095677008957549
+P('express'|Hpam) = 0.00017850188238348696
+P('?'|Hpam) = 0.004089315850967156
+P('example'|Hpam) = 0.0011359210697130988
+P(','|Hpam) = 0.06288134493054653
+P('one'|Hpam) = 0.003196806439049721
+P('switch'|Hpam) = 1.622744385304427e-05
+P('direct'|Hpam) = 0.00016227443853044268
+P('quote'|Hpam) = 0.00021095677008957549
+P('.'|Hpam) = 0.07305595222640529
+P('''|Hpam) = 0.010288199402830066
+P('m'|Hpam) = 0.0013631052836557186
+P('case'|Hpam) = 0.0009574191873296118
+P('without'|Hpam) = 0.0003894586524730624
+P('dialogue'|Hpam) = 6.490977541217708e-05
+P('where'|Hpam) = 0.0009898740750357003
+P('writer'|Hpam) = 0.00021095677008957549
+P('want'|Hpam) = 0.0005841879787095936
+P('express'|Hpam) = 0.00017850188238348696
+P('thought'|Hpam) = 4.86823315591328e-05
+P(','|Hpam) = 0.06288134493054653
+P('feeling'|Hpam) = 1.622744385304427e-05
+P(','|Hpam) = 0.06288134493054653
+P('perception'|Hpam) = 9.73646631182656e-05
+P('character'|Hpam) = 8.113721926522134e-05
+P(','|Hpam) = 0.06288134493054653
+P('.'|Hpam) = 0.07305595222640529
+P('e'|Hpam) = 0.0016389718291574711
+P('.'|Hpam) = 0.07305595222640529
+P(','|Hpam) = 0.06288134493054653
+P('writer'|Hpam) = 0.00021095677008957549
+P('want'|Hpam) = 0.0005841879787095936
+P('present'|Hpam) = 0.00042191354017915097
+P('perspective'|Hpam) = 0.0001947293262365312
+P('character'|Hpam) = 8.113721926522134e-05
+P('.'|Hpam) = 0.07305595222640529
+P('while'|Hpam) = 0.00043814098403219525
+P('''|Hpam) = 0.010288199402830066
+P('m'|Hpam) = 0.0013631052836557186
+P('interest'|Hpam) = 0.0017363364922757367
+P('character'|Hpam) = 8.113721926522134e-05
+P(''s'|Hpam) = 0.004949370375178502
+P('perspective'|Hpam) = 0.0001947293262365312
+P('represent'|Hpam) = 0.0003083214332078411
+P(','|Hpam) = 0.06288134493054653
+P('''|Hpam) = 0.010288199402830066
+P('m'|Hpam) = 0.0013631052836557186
+P('even'|Hpam) = 0.0008275996365052577
+P('interest'|Hpam) = 0.0017363364922757367
+P('writer'|Hpam) = 0.00021095677008957549
+P('linguistic'|Hpam) = 0.003748539530053226
+P('show'|Hpam) = 0.0005192782032974166
+P('text'|Hpam) = 0.0008438270803583019
+P('move'|Hpam) = 0.0001947293262365312
+P(''s'|Hpam) = 0.004949370375178502
+P('perspective'|Hpam) = 0.0001947293262365312
+P('character'|Hpam) = 8.113721926522134e-05
+P(''s'|Hpam) = 0.004949370375178502
+P('perspective'|Hpam) = 0.0001947293262365312
+P('.'|Hpam) = 0.07305595222640529
+P('thank'|Hpam) = 0.0009574191873296118
+P('advance'|Hpam) = 0.0003570037647669739
+P('.'|Hpam) = 0.07305595222640529
+P('@'|Hpam) = 0.0025801635726340386
+P(''|Hpam) = 0.007204985070751655
+log P(Ham, Subject: query : narrative
+
+doe anyone linguistic analysis shift between narrator character role express ? example , one switch direct quote . ' m case without dialogue where writer want express thought , feeling , perception character , . e . , writer want present perspective character . while ' m interest character 's perspective represent , ' m even interest writer linguistic device show text move narrator 's perspective character 's perspective . thank advance . wynne jani jani @ purccvm
+) = -0.06345727630329998
+
+Conclusion: This message is classified as Ham.

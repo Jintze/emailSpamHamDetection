@@ -1,9 +1,16 @@
-# I start this assignment today, so there are not so many codes yet.
-# Most of the things I did during the lab are to figure out the 
-# requirements of it and kinda have a plan of how will I make it.
 import os
 import math
 
+# Assignment #2
+# Spam filtering using Bayes model
+# 
+# AUCSC 460
+# Author: Jinzhe Li
+# Instructor: Mi-Young Kim
+# 
+# This Python program uses Bayes model to do Spam filtering.
+
+# Read all ham train data, calculate P for them, and write them into txt file.
 def readFileHam():
     path = "Data/train/train_Lemmatized"
     files= os.listdir(path)
@@ -30,14 +37,13 @@ def readFileHam():
     for x in probability_ham_words:
         if probability_ham_words[x] == 0:
             probability_ham_words[x] += 1
-        # probability_ham_words[x] = math.log((probability_ham_words[x])/totalWordsNumHam)
         probability_ham_words[x] = probability_ham_words[x]/totalWordsNumHam
     for x,y in probability_ham_words.items():
         file = open("probability_ham_words.txt", "a")
         file.writelines(str(x) + ' ')
         file.writelines(str(y) + '\n')      
 
-
+# Read all train data, calculate P for them, and write them into txt file.
 def readFileSpam():
     path = "Data/train/train_Lemmatized"
     files= os.listdir(path)
@@ -64,7 +70,6 @@ def readFileSpam():
     for x in probability_spam_words:
         if probability_spam_words[x] == 0:
             probability_spam_words[x] += 1
-        # probability_spam_words[x] = math.log((probability_spam_words[x])/totalWordsNumSpam)
         probability_spam_words[x] = probability_spam_words[x]/totalWordsNumSpam
     for x,y in probability_spam_words.items():
         file = open("probability_spam_words.txt", "a")
